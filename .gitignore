@@ -1,1 +1,36 @@
-node_modules
+# Arquivos gerados pela construção da aplicação
+/.next/
+
+# Arquivos de dependências
+node_modules/
+
+# Arquivos de build
+/build/
+/out/
+
+# Arquivos de cache
+/.cache/
+.next/cache/
+.next/bundle-stats.json
+.next/webpack-*
+
+# Arquivo de ambiente local
+.env.local
+
+# Arquivos de logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos temporários
+*.pem
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.yml
+
+# Arquivos de configuração específicos do usuário
+.editorconfig
+.eslintcache
