@@ -1,22 +1,60 @@
+import Link from "next/link";
 import styles from "./Footer.module.css";
 export const Footer = () => {
   return (
     <div className={styles.mainContainer}>
       <div className={styles.mackleapsContainer}>
-        <img src="Logo Mackleaps.png" />
-        <h2>MACKLEAPS</h2>
+        <div style={{ display: "flex", alignItems: "center" }}>
+          <img src="Logo Mackleaps.png" alt="logo mackleaps" />
+          <h2>MACKLEAPS</h2>
+        </div>
       </div>
 
       <div className={styles.bread_crumbs}>
-        <div>
+        <div className={styles.link_column}>
           <h2 className={styles.h2}>PÁGINAS</h2>
+          <Link href="/" className={styles.link}>
+            HOME
+          </Link>
+          <Link href="/" className={styles.link}>
+            PROJETOS
+          </Link>
+          <Link href="/" className={styles.link}>
+            PESQUISA
+          </Link>
+          <Link href="/" className={styles.link}>
+            EQUIPE
+          </Link>
+          <Link href="/" className={styles.link}>
+            NOTÍCIAS
+          </Link>
+          <Link href="/" className={styles.link}>
+            SOBRE
+          </Link>
         </div>
-        <div>
+        <div className={styles.link_column}>
           <h2 className={styles.h2}>PARCERIAS</h2>
+          <img src="atech.png" alt="atech" />
         </div>
-        <div>
+        <div className={styles.link_column}>
           <h2 className={styles.h2}>CONTATOS</h2>
+          <Link href="/" className={styles.social_midias}>
+            Email
+          </Link>
+          <Link href="/" className={styles.social_midias}>
+            Linkedin
+          </Link>
+          <Link href="/" className={styles.social_midias}>
+            Instagram
+          </Link>
         </div>
+      </div>
+      <div className={styles.addres_container}>
+        <img src="map.png" alt="mapa" />
+        <p className={styles.addres}>
+          Endereço R. da Consolação, 930 - Consolação, São Paulo - SP
+        </p>
+        <p className={styles.addres}>Telefone (11)2114-8000</p>
       </div>
     </div>
   );

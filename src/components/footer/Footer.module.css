@@ -1,9 +1,11 @@
 .mainContainer {
-  background-color: #202020;
-  width: 100%;
   display: flex;
-  height: 399px;
+  justify-content: space-between;
+  height: 80%;
+  width: 80%;
 }
+
+/* Logo Container */
 .mackleapsContainer {
   font-size: 12px;
   color: #ffff;
@@ -11,17 +13,69 @@
   font-weight: 400;
   line-height: 130%;
   display: flex;
-  border: 1px solid white;
-  align-items: center;
+  align-items: flex-start;
 }
+
+/* Bread Crumbs Container */
 
 .bread_crumbs {
   display: flex;
+  justify-content: center;
   gap: 20px;
-  border: 1px solid white;
+}
+.link_column {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.link {
+  color: #ffff;
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: none;
 }
 
+.social_midias {
+  color: #ffff;
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.social_midias:hover,
+.link:hover {
+  opacity: 60%;
+  transition: 500ms;
+}
 .h2 {
   color: #ffff;
   font-size: 15px;
+}
+/* Map and Addres */
+
+.addres_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.addres {
+  width: 222px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  color: #b1b1b1;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+@media (max-width: 880px) {
+  .mainContainer {
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 25px;
+  }
+  .addres_container {
+    margin-bottom: 15px;
+  }
 }

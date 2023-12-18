@@ -1,7 +1,10 @@
 import { Outfit } from "next/font/google";
 import "./globals.css";
 import { Footer } from "@/components/footer/Footer";
-const outfit = Outfit({ subsets: ["latin"] });
+const outfit = Outfit({
+  weight: ["600", "700", "800", "400"],
+  subsets: ["latin"],
+});
 
 export const metadata = {
   title: "Mackleaps",
