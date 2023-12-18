@@ -1,0 +1,27 @@
+.mainContainer {
+  background-color: #202020;
+  width: 100%;
+  display: flex;
+  height: 399px;
+}
+.mackleapsContainer {
+  font-size: 12px;
+  color: #ffff;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  display: flex;
+  border: 1px solid white;
+  align-items: center;
+}
+
+.bread_crumbs {
+  display: flex;
+  gap: 20px;
+  border: 1px solid white;
+}
+
+.h2 {
+  color: #ffff;
+  font-size: 15px;
+}
