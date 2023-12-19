@@ -13,7 +13,9 @@ body {
   flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
+  overflow-x: hidden;
 }
+
 footer {
   background-color: var(--background-footer);
   width: 100%;

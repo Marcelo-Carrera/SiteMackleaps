@@ -5,7 +5,7 @@ export const Footer = () => {
     <div className={styles.mainContainer}>
       <div className={styles.mackleapsContainer}>
         <div style={{ display: "flex", alignItems: "center" }}>
-          <img src="Logo Mackleaps.png" alt="logo mackleaps" />
+          <img src="logo-mackleaps.png" alt="logo-mackleaps" />
           <h2>MACKLEAPS</h2>
         </div>
       </div>
