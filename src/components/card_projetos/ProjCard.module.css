@@ -1,0 +1,43 @@
+.main_container {
+  display: flex;
+  gap: 30px;
+  cursor: pointer;
+}
+
+.card_img {
+  width: 251px;
+  height: 186px;
+  border-radius: 30px;
+}
+
+.card_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+
+.span {
+  color: #e1001e;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+
+.title {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 130%;
+  text-transform: uppercase;
+}
+.description {
+  width: 459px;
+  color: #2f2f2f;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+}

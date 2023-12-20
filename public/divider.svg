@@ -1,0 +1,15 @@
+<svg width="100%" height="142" viewBox="0 0 1440 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 101C0 73.3858 22.3858 51 50 51H1390C1417.61 51 1440 73.3858 1440 101V116H0V101Z" fill="#FDFBFB"/>
+    <!-- Retângulo ocupando 100% do comprimento da página -->
+    <rect x="0" y="53" width="100%" height="37" fill="#D9D9D9"/>
+    <!-- Círculo no centro -->
+    <circle cx="50%" cy="71" r="45" fill="#202020"/>
+    <!-- Máscara para o ícone -->
+    <mask id="mask0_8_13" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="50%" y="53" width="37" height="37">
+      <rect x="50%" y="53" width="37" height="37" fill="#D9D9D9" />
+    </mask>
+    <!-- Grupo mascarado para o ícone -->
+    <g mask="url(#mask0_8_13)">
+      <path d="M719.5 83.8333L707.167 71.5L709.325 69.3031L717.958 77.9365V59.1667H721.042V77.9365L729.675 69.3031L731.833 71.5L719.5 83.8333Z" fill="white"/>
+    </g>
+  </svg>

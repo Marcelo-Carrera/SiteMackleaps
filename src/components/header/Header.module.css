@@ -54,6 +54,7 @@
   right: 0;
   transition: right 300ms ease-in-out;
   background-color: #202020;
+  z-index: 1;
 }
 
 .closed {

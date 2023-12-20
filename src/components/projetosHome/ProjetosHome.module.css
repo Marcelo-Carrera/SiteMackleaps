@@ -1,0 +1,36 @@
+.main_container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  width: 55%;
+}
+
+.card_container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.projetosHome {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.h2 {
+  color: #202020;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 130%;
+  text-transform: uppercase;
+}
+
+.p {
+  color: #202020;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+}

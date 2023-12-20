@@ -1,0 +1,15 @@
+.moreButton {
+  border-radius: 9999px;
+  width: 100px;
+  height: 40px;
+  background-color: #e1001e;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.moreButton:hover {
+  scale: 115%;
+  transition: 300ms;
+}

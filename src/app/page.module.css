@@ -4,15 +4,43 @@
   flex-direction: column;
   align-items: center;
   min-height: 60vh;
-  background-image: url("../../public/fundo-fci.svg");
+  background-image: url("../../public/fundo-fci2.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   justify-content: space-between;
 }
-
+.main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+}
 .header_img_div {
   width: 80%;
+}
+
+.divider {
+  background-color: #fdfbfb;
+  position: relative;
+  width: 100%;
+  border-radius: 30px 30px 0px 0px;
+  top: -40px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrow_div {
+  position: relative;
+  border-radius: 50%;
+  background-color: #fdfbfb;
+  display: flex;
+  width: 130px;
+  height: 130px;
+  align-items: center;
+  top: -35%;
+  justify-content: center;
 }
 
 .header_img {
@@ -28,13 +56,16 @@
     width: 500px;
     margin-bottom: 50px;
   }
+  .arrow_div {
+    scale: 70%;
+  }
 }
 
-@media (max-width: 580px) {
-  .header {
-    min-height: 40vh;
-  }
+@media (max-width: 600px) {
   .header_img {
     width: 232px;
+  }
+  .arrow_div {
+    scale: 50%;
   }
 }
