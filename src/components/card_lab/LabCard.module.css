@@ -1,0 +1,11 @@
+.main_container {
+  width: 255px;
+  height: 330px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: rgba(235, 237, 238, 0.7);
+}
+
+.card_img {
+  border-radius: 20px 20px 0px 0px;
+}

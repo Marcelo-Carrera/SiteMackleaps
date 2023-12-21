@@ -3,6 +3,8 @@ import styles from "./page.module.css";
 import { Header } from "@/components/header/Header";
 import { Card } from "@/components/card/Card";
 import { ProjetosHome } from "@/components/projetosHome/ProjetosHome";
+import { LabHome } from "@/components/labHome/LabHome";
+import { LabCard } from "@/components/card_lab/labCard";
 
 export default function Home() {
   return (
@@ -23,6 +25,8 @@ export default function Home() {
         </div>
       </div>
       <main className={styles.main}>
+        <LabCard />
+        <LabHome />
         <ProjetosHome />
         <Card />
       </main>
