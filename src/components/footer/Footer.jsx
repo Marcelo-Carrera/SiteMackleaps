@@ -49,12 +49,12 @@ export const Footer = () => {
           </Link>
         </div>
       </div>
-      <div className={styles.addres_container}>
+      <div className={styles.address_container}>
         <img src="map.png" alt="mapa" />
-        <p className={styles.addres}>
+        <p className={styles.address}>
           Endereço R. da Consolação, 930 - Consolação, São Paulo - SP
         </p>
-        <p className={styles.addres}>Telefone (11)2114-8000</p>
+        <p className={styles.address}>Telefone (11)2114-8000</p>
       </div>
     </div>
   );

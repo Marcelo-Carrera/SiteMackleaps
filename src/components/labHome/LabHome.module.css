@@ -1,17 +1,58 @@
 .labHome {
-  width: 55%;
   display: flex;
+  gap: 30px;
   align-items: flex-start;
+}
+
+.text_container {
+  display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
 .h2 {
-  width: 35%;
+  width: 350px;
   color: #202020;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
   line-height: 130%;
   text-transform: uppercase;
+}
+
+.card_container {
+  display: flex;
+  gap: 20px;
+}
+
+@media (max-width: 970px) {
+  .labHome {
+    flex-direction: column;
+  }
+  .text_container {
+    width: 530px;
+  }
+  .h2 {
+    width: 530px;
+  }
+}
+
+@media (max-width: 590px) {
+  /*.labHome {
+    transform: scale(60%);
+  }
+*/
+  .labHome {
+    align-items: center;
+  }
+  .text_container {
+    width: 300px;
+  }
+  .h2 {
+    width: auto;
+    font-size: 25px;
+  }
+  .card_container {
+    gap: 10px;
+  }
 }

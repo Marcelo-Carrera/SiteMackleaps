@@ -33,7 +33,7 @@
 
 .search_button:hover {
   transform: scale(1.25);
-  transition: 500ms;
+  transition: 300ms;
 }
 
 .hamburguer {

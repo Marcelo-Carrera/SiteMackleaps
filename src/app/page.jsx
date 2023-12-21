@@ -4,7 +4,7 @@ import { Header } from "@/components/header/Header";
 import { Card } from "@/components/card/Card";
 import { ProjetosHome } from "@/components/projetosHome/ProjetosHome";
 import { LabHome } from "@/components/labHome/LabHome";
-import { LabCard } from "@/components/card_lab/labCard";
+import { PesquisaHome } from "@/components/pesquisa_home/PesquisaHome";
 
 export default function Home() {
   return (
@@ -24,10 +24,11 @@ export default function Home() {
           <img src="black_arrow.png" alt="" className={styles.black_arrow} />
         </div>
       </div>
+
       <main className={styles.main}>
-        <LabCard />
         <LabHome />
         <ProjetosHome />
+        <PesquisaHome />
         <Card />
       </main>
     </>
