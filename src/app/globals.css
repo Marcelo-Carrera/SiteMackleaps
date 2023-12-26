@@ -25,6 +25,7 @@ footer {
   justify-content: center;
   align-items: center;
   min-height: 35vh;
+  position: relative;
 }
 @media (max-width: 880px) {
   footer {

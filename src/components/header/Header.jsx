@@ -24,6 +24,9 @@ export const Header = () => {
             PESQUISAS
           </Link>
           <Link href="/" className={styles.link}>
+            NOTÍCIAS
+          </Link>
+          <Link href="/" className={styles.link}>
             EQUIPE
           </Link>
           <Link href="/" className={styles.link}>
@@ -64,6 +67,9 @@ export const Header = () => {
         </Link>
         <Link href="/" className={styles.link_hamburguer}>
           PESQUISAS
+        </Link>
+        <Link href="/" className={styles.link_hamburguer}>
+          NOTÍCIAS
         </Link>
         <Link href="/" className={styles.link_hamburguer}>
           EQUIPE

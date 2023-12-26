@@ -1,0 +1,48 @@
+{
+  "noticias_home": [
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704067200&Signature=fhtUnM00ZJ31sOnCWJjWMkY8B8wRPz-cpnLxaveV~R~BdMyCv8PDc~VE-cwVZcDDpTyM9SJQjqxCVP32iFYKRWCqHEhvX0fmY~Wjj-BvQi9td5xbiAKN3VDBqogxosuPsIP9EWkyAFM~Ae2i1bDFAiR7JIBS6qQWMn0prIzBWfCHadXuiYKoK9O1jWSkJ3E3diXYlJdeezW0CHL864IEF0Eyv7xvXw-wngKNarWmGI52kP48VDIzvkiBDhuzI6R9Erc2ecRTCSh0jxU-7rmxPYcfYwc2r6cIzCWx9QWHp2gA8sDm1ivE9IapngZG8UneVIBN9cAntOzcR1neK1VXbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "18 ago. 2023",
+      "title": "Karine choi e joão pedro trabalham duro em protótipo",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/bfa6/301b/834edf54bd0a13f178eacdf6614826e5?Expires=1704067200&Signature=ZlRFssUayQaRWCZk-baAlQ3Dn20lD5PfMhfGRCVtAQAw~IMhmAXt025Gs5CdRfwT-U7Px6r3TXniXVwfqiaZzDF3LLQS0uw-WAlX9r8Cp0s0cltGiNk-wNkPsw1tadpv~GsCZPT48tq-n1fk8Nqes0muj74xMdJ~eLJpuuuphK66Gbow6ED3OG6qRnqeZWfGt5ne4UIN31ajgx9a~EozfVrff5M3P2o3P1AAg2hNYooujzVPCWnaDa36yta4ID86fDs3xiB2rIg7GEkREdbkJhA2mG1h~UfAgF3QfoRMCsJCTCaqFbCkH1I~Qk7TX50nigGeg0TN4KpSsgCRQpwUxQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "18 ago. 2023",
+      "title": "Karine choi e joão pedro trabalham duro em protótipo",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+  "pesquisa_home": [
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/c2b5/efdc/b7ac7c5155d247c0bc0f2a38b2e9f3fa?Expires=1704067200&Signature=cLdMKmGw5N9r9XxFXKi~W0QFMr5lcXX3V6k7l2XW0yKALNq5Lmjpc0YewAJ4L6wn3wPxol9VEDDKjyH5kyprw41fXXIbB9PyWZrUuwWiFOeR4qvyFreMlNmJ9S5162ZOa2WkWivAAYHcBu8wCaQlXPnt6A0Bv2s2TvfdE5ExACaxQ48afLsKlaDL8~PEj0Eh~gz0pB6TvXFpEZ5iCpmW6zR1SKd5M1Q3Q-h1TOpScNOvY9aSgBSTuWfOIM9ig9XVeycC7cAtOIkAQVm05k4O-R5eCT6OCeUWKzukSOv5S6xkIXDQ6Izx2Pbo7JzQdi8Pfg4lMwPTURgQv0rqPEE3dw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "txt": "Proposta de um modelo de PSP adaptado a Autodireção em Fases aplicado para o desenvolvimento de maturidade em alunos iniciantes em Computação",
+      "url": ""
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/3424/6d4e/785193ac8503037b69daf2ab80672dcc?Expires=1704067200&Signature=Qo3SeX8~bwrRwlPrgBuzCjJzv5BEmY3yhhfWfSFxyCsPTt~ZLLi8jYu6DT6Q01r0R6i8MMi97Z4YluLq5okQIkDxQiyTN37R~9OnStyD5yRyEmM4imuqZ2oIoYYJ4ba6lP5nJ00frX08dZT79Gt6NxhwQXGMrwiW4Tjw0h9MTlJTRNh~Om6C9YUxCc~Rv43jueDrKmaEG~bNWtvPRrCiOC-wAOhX0F3mBBdus91AE9rdGo-at4HmnyxOlroxPiWbkB2slWMHWMVGNJ9IX0eAjx2iNBswPdX479DXKyzI3~ZBHdSbp0vRlR5badSx9maVSmSR-LwFLEcQm1b8j50RKQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "txt": "Modelo de arquitetura de software da plataforma de índice de sustentabilidade Mackenzie-FIESP.",
+      "url": ""
+    }
+  ],
+  "projetos_home": [
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/5a77/c42f/09e3fae2308fd2cdc6e4fd1c32a75500?Expires=1704067200&Signature=GnTKBaTZ9GeM88~MdbpLqWSpPRTQBAaNIfZTZRztYViG~BYzHG5YWwCudJUKGlcNPgrt72RBh73LTs-D4o7G-1OmCNUAG9iu3HjsVhYz-yctdeC4DfIiNGH2S7kLWQeTRSCQUhqPhBq3dhiydWt04ZwEdtqRDRBPjlqtgvfr4LC~hVJ8LXHAJyBqZt~h5fAyeORgsmmoailz8~xcWiELi9MM1hTFhq9ZVWp9vRyI6zGGs5jAktXHEVD0YlgZ~d~JwHLGxHMyRyS~ulsZXc0OonKtRvmPMGyalRfUFIILplDK2Kf5WDLff7PDONgXx4HfnZahYxpirtAuOErMjkhpBQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "status": "Em Andamento",
+      "title": "Estação Meteorológica",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704067200&Signature=N-NaU5GcHRCERjPFtRNf-54QgI~YKcK2dRFePdXLhSXFAuvqpfbkTJXJT4biKwWrHN0493fuWBWkXGvvUogv2-LOgqVhXOE9aNBlBVfXAGpWpV5hEoIk-Xf7D4OrnoBsxyTQYKrwrjGHmUelkbq9MwUKjux1et9n35Umn4E4-Uhuh97M4OOxcMR2Om~w1ubO6G-s8blVQtKMnerYKJqrWiFnARoU1KLaMomz1b5YzI21--zTQbo~hx-LWKyB4tt6JzHJZVmlmpzkPyONDtMmAvXJYZPkrSUDprBLEpUblIdo9M0UGNZCsmIu1ux5cF5DSZ9EFYuTcI-uXv~vnjgtEw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "status": "Em Andamento",
+      "title": "Site Mackleaps",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/04d8/971b/d7c8487c1bcfbfc05b40e4523843e22a?Expires=1704067200&Signature=W3yZw2K5QhknxTNzKYWDTHH0iKZ~5sqE3OKSi6hPBw4Qsof1Jc~9NH~WqYh7xny4S8lwCkR33sRqxN3DLQqlvbkRao2vT3amVj6wAZJ81jYATjR-bitCexYFdT7ztAIaPj8dNI2Y8WtMS3p8ytILwBa0NtdKllCK3J0k5KkbZrY3YgthHke4v0CpR-B9fFIq-46FUDeyHwoUptV0gWSbxqa62gyslqpAFHr5-Ig4Q5sMKn6B0BdCoKwEFBV3qWG1g9yof6Wz-7ymo7Gyk4DseKxRytdHVY2wiE4uR3Sc2gkT1pgYzYpaEZCXkZxYZinzOcn-6OqxI9W8tf3xtMzoJQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "status": "Em Andamento",
+      "title": "Contador de gente",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+}
