@@ -6,10 +6,10 @@ const outfit = Outfit({
 });
 
 export const metadata = {
-  title: "Notícias",
+  title: "Projetos",
   description: "Site Mackleaps",
 };
 
-export default function NewsLayout({ children }) {
+export default function ProjectLayout({ children }) {
   return <>{children}</>;
 }

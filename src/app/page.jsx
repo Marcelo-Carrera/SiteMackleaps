@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import { Header } from "@/components/header/Header";
+import { Navbar } from "@/components/navbar/Navbar";
 import { Card } from "@/components/card/Card";
 import { ProjetosHome } from "@/components/projetosHome/ProjetosHome";
 import { LabHome } from "@/components/labHome/LabHome";
@@ -13,22 +13,6 @@ export default async function Home() {
   const latest_studies = await getResearch();
   return (
     <>
-      <header className={styles.header}>
-        <Header />
-        <div className={styles.header_img_div}>
-          <img
-            src="titulo-mackleaps.png"
-            alt="logo"
-            className={styles.header_img}
-          />
-        </div>
-      </header>
-      <div className={styles.divider}>
-        <div className={styles.arrow_div}>
-          <img src="black_arrow.png" alt="" className={styles.black_arrow} />
-        </div>
-      </div>
-
       <main className={styles.main}>
         <LabHome json={latest_news} />
         <ProjetosHome json={latest_projects} />

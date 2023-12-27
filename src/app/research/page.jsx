@@ -7,7 +7,7 @@ export default async function Page() {
   const news = await getNews();
   return (
     <main className={styles.main}>
-      <PageTitle title="notícias" subtitle="últimas notícias" />
+      <PageTitle title="pesquisa" subtitle="todas as produções científicas" />
       <section className={styles.card_div}>
         {news.map((elem, index) => {
           return (

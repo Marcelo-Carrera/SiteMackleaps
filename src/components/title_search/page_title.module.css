@@ -1,0 +1,44 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 80%;
+}
+.h1 {
+  color: #e1001e;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 100%;
+  text-transform: uppercase;
+}
+.search_div {
+  display: flex;
+}
+.input {
+  width: 450px;
+  height: 51px;
+  border: 1px solid #2f2f2f;
+  border-radius: 15px;
+  font-size: 16px;
+  padding: 10px;
+}
+.search_btn {
+  position: relative;
+  right: 50px;
+  cursor: pointer;
+}
+
+.hr {
+  border: 2px solid #d1cfcf;
+  width: 100%;
+}
+
+.subtext {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%;
+  text-transform: uppercase;
+}

@@ -44,5 +44,79 @@
       "title": "Contador de gente",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
+  ],
+  "noticias": [
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "title": "NASA's Perseverance Rover Discovers Ancient Riverbed on Mars",
+      "description": "The recent findings by NASA's Perseverance rover unveil an ancient riverbed on Mars, shedding light on the planet's watery past."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "25 Mar. 2023",
+      "title": "Breakthrough in Climate Change Research: Antarctic Ice Loss Accelerates",
+      "description": "Recent research highlights an alarming acceleration in the loss of Antarctic ice, posing severe threats to global sea-level rise."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "5 May 2023",
+      "title": "AI Breakthrough: Self-Driving Cars Reach Unprecedented Safety Milestone",
+      "description": "The latest advancements in AI-powered self-driving cars mark a historic achievement in safety, surpassing human driving records."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "12 Jul. 2023",
+      "title": "Medical Breakthrough: CRISPR Gene Editing Shows Promise in Curing Genetic Diseases",
+      "description": "CRISPR gene editing exhibits promising results in treating various genetic diseases, offering hope for future therapies."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "19 Sep. 2023",
+      "title": "Renewable Energy Surpasses Coal in Global Electricity Generation",
+      "description": "Renewable energy sources surpass coal in global electricity generation, marking a significant milestone in sustainable power."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "7 Nov. 2023",
+      "title": "SpaceX Successfully Launches Mission to Colonize Mars",
+      "description": "SpaceX achieves a historic milestone with a successful mission launch aimed at establishing a colony on Mars."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "15 Jan. 2023",
+      "title": "Breakthrough in Quantum Computing: Quantum Supremacy Achieved",
+      "description": "A major breakthrough in quantum computing attains quantum supremacy, heralding a new era in computational power."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "28 Feb. 2023",
+      "title": "Major Advancements in Cancer Treatment: Immunotherapy Revolutionizes Therapy",
+      "description": "Immunotherapy showcases remarkable advancements in cancer treatment, offering new hope for patients worldwide."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "8 Apr. 2023",
+      "title": "Breakthrough in Energy Storage: New Battery Technology Extends Lifespan",
+      "description": "A breakthrough in energy storage introduces new battery technology, significantly extending battery lifespan."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "20 Jun. 2023",
+      "title": "AI Transforms Healthcare: Predictive Algorithms Improve Disease Diagnosis",
+      "description": "Artificial intelligence revolutionizes healthcare with predictive algorithms enhancing disease diagnosis accuracy."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "3 Aug. 2023",
+      "title": "Breakthrough in Renewable Energy: Solar Power Becomes Cheaper Than Fossil Fuels",
+      "description": "Renewable energy achieves a milestone as solar power becomes more cost-effective than traditional fossil fuels."
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "12 Oct. 2023",
+      "title": "Advancements in AI Assistants: Virtual Companions Enhance Mental Well-being",
+      "description": "AI-powered virtual companions show promising results in enhancing mental health and well-being among users."
+    }
   ]
 }

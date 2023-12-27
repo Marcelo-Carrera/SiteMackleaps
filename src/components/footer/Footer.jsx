@@ -16,16 +16,16 @@ export const Footer = () => {
           <Link href="/" className={styles.link}>
             HOME
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/projects" className={styles.link}>
             PROJETOS
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/research" className={styles.link}>
             PESQUISA
           </Link>
           <Link href="/" className={styles.link}>
             EQUIPE
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/news" className={styles.link}>
             NOTÍCIAS
           </Link>
           <Link href="/" className={styles.link}>
