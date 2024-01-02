@@ -119,48 +119,83 @@
       "description": "AI-powered virtual companions show promising results in enhancing mental health and well-being among users."
     }
   ],
-  "membros": [
+  "responsaveis": [
     {
-      "img": "",
-      "name": "",
-      "function": "",
-      "period": "",
-      "course": ""
+      "img": "./public/members/dirceu.jpg",
+      "name": "Dirceu Matheus Junior",
+      "role": "Coordenador de Pós-Graduação"
     },
     {
-      "img": "",
-      "name": "",
-      "function": "",
-      "period": "",
-      "course": ""
+      "img": "./public/members/anaclaudiarossi.jpg",
+      "name": "Ana Claudia Rossi",
+      "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "",
-      "name": "",
-      "function": "",
-      "period": "",
-      "course": ""
+      "img": "./public/members/fabio.jpg",
+      "name": "Fábio Lopes",
+      "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "",
-      "name": "",
-      "function": "",
-      "period": "",
-      "course": ""
+      "img": "./public/members/maria.jpg",
+      "name": "Maria Amelia",
+      "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "",
-      "name": "",
-      "function": "",
-      "period": "",
-      "course": ""
+      "img": "./public/members/CalebeDePaula.jpg",
+      "name": "Calebe de Paula",
+      "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "",
-      "name": "",
-      "function": "",
-      "period": "",
-      "course": ""
+      "img": "./public/members/ivan.jpg",
+      "name": "Ivan Carlos Alcantara de Oliveira",
+      "role": "Auxilia o laboratório Mackleaps"
+    },
+    {
+      "img": "./public/members/renata.jpg",
+      "name": "Renata Maria Nogueira de Oliveira",
+      "role": "Auxilia o laboratório Mackleaps"
+    },
+    {
+      "img": "./public/members/regiane.jpg",
+      "name": "Regiane Moreno",
+      "role": "Auxilia o laboratório Mackleaps"
+    },
+    {
+      "img": "./public/members/kassya.jpg",
+      "name": "Kassya Christina Rigolon de Andrade",
+      "role": "Auxilia o laboratório Mackleaps"
+    },
+    {
+      "img": "./public/members/elisangela.jpg",
+      "name": "Elisângela Botelho Gracias",
+      "role": "Auxilia o laboratório Mackleaps"
+    },
+    {
+      "img": "./public/members/leandro.jpg",
+      "name": "Leandro Carlos Fernandes",
+      "role": "Auxilia o laboratório Mackleaps"
+    }
+  ],
+  "colaboradores": [
+    {
+      "img": "./public/members/joao.jpg",
+      "name": "João Ricardo de Lima Bonifácio",
+      "role": "Laboratorista"
+    },
+    {
+      "img": "https://media.licdn.com/dms/image/D4D03AQFC3s8Jds3SzQ/profile-displayphoto-shrink_800_800/0/1672375336635?e=1709769600&v=beta&t=HKkseVG2F2ngOq6_9ed7Opoo10hiN-f06D_zu2fkfOs",
+      "name": "Gustavo Garabetti Munhoz",
+      "role": "Estagiário"
+    },
+    {
+      "img": "https://media.licdn.com/dms/image/D4D03AQHR9zRoqAs5ag/profile-displayphoto-shrink_800_800/0/1683133174208?e=1709769600&v=beta&t=UauI5yB-qrnLDfoOVGoK8-6qib2xAP9i0RUyZTWDGWQ",
+      "name": "Álvaro Hibide Claver",
+      "role": "Estagiário"
+    },
+    {
+      "img": "https://media.licdn.com/dms/image/D4D03AQHWKPF7QcWcWQ/profile-displayphoto-shrink_800_800/0/1695410478314?e=1709769600&v=beta&t=p4Q0B4UhKv7gp0jntk1Tc-9UYoY-jYFLWCAFoCNAw7g",
+      "name": "Erika Borges Piaui",
+      "role": "Estagiário"
     }
   ]
 }

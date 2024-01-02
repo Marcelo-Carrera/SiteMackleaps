@@ -1,0 +1,31 @@
+.mainCard {
+    width: 100px;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+ .cardImage{
+    border-radius: 150px;
+    width: 150px;
+    height: 150px;
+ }
+
+ .cardText {
+    align-items: center;
+ }
+
+.image {
+    width: 100%;
+}
+
+.name{
+    color: #000;
+    font-size: 15px;
+    font-weight: 800px;
+    text-transform: uppercase;
+}
+
+.role{
+    color: #2F2F2F;
+}
