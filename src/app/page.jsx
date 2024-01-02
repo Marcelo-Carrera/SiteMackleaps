@@ -11,6 +11,7 @@ export default async function Home() {
   const latest_news = await getLatestNews();
   const latest_projects = await getProjects();
   const latest_studies = await getResearch();
+
   return (
     <>
       <main className={styles.main}>

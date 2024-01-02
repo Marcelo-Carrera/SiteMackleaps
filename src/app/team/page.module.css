@@ -1,0 +1,26 @@
+.main {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px;
+}
+
+.h1 {
+  color: #e1001e;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.h2 {
+  color: #202020;
+}
+
+.p {
+  color: #2f2f2f;
+  font-style: normal;
+  line-height: 150%;
+  font-weight: 400;
+  width: 606px;
+}
