@@ -1,6 +1,6 @@
 import styles from "./TeamCard.module.css"
 
-export const TeamCard = ({img, name, role}) => {
+export const TeamCard = ({img, name, role, date}) => {
     return (
         <div className={styles.mainCard}>
             <div className={styles.cardImage}>
@@ -8,7 +8,12 @@ export const TeamCard = ({img, name, role}) => {
             </div>
             <div className={styles.cardText}>
                 <h3 className={styles.name}>{name}</h3>
-                <p className={styles.role}>{role}</p>
+                {
+                    role?(<p className={styles.role}>{role}</p>):""
+                }
+                {
+                    date?(<p className={styles.date}>{date}</p>):""
+                }
             </div>
         </div>
     )

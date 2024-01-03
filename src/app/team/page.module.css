@@ -1,9 +1,17 @@
 .main {
-  width: 80%;
   display: flex;
+  width: 80%;
+  padding-bottom: 20px;
   flex-direction: column;
-  justify-content: flex-start;
-  gap: 40px;
+  gap: 20px;
+}
+
+.card_div{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 50px 40px;
 }
 
 .h1 {
@@ -14,6 +22,7 @@
 }
 
 .h2 {
+  margin-top: 60px;
   color: #202020;
 }
 
@@ -25,6 +34,3 @@
   width: 606px;
 }
 
-.cardDiv {
-  
-}

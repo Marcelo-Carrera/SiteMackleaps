@@ -121,64 +121,64 @@
   ],
   "responsaveis": [
     {
-      "img": "./public/members/dirceu.jpg",
+      "img": "members/dirceu.jpg",
       "name": "Dirceu Matheus Junior",
       "role": "Coordenador de Pós-Graduação"
     },
     {
-      "img": "./public/members/anaclaudiarossi.jpg",
+      "img": "members/anaclaudiarossi.jpg",
       "name": "Ana Claudia Rossi",
       "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "./public/members/fabio.jpg",
+      "img": "members/fabio.jpg",
       "name": "Fábio Lopes",
       "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "./public/members/maria.jpg",
+      "img": "members/maria.jpg",
       "name": "Maria Amelia",
       "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "./public/members/CalebeDePaula.jpg",
+      "img": "members/CalebeDePaula.jpg",
       "name": "Calebe de Paula",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "./public/members/ivan.jpg",
+      "img": "members/ivan.jpg",
       "name": "Ivan Carlos Alcantara de Oliveira",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "./public/members/renata.jpg",
+      "img": "members/renata.jpg",
       "name": "Renata Maria Nogueira de Oliveira",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "./public/members/regiane.jpg",
+      "img": "members/regiane.jpg",
       "name": "Regiane Moreno",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "./public/members/kassya.jpg",
+      "img": "members/kassya.jpg",
       "name": "Kassya Christina Rigolon de Andrade",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "./public/members/elisangela.jpg",
+      "img": "members/elisangela.jpg",
       "name": "Elisângela Botelho Gracias",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "./public/members/leandro.jpg",
+      "img": "members/leandro.jpg",
       "name": "Leandro Carlos Fernandes",
       "role": "Auxilia o laboratório Mackleaps"
     }
   ],
   "colaboradores": [
     {
-      "img": "./public/members/joao.jpg",
+      "img": "members/joao.jpeg",
       "name": "João Ricardo de Lima Bonifácio",
       "role": "Laboratorista"
     },
@@ -196,6 +196,223 @@
       "img": "https://media.licdn.com/dms/image/D4D03AQHWKPF7QcWcWQ/profile-displayphoto-shrink_800_800/0/1695410478314?e=1709769600&v=beta&t=p4Q0B4UhKv7gp0jntk1Tc-9UYoY-jYFLWCAFoCNAw7g",
       "name": "Erika Borges Piaui",
       "role": "Estagiário"
+    }
+  ], 
+  "excolaboradores": [
+    {
+      "img": "/formerMembers/GabrielMeloFranciscoCorreia.png",
+      "name": "Gabriel Melo Francisco Correia",
+      "date": "2018"
+    },
+    {
+      "img": "/formerMembers/MatheusGois.png",
+      "name": "Mateus Gois",
+      "date": "2017 a 2019"
+    },
+    {
+      "img": "/formerMembers/ErickLopes.png",
+      "name": "Erick Fernando Doria Lopes",
+      "date": "2017 a 2019"
+    },
+    {
+      "img": "/formerMembers/IagoSalomon.jpg",
+      "name": "Iago Salomon",
+      "date": "2018"
+    },
+    {
+      "img": "/formerMembers/WolfgangWalder.png",
+      "name": "Wolfgang Walder",
+      "date": "2018"
+    },
+    {
+      "img": "/formerMembers/GuilhermeLopesdeOliveira.png",
+      "name": "Guilherme Lopes de Oliveira",
+      "date": "2019 a 2020"
+    },
+    {
+      "img": "/formerMembers/AlanRicardo.png",
+      "name": "Alan Ricardo",
+      "date": "2019 a 2020"
+    },
+    {
+      "img": "/formerMembers/GabrielSouza.jpg",
+      "name": "Gabriel Souza",
+      "date": "2019 a 2020"
+    },
+    {
+      "img": "/formerMembers/RafaelLua.jpg",
+      "name": "Rafael Lua",
+      "date": "2019 a 2020"
+    },
+    {
+      "img": "/formerMembers/RobertoTsunki.jpg",
+      "name": "Roberto Tsunki",
+      "date": "2020"
+    },
+    {
+      "img": "/formerMembers/LeandroReis.jpeg",
+      "name": "Leandro Reis",
+      "date": "2019 a 2020"
+    },
+    {
+      "img": "/formerMembers/MarceloTakayama.png",
+      "name": "Marcelo Takayama",
+      "date": "2019 a 2020"
+    },
+    {
+      "img": "/formerMembers/GiovanniVicario.png",
+      "name": "Giovanni Vicário",
+      "date": "2019"
+    },
+    {
+      "img": "/formerMembers/IsabelaRuizRoquedaSilva.png",
+      "name": "Isabela Ruiz Roque da Silva",
+      "date": "2019 a 2021"
+    },
+    {
+      "img": "/formerMembers/Bruno.jpg",
+      "name": "Bruno Eduardo",
+      "date": "2021"
+    },
+    {
+      "img": "/formerMembers/Renato Alves Ribeiro.jpeg",
+      "name": "Renato Alves Ribeiro",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/EduardoKobaiashi.png",
+      "name": "Eduardo Kobaiashi",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/GuilhermeReis.png",
+      "name": "Guilherme Reis",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/LeandroSoaresDantas.png",
+      "name": "Leandro Soares Dantas",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/GustavoKozonoe.jpeg",
+      "name": "Gustavo Kozonoe",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/BrunaDiGiovanni.png",
+      "name": "Bruna Di Giovanni",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/DanielDLima.png",
+      "name": "Daniel D. Lima",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/Lucas.jpg",
+      "name": "Lucas",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/VitorRavacci.png",
+      "name": "Vitor Ravacci",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/BrunoDaSilva.jpg",
+      "name": "Bruno da Silva",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/Kleber.png",
+      "name": "Kleber Yoshida",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/semFoto.png",
+      "name": "Gabriel Lemos",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/semFoto.png",
+      "name": "Lucas Hort",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/RafaelVieira.jpeg",
+      "name": "Rafael Vieira Brancaccio",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/semFoto.png",
+      "name": "Caio Dias",
+      "date": ""
+    },
+    {
+      "img": "/formerMembers/Sabrinna.jpg",
+      "name": "Sabrinna Delgado",
+      "date": "2019 a 2022"
+    },
+    {
+      "img": "/formerMembers/Leandro.png",
+      "name": "Leandro Alexandre",
+      "date": "2018"
+    },
+    {
+      "img": "/formerMembers/Leticia.jpg",
+      "name": "Letícia Colombo",
+      "date": "2021 a 2022"
+    },
+    {
+      "img": "/formerMembers/Claudia.jpg",
+      "name": "Claudia Fiorentino Andrade",
+      "date": "2021 a 2022"
+    },
+    {
+      "img": "/formerMembers/Silvestre.jpeg",
+      "name": "Matheus Oliveira Silvestre",
+      "date": "2021 a 2022"
+    },
+    {
+      "img": "/formerMembers/Mikael.jpg",
+      "name": "Mikael Muniz",
+      "date": "2020 a 2023"
+    },
+    {
+      "img": "/formerMembers/andre.jpeg",
+      "name": "André Philipe Andriotti de Moraes",
+      "date": "2022 a 2023"
+    },
+    {
+      "img": "/formerMembers/beatriz.jpg",
+      "name": "Beatriz Marmo Scaglione",
+      "date": "2022"
+    },
+    {
+      "img": "/formerMembers/irvin.jpg",
+      "name": "Irvin Ken Xavier Tavares",
+      "date": "2022"
+    },
+    {
+      "img": "/formerMembers/MatheusPortilho.jpeg",
+      "name": "Matheus de Oliveira Portilho",
+      "date": "2022"
+    },
+    {
+      "img": "https://media.licdn.com/dms/image/C4E03AQG6Br7OvrJz1Q/profile-displayphoto-shrink_800_800/0/1598549518408?e=1709769600&v=beta&t=re8A62UzhQpHWyrsd_2POVcCKh4VSW_sgTM8rfFwhzw",
+      "name": "Lucas Ellery Viana",
+      "date": "2022 a 2023"
+    },
+    {
+      "img": "/formerMembers/zezinho.jpeg",
+      "name": "José Eduardo Bernardino Jorge",
+      "date": "2022 a 2023"
+    },
+    {
+      "img": "/formerMembers/lidia.png",
+      "name": "Lídia Carolina",
+      "date": "2023"
     }
   ]
 }
