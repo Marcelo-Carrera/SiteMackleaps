@@ -1,0 +1,8 @@
+.title{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; /* 52px */
+    text-transform: capitalize;
+    color: #E1001E;
+}

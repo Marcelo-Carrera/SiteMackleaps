@@ -7,7 +7,7 @@ export const Card = () => {
         Alunos da FCI e de outras unidades acadêmicas podem participar dos
         nossos projetos. A participação pode ser virtual ou presencial, o
         vínculo pode ser voluntário ou bolsista estagiário. Nossos projetos
-        proporcionam a vínculo a programas de PIBIC/PIVIC e geram horas de
+        proporcionam o vínculo a programas de PIBIC/PIVIC e geram horas de
         Atividades Complementares para os participantes.
       </p>
       <div className={styles.btn_container}>

@@ -27,7 +27,7 @@ export default async function Page() {
       </p>
       <h2 className={styles.h2}>Parcerias</h2>
       <div className={styles.parceria}>
-        <img src="atech.png" alt="atech" className={styles.image} />
+        <img src="/atech.png" alt="atech" className={styles.image} />
       </div>
     </main>
   );

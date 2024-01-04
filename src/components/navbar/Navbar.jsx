@@ -14,7 +14,9 @@ export const Navbar = () => {
     <>
       <div className={styles.mainContainer}>
         <div>
-          <img src="logo-mackleaps.png" alt="logo-mackleaps" />
+          <Link href="/" className={styles.link}>
+            <img src="/logo-mackleaps.png" alt="logo-mackleaps" />
+          </Link>
         </div>
         <div className={styles.link_container}>
           <Link href="/projects" className={styles.link}>
@@ -26,23 +28,23 @@ export const Navbar = () => {
           <Link href="/news" className={styles.link}>
             NOTÍCIAS
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/team" className={styles.link}>
             EQUIPE
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/about" className={styles.link}>
             SOBRE
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/contact" className={styles.link}>
             CONTATO
           </Link>
           <img
-            src="pesquisa.png"
+            src="/pesquisa.png"
             alt="pesquisar"
             className={styles.search_button}
           />
         </div>
         <img
-          src="hamburguer.png"
+          src="/hamburguer.png"
           alt="menu"
           className={styles.hamburguer}
           onClick={() => handleHamburguer()}
@@ -51,12 +53,12 @@ export const Navbar = () => {
       <div className={position ? styles.hamburguer_menu : styles.closed}>
         <div className={styles.icons_Hamburguer}>
           <img
-            src="pesquisa.png"
+            src="/pesquisa.png"
             alt="pesquisar"
             className={styles.search_button}
           />
           <img
-            src="close.png"
+            src="/close.png"
             alt="fechar"
             className={styles.search_button}
             onClick={() => handleHamburguer()}

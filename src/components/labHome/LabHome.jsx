@@ -18,6 +18,7 @@ export const LabHome = ({ json }) => {
             description={news.description}
             date={news.date}
             key={index}
+            link="/news"
           />
         ))}
       </div>

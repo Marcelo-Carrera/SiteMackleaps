@@ -25,99 +25,294 @@
       "url": ""
     }
   ],
+  "projetos":[
+    {
+      "id":"1",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Em Andamento",
+      "title": "Estação Meteorológica",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real."
+     
+    },
+    {
+      "id":"2",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Em Andamento",
+      "title": "Site Mackleaps",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Tem como escopo divulgar pesquisas e projetos relacionados à tecnologia e recrutar potenciais membros e parceiros."
+     
+    },
+    {
+      "id":"3",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Em Andamento",
+      "title": "Contador de gente",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie."
+    },
+    {
+      "id":"4",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Em Andamento",
+      "title": "Oriente 2.0",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "É um sistema de submissão/acompanhamento de TCC que permite melhor visualização para professores e alunos sobre seus projetos."
+    },
+    {
+      "id":"5",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "AR-TWO",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Aplicativo para identificação de transtornos no pulmão, através de um mecanismo de sopro que fornece, além de diagnósticos, tratamentos."
+    },
+    {
+      "id":"6",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "IDT",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Modelo de processo para triagem de alunos com sinais de Transtorno do Espectro do Autismo e de Deficiência Intelectual."
+    },
+    {
+      "id":"7",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "ISMF",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Sistema de Criação do Índice de Sustentabilidade da Universidade Presbiteriana Mackenzie."
+    },
+    {
+      "id":"8",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "Tagarela",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Ferramenta de validação digital para a identificação precoce de déficits de linguagem em crianças."
+    },
+    {
+      "id":"9",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "Plataforma de força",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Avaliação do equilíbrio postural de seres humanos por meio de uma plataforma de força."
+    },
+    {
+      "id":"10",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "Mackenzie voluntário",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Plataforma Web para o Mackenzie Voluntário que visa o cadastro de projetos e dos participantes de ações sociais."
+    },
+    {
+      "id":"11",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "Latin Project",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Plataforma para disponibilização gratuita de livros eletrônicos feitos por professores e autores locais na América Latina."
+    },
+    {
+      "id":"12",
+      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "date": "10 Jan. 2023",
+      "status": "Concluído",
+      "title": "Computador de bordo",
+      "body":"Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque. Lorem ipsum dolor sit amet. Et autem atque eum expedita voluptatem et alias omnis aut pariatur mollitia 33 labore enim ut quia nostrum. Et voluptate sint est dolores suscipit et quasi quibusdam. Ut molestiae rerum non quisquam voluptas qui dicta amet ut nihil assumenda qui numquam dolore. Nam omnis commodi et delectus maiores aut nesciunt tempora. Et animi esse id laudantium aliquid et iusto eaque qui temporibus ratione. Sit suscipit omnis sed vitae necessitatibus eos autem velit. Aut labore dolorem sed consequuntur accusantium aut autem repellat. Et voluptatibus consequatur et repellendus totam in laborum commodi. Quo praesentium voluptates eos iusto quod aut quis eaque.",
+      "description": "Aplicação para o Controle do Carro Elétrico, protótipo ultraeficiente movido a energia elétrica desenvolvido pela Escola de Engenharia do Mackenzie."
+    }
+  ],
   "projetos_home": [
     {
       "img": "https://s3-alpha-sig.figma.com/img/5a77/c42f/09e3fae2308fd2cdc6e4fd1c32a75500?Expires=1704067200&Signature=GnTKBaTZ9GeM88~MdbpLqWSpPRTQBAaNIfZTZRztYViG~BYzHG5YWwCudJUKGlcNPgrt72RBh73LTs-D4o7G-1OmCNUAG9iu3HjsVhYz-yctdeC4DfIiNGH2S7kLWQeTRSCQUhqPhBq3dhiydWt04ZwEdtqRDRBPjlqtgvfr4LC~hVJ8LXHAJyBqZt~h5fAyeORgsmmoailz8~xcWiELi9MM1hTFhq9ZVWp9vRyI6zGGs5jAktXHEVD0YlgZ~d~JwHLGxHMyRyS~ulsZXc0OonKtRvmPMGyalRfUFIILplDK2Kf5WDLff7PDONgXx4HfnZahYxpirtAuOErMjkhpBQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "status": "Em Andamento",
       "title": "Estação Meteorológica",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real."
     },
     {
       "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704067200&Signature=N-NaU5GcHRCERjPFtRNf-54QgI~YKcK2dRFePdXLhSXFAuvqpfbkTJXJT4biKwWrHN0493fuWBWkXGvvUogv2-LOgqVhXOE9aNBlBVfXAGpWpV5hEoIk-Xf7D4OrnoBsxyTQYKrwrjGHmUelkbq9MwUKjux1et9n35Umn4E4-Uhuh97M4OOxcMR2Om~w1ubO6G-s8blVQtKMnerYKJqrWiFnARoU1KLaMomz1b5YzI21--zTQbo~hx-LWKyB4tt6JzHJZVmlmpzkPyONDtMmAvXJYZPkrSUDprBLEpUblIdo9M0UGNZCsmIu1ux5cF5DSZ9EFYuTcI-uXv~vnjgtEw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "status": "Em Andamento",
       "title": "Site Mackleaps",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "description": "Tem como escopo divulgar pesquisas e projetos relacionados à tecnologia e recrutar potenciais membros e parceiros."
     },
     {
       "img": "https://s3-alpha-sig.figma.com/img/04d8/971b/d7c8487c1bcfbfc05b40e4523843e22a?Expires=1704067200&Signature=W3yZw2K5QhknxTNzKYWDTHH0iKZ~5sqE3OKSi6hPBw4Qsof1Jc~9NH~WqYh7xny4S8lwCkR33sRqxN3DLQqlvbkRao2vT3amVj6wAZJ81jYATjR-bitCexYFdT7ztAIaPj8dNI2Y8WtMS3p8ytILwBa0NtdKllCK3J0k5KkbZrY3YgthHke4v0CpR-B9fFIq-46FUDeyHwoUptV0gWSbxqa62gyslqpAFHr5-Ig4Q5sMKn6B0BdCoKwEFBV3qWG1g9yof6Wz-7ymo7Gyk4DseKxRytdHVY2wiE4uR3Sc2gkT1pgYzYpaEZCXkZxYZinzOcn-6OqxI9W8tf3xtMzoJQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "status": "Em Andamento",
       "title": "Contador de gente",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie."
     }
   ],
   "noticias": [
     {
+      "id": "1",
       "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "10 Jan. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "NASA's Perseverance Rover Discovers Ancient Riverbed on Mars",
-      "description": "The recent findings by NASA's Perseverance rover unveil an ancient riverbed on Mars, shedding light on the planet's watery past."
+      "description": "The recent findings by NASA's Perseverance rover unveil an ancient riverbed on Mars, shedding light on the planet's watery past.",
+      "body": [
+        "<p>NASA's Perseverance Rover has made a groundbreaking discovery on the Martian surface, uncovering evidence of an ancient riverbed that suggests the presence of flowing water in Mars' distant past. The rover, equipped with state-of-the-art instruments and technology, has been exploring the Jezero Crater since its touchdown in February 2021.</p>",
+        "<p>Recent data transmitted by Perseverance indicates the presence of sedimentary rocks, smooth pebbles, and intricate patterns in the terrain, pointing towards the existence of a river system that once flowed through the area. Scientists believe that these findings provide substantial evidence for the possibility of a sustained water environment billions of years ago.</p>",
+        "<p>Dr. Maria Rodriguez, a geologist on the Perseverance mission team, expressed her excitement about the discovery, stating, 'The evidence of an ancient riverbed on Mars is a significant milestone in our quest to understand the planet's geological history. This finding opens up new possibilities for exploring the potential habitability of Mars in its ancient past.'</p>",
+        "<p>The Jezero Crater, where the riverbed was found, was chosen as a landing site for Perseverance due to its high potential for harboring signs of past microbial life. The rover's sophisticated instruments, including cameras, spectrometers, and a sample-collecting system, continue to analyze the Martian surface to gather more clues about the planet's history and potential for sustaining life.</p>",
+        "<p>This discovery marks a significant milestone in our understanding of Mars and its potential to have supported life in the past. Scientists are eager to delve deeper into the findings and further explore the intriguing mysteries of the Red Planet.</p>",
+        "<p>As Perseverance continues its mission, the hope remains that more groundbreaking discoveries will shed light on Mars' ancient history and pave the way for future human exploration of the planet.</p>"
+      ]
     },
     {
+      "id": "2",
       "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "25 Mar. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "Breakthrough in Climate Change Research: Antarctic Ice Loss Accelerates",
-      "description": "Recent research highlights an alarming acceleration in the loss of Antarctic ice, posing severe threats to global sea-level rise."
-    },
+      "description": "Recent research highlights an alarming acceleration in the loss of Antarctic ice, posing severe threats to global sea-level rise.",
+      "body": [
+        "<p>Recent studies conducted by a team of international researchers reveal alarming trends in the melting of Antarctic ice, indicating a significant acceleration in the ice loss. The findings, published in the 'Journal of Climate,' suggest that the rate of ice loss in Antarctica has tripled over the past decade.</p>",
+        "<p>Scientists analyzed satellite data spanning several years to assess the changes in the Antarctic ice sheet. The results indicate that Antarctica is losing ice at an unprecedented rate, contributing significantly to rising sea levels worldwide.</p>",
+        "<p>Dr. Emily Carter, lead researcher of the study, expressed concerns about the implications of this accelerated ice loss, stating, 'The rapid decline of Antarctic ice is a clear indication of the ongoing impacts of climate change. This could have catastrophic consequences for coastal regions, leading to increased flooding and coastal erosion.'</p>",
+        "<p>The study's findings suggest that the melting of Antarctic ice could contribute substantially to global sea-level rise in the coming years, posing a severe threat to low-lying coastal areas and island nations.</p>",
+        "<p>As climate change continues to be a pressing global issue, scientists emphasize the urgency of taking immediate and decisive action to mitigate its effects. Understanding the accelerated ice loss in Antarctica serves as a critical reminder of the need for concerted efforts to reduce carbon emissions and combat climate change on a global scale.</p>"
+      ]
+    }, 
     {
+      "id": "3",
       "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1704672000&Signature=UhvRyOjohYKq94olbzOOhN6q0sj09qFQyM68KaKAVbQD30d5UqhOpdes9NvWR4sM40LgX3gYeJakFU0fS~FfiRNgjtsmMqcd1s2KIfy8DlpddvlgMEpzM15MjR56VjDebR~~zAN36mKl-FDThSZwjVCQhFznI1R0qizJB6LiWuXETm9f1DD0lF~YbPDg~Fb-RS66uRs7zCQhwRN0Hrdh06anpB-JsTif~7J1wYnYRNk106YQrC4CNeB5HkNVd22wy38Nq~9NokQgdfnE2LDAoH0jHHfrJ3c-xG3kcA8MAMv-WRtKH1ODxaBxJZSqtmnW-i9dEuoi4PcnDMd4cm1lCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "5 May 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "AI Breakthrough: Self-Driving Cars Reach Unprecedented Safety Milestone",
-      "description": "The latest advancements in AI-powered self-driving cars mark a historic achievement in safety, surpassing human driving records."
-    },
+      "description": "The latest advancements in AI-powered self-driving cars mark a historic achievement in safety, surpassing human driving records.",
+      "body": [
+        "<p>Groundbreaking advancements in artificial intelligence have propelled self-driving cars to a historic milestone in safety, surpassing human driving capabilities. Recent trials conducted by leading tech companies demonstrate remarkable progress in autonomous vehicle technology.</p>",
+        "<p>Utilizing sophisticated AI algorithms and state-of-the-art sensors, self-driving cars have showcased an unprecedented safety record. These vehicles have navigated complex urban environments, anticipated road hazards, and reacted swiftly to ensure passenger safety.</p>",
+        "<p>Dr. Sophia Rodriguez, a prominent AI researcher, commented on this achievement, stating, 'The exceptional safety performance of self-driving cars showcases the immense potential of AI in revolutionizing transportation. It represents a significant leap forward in enhancing road safety and redefining the future of mobility.'</p>",
+        "<p>The success of self-driving cars in achieving unparalleled safety standards underscores the transformative impact of AI on the automotive industry. As technology continues to evolve, these advancements pave the way for a future with safer and more efficient transportation systems.</p>"
+      ]
+    },  
     {
+      "id": "4",
       "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "12 Jul. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "Medical Breakthrough: CRISPR Gene Editing Shows Promise in Curing Genetic Diseases",
-      "description": "CRISPR gene editing exhibits promising results in treating various genetic diseases, offering hope for future therapies."
+      "description": "CRISPR gene editing exhibits promising results in treating various genetic diseases, offering hope for future therapies.",
+      "body": [
+        "<p>Recent advancements in genetic engineering through CRISPR gene editing have sparked optimism in the medical field. Scientists and researchers have observed promising outcomes in the treatment of various genetic diseases.</p>",
+        "<p>CRISPR technology, known for its precision in altering genetic sequences, has shown remarkable potential in correcting faulty genes linked to hereditary disorders. Experimental trials have demonstrated successful gene modifications in laboratory settings, providing hope for potential therapies.</p>",
+        "<p>Dr. Michael Johnson, a leading geneticist involved in CRISPR research, expressed enthusiasm about the breakthrough, stating, 'The success of CRISPR in targeting specific genes offers a revolutionary approach in tackling genetic diseases. This technology holds immense promise in providing effective treatments for previously incurable conditions.'</p>",
+        "<p>The positive outcomes observed in CRISPR gene editing trials signal a new era in medicine, offering possibilities for treating a wide range of genetic disorders. While further research and clinical studies are necessary, these initial results bring hope for future therapies and cures.</p>"
+      ]
     },
     {
+      "id": "5",
       "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "19 Sep. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "Renewable Energy Surpasses Coal in Global Electricity Generation",
-      "description": "Renewable energy sources surpass coal in global electricity generation, marking a significant milestone in sustainable power."
-    },
+      "description": "Renewable energy sources surpass coal in global electricity generation, marking a significant milestone in sustainable power.",
+      "body": [
+        "<p>The global energy landscape has reached a transformative point as renewable energy sources, including solar, wind, and hydroelectric power, have exceeded coal in electricity generation.</p>",
+        "<p>Recent statistics from international energy agencies indicate that renewables contributed to over 40% of the world's electricity production, surpassing coal for the first time in history. This shift signifies a remarkable milestone in the ongoing transition towards sustainable energy.</p>",
+        "<p>The increasing affordability and accessibility of renewable technologies, coupled with growing environmental concerns, have propelled the rapid adoption of clean energy solutions globally. Governments and industries have invested substantially in renewable infrastructure, driving the expansion of solar and wind farms, and hydropower projects.</p>",
+        "<p>Experts predict that this trend will continue, with renewable energy becoming the dominant source of electricity in the coming years. The shift away from fossil fuels signifies a crucial step forward in mitigating climate change and ensuring a cleaner, more sustainable future for generations to come.</p>"
+      ]
+    },    
     {
+      "id": "6",
       "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "7 Nov. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "SpaceX Successfully Launches Mission to Colonize Mars",
-      "description": "SpaceX achieves a historic milestone with a successful mission launch aimed at establishing a colony on Mars."
+      "description": "SpaceX achieves a historic milestone with a successful mission launch aimed at establishing a colony on Mars.",
+      "body": [
+        "<p>SpaceX has made history once again as it successfully launched a mission aimed at establishing a human colony on Mars.</p>",
+        "<p>The mission, named 'Red Horizon,' marks a monumental leap in space exploration, with the ultimate goal of making life multi-planetary. Aboard the SpaceX Starship, a crew of twelve astronauts embarked on the journey of a lifetime, carrying essential supplies, infrastructure, and cutting-edge technology necessary for building a sustainable habitat on the red planet.</p>",
+        "<p>Elon Musk, the visionary CEO of SpaceX, expressed his excitement about the mission's success, stating, 'This is a crucial step toward ensuring the survival of humanity beyond Earth. We're on our way to making Mars a place where humans can thrive.'</p>",
+        "<p>Experts predict that the colonization of Mars could open doors to scientific discoveries, advancements in technology, and potentially solve challenges related to resource scarcity on Earth. The mission's success has sparked global enthusiasm and renewed interest in space exploration.</p>"
+      ]
     },
     {
+      "id": "7",
       "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "15 Jan. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "Breakthrough in Quantum Computing: Quantum Supremacy Achieved",
-      "description": "A major breakthrough in quantum computing attains quantum supremacy, heralding a new era in computational power."
+      "description": "A major breakthrough in quantum computing attains quantum supremacy, heralding a new era in computational power.",
+      "body": [
+        "<p>Researchers have made an unprecedented breakthrough in the field of quantum computing by achieving a significant milestone known as quantum supremacy.</p>",
+        "<p>This monumental achievement, reached after years of intensive research, involves a quantum computer solving a complex problem that would be practically impossible for classical computers to handle within a reasonable timeframe.</p>",
+        "<p>The quantum processor, developed by a team of scientists at a leading tech institute, demonstrated its ability to perform computations exponentially faster than the most advanced supercomputers available today.</p>",
+        "<p>Quantum supremacy has opened the door to a new era of computational power, promising solutions to previously insurmountable problems across various industries, including cryptography, materials science, and drug discovery.</p>"
+      ]
     },
     {
+      "id": "8",
       "img": "https://s3-alpha-sig.figma.com/img/97f9/fc56/f27dfcc45c8e6e83b09d7915b32ccbf2?Expires=1704672000&Signature=WfCgULxKIgXL5W~wVXPWXA-~Ip8RR0ruyKHuXAflZ39DWFo1sog4fXcc3rn89e7tRuIxLwpxfj1gXZJL4veAlDzV6btgregELFZaxzRDcuLkoTURam15a~5MC05UWLh1KVZo8S706plt075MUD1LZ7WftYhfINM7F9~YoHZ0-scq5MyJCwi2m4cjfgOjaZB0rk2SLf~7abSUErie0CCT34yGtGahDH0gMsevuprxulkQ7X-VceqKGzqSvV32bKLgl0x8GMMJpq0u1VA~b6iVq9ZWFN~jb4hmPgz61249GwGGaDfCEgL-fe55MTmvJDImEQMdQe-HOIBToVbr1nTGbA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "28 Feb. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "Major Advancements in Cancer Treatment: Immunotherapy Revolutionizes Therapy",
-      "description": "Immunotherapy showcases remarkable advancements in cancer treatment, offering new hope for patients worldwide."
+      "description": "Immunotherapy showcases remarkable advancements in cancer treatment, offering new hope for patients worldwide.",
+      "body": [
+        "<p>A recent breakthrough in cancer treatment has emerged through the application of immunotherapy, revolutionizing conventional therapy approaches.</p>",
+        "<p>Immunotherapy, a cutting-edge treatment method, harnesses the body's immune system to combat cancer cells more effectively and with fewer side effects compared to traditional treatments like chemotherapy and radiation therapy.</p>",
+        "<p>This groundbreaking approach, developed after years of research and clinical trials, marks a significant shift in the fight against various types of cancer, demonstrating promising results in patients with previously untreatable forms of the disease.</p>",
+        "<p>Researchers believe that immunotherapy holds immense potential to transform the landscape of cancer treatment, offering new avenues for personalized and more targeted therapies that improve survival rates and enhance patients' quality of life.</p>"
+      ]
     },
     {
+      "id": "9",
       "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "8 Apr. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "Breakthrough in Energy Storage: New Battery Technology Extends Lifespan",
-      "description": "A breakthrough in energy storage introduces new battery technology, significantly extending battery lifespan."
+      "description": "A breakthrough in energy storage introduces new battery technology, significantly extending battery lifespan.",
+      "body": [
+        "<p>A recent breakthrough in energy storage technology promises to revolutionize the battery industry, offering a remarkable increase in battery lifespan.</p>",
+        "<p>This innovation comes as a result of years of research aimed at enhancing the efficiency and durability of batteries across various sectors, from consumer electronics to renewable energy storage systems.</p>",
+        "<p>The new battery technology employs novel materials and design principles that mitigate common issues such as degradation and capacity loss over time, thus addressing key limitations of conventional battery systems.</p>",
+        "<p>Industry experts anticipate that this advancement will not only lead to more reliable and long-lasting batteries for everyday devices but will also play a crucial role in bolstering the expansion of renewable energy resources by providing more efficient energy storage solutions.</p>"
+      ]
     },
     {
+      "id": "10",
       "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "date": "20 Jun. 2023",
+      "author": "Administrador",
+      "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dMRaYCx6cCU97OjBDt3lKu8xI9r44QhDHuH7pB6ar5vuLvU91N3vTpJmP2YJ7bEbyBDz7cXHrFjavnJviWwnqqiqRkdHxPJeZ3uYIbZbTMsK3WyGMKGAaMpnj53v7sP3yXbO1sxz9rGSe9nehp4paMy9~jXk9GIinqWoAnd6iJUmOFxNfebFm2yTJY3rhzNUF44~-hu8tJg-5VPcaiHHFEHCYgzbcbAasUomy0fpeJNSidtMBV4FJL02FViAdG5b5QUDxxU1mVN31m92KGh8k3Aszh5upte~CrdwhTEQrOq5JwKouj-Q290ZxtZ8oxo-~xKU64NJ6Q7TlTfijB~hlg__",
       "title": "AI Transforms Healthcare: Predictive Algorithms Improve Disease Diagnosis",
-      "description": "Artificial intelligence revolutionizes healthcare with predictive algorithms enhancing disease diagnosis accuracy."
-    },
-    {
-      "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-      "date": "3 Aug. 2023",
-      "title": "Breakthrough in Renewable Energy: Solar Power Becomes Cheaper Than Fossil Fuels",
-      "description": "Renewable energy achieves a milestone as solar power becomes more cost-effective than traditional fossil fuels."
-    },
-    {
-      "img": "https://s3-alpha-sig.figma.com/img/25d9/e1af/4191feea1ba0af6fd5959a9d7c839b77?Expires=1704672000&Signature=A2XsMTy4cXfune1KMzaby-LCjtnF2f5V3FAy3uclBf63Qh5xs-GC7~KCwLXIi1GmAF5CL3JYwGOlFq2tg5M4AZ1ENs0uLZoYQpRf2BZerU3k2k2WsFBl5P5Xqhb67VRDU1s3YMG3ApLOTrCBPSTJqcK0Sg-gzGvJLSmdrr77rBqXBqF2vtVFlKkYUmjFeS3DUNrHtWkmaF5NV81F3AqJOE5lAywncAlN2z~Ul~tL~PqnFgNj1V3a697zigtXB7fpFgE5pFtZZtkgRpIVCyaplglSluGIMW471gSr~ld9wnzxsiBY-Q0WIPJHJtOxFGvVwt3tTEmbclMFMYqVLHlhBA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-      "date": "12 Oct. 2023",
-      "title": "Advancements in AI Assistants: Virtual Companions Enhance Mental Well-being",
-      "description": "AI-powered virtual companions show promising results in enhancing mental health and well-being among users."
+      "description": "Artificial intelligence revolutionizes healthcare with predictive algorithms enhancing disease diagnosis accuracy.",
+      "body": [
+        "<p>Além da precisão diagnóstica, a inteligência artificial também está impulsionando o desenvolvimento de terapias personalizadas. Ao analisar vastos conjuntos de dados genômicos e informações médicas de pacientes, os algoritmos de IA podem identificar padrões únicos que delineiam respostas potenciais a diferentes tratamentos. Isso permite a criação de abordagens terapêuticas altamente adaptadas às necessidades individuais de cada paciente, otimizando os resultados e minimizando os efeitos colaterais.</p>",
+        "<p>A implementação de algoritmos de IA nos sistemas de saúde não apenas fortalece as capacidades diagnósticas, mas também fortifica os sistemas de triagem e prevenção de doenças. Esses sistemas, quando alimentados com dados precisos e atualizados, são capazes de prever surtos epidemiológicos, monitorar padrões de saúde pública e facilitar estratégias preventivas, promovendo a saúde da população em escala global.</p>",
+        "<p>Entretanto, a ampla adoção de tecnologias baseadas em inteligência artificial na área da saúde enfrenta desafios significativos, como a garantia da acessibilidade universal a essas inovações, a mitigação de viéses algorítmicos e a preservação da segurança cibernética para proteger informações confidenciais dos pacientes.</p>",
+        "<p>À medida que a inteligência artificial continua a se infiltrar na área da saúde, a colaboração entre profissionais de saúde e especialistas em IA é crucial. A educação e o treinamento de médicos e pesquisadores em tecnologias de IA são fundamentais para maximizar os benefícios dessas inovações e garantir que sejam aplicadas de maneira ética e eficaz.</p>",
+        "<p>Em resumo, a ascensão da inteligência artificial na saúde é um divisor de águas, prometendo revolucionar não apenas o diagnóstico e tratamento de doenças, mas também remodelar todo o panorama da saúde, proporcionando uma abordagem mais holística, precisa e acessível ao cuidado médico.</p>"
+      ]
     }
+   
   ],
   "responsaveis": [
     {
@@ -413,6 +608,14 @@
       "img": "/formerMembers/lidia.png",
       "name": "Lídia Carolina",
       "date": "2023"
+    }
+  ],
+  "releted": [
+    {
+
+    },
+    {
+
     }
   ]
 }

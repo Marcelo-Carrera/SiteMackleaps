@@ -5,7 +5,7 @@ export const Footer = () => {
     <div className={styles.mainContainer}>
       <div className={styles.mackleapsContainer}>
         <div style={{ display: "flex", alignItems: "center" }}>
-          <img src="logo-mackleaps.png" alt="logo-mackleaps" />
+          <img src="/logo-mackleaps.png" alt="logo-mackleaps" />
           <h2>MACKLEAPS</h2>
         </div>
       </div>
@@ -22,19 +22,19 @@ export const Footer = () => {
           <Link href="/research" className={styles.link}>
             PESQUISA
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/team" className={styles.link}>
             EQUIPE
           </Link>
           <Link href="/news" className={styles.link}>
             NOTÍCIAS
           </Link>
-          <Link href="/" className={styles.link}>
+          <Link href="/about" className={styles.link}>
             SOBRE
           </Link>
         </div>
         <div className={styles.link_column}>
           <h2 className={styles.h2}>PARCERIAS</h2>
-          <img src="atech.png" alt="atech" />
+          <img src="/atech.png" alt="atech" />
         </div>
         <div className={styles.link_column}>
           <h2 className={styles.h2}>CONTATOS</h2>
@@ -50,7 +50,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className={styles.address_container}>
-        <img src="map.png" alt="mapa" />
+        <img src="/map.png" alt="mapa" />
         <p className={styles.address}>
           Endereço R. da Consolação, 930 - Consolação, São Paulo - SP
         </p>

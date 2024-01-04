@@ -17,6 +17,7 @@ export default async function Page() {
               title={elem.title}
               description={elem.description}
               key={index}
+              link="/projects"
             />
           );
         })}

@@ -26,8 +26,8 @@ export const PesquisaHome = ({ json }) => {
       <div className={styles.text}>
         <h2 className={styles.h2}>PESQUISAS</h2>
         <p className={styles.p}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
-          eiusmodtempor incididunt ut labore et dolore magna aliqua.
+          Ao lado é possível ver algumas das pesquisas realizadas em nosso laboratório, 
+          aperte em saiba mais para obter mais informações.
         </p>
         <MoreButton />
       </div>
