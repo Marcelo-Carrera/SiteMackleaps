@@ -1,0 +1,27 @@
+.main{
+    
+    width: 975px;
+    height: 612px;
+    border-radius: 20px;
+    background: #f3eaea;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.h1{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #E1001E;
+    font-size: 20px;
+    width: 300px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.p{
+    margin-left: 30px;
+}
+
+.item{
+}

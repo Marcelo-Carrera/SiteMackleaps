@@ -1,6 +1,7 @@
 import { getNews } from "@/services/topics"
 import styles from "./page.module.css"
 import { Relacionados } from "@/components/relacionados/Relacionados";
+
 export async function generateStaticParams(){
     const news = await getNews();
     return news.map((item)=>({id:item.id}))

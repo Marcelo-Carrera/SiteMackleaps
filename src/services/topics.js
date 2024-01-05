@@ -37,3 +37,13 @@ export const getFormerCollaborators = async () => {
   }
   return response.json();
 };
+
+export const getRelatedTexts = async () => {
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/related`, {
+    cache: "no-store",
+  });
+  if (!response.ok) {
+    throw new Error("Failed to fetch data");
+  }
+  return response.json();
+};
