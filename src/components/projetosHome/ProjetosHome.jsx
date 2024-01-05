@@ -2,6 +2,7 @@ import styles from "./ProjetosHome.module.css";
 import { MoreButton } from "@/components/moreButton/MoreButton";
 import { ProjCard } from "@/components/card_projetos/ProjCard";
 import { getLatestNews, getProjects, getResearch } from "@/services/home";
+import Link from "next/link";
 // const json = [
 //   {
 //     img: "https://s3-alpha-sig.figma.com/img/5a77/c42f/09e3fae2308fd2cdc6e4fd1c32a75500?Expires=1704067200&Signature=GnTKBaTZ9GeM88~MdbpLqWSpPRTQBAaNIfZTZRztYViG~BYzHG5YWwCudJUKGlcNPgrt72RBh73LTs-D4o7G-1OmCNUAG9iu3HjsVhYz-yctdeC4DfIiNGH2S7kLWQeTRSCQUhqPhBq3dhiydWt04ZwEdtqRDRBPjlqtgvfr4LC~hVJ8LXHAJyBqZt~h5fAyeORgsmmoailz8~xcWiELi9MM1hTFhq9ZVWp9vRyI6zGGs5jAktXHEVD0YlgZ~d~JwHLGxHMyRyS~ulsZXc0OonKtRvmPMGyalRfUFIILplDK2Kf5WDLff7PDONgXx4HfnZahYxpirtAuOErMjkhpBQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
@@ -36,7 +37,9 @@ export const ProjetosHome = async () => {
           Confira abaixo os principais projetos em desenvolvimento no
           laboratório
         </p>
-        <MoreButton />
+        <Link href="/projects" className={styles.link}>
+          <MoreButton />
+        </Link>
       </div>
       <div className={styles.card_container}>
         {json.map((project, index) => (

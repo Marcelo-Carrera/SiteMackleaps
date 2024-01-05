@@ -5,10 +5,12 @@ export const Footer = () => {
     <div className={styles.mainContainer}>
       <div className={styles.mackleapsContainer}>
         <div style={{ display: "flex", alignItems: "center" }}>
-          <Link href="/projects" className={styles.link}>
+          <Link href="/" className={styles.link}>
             <img src="/logo-mackleaps.png" alt="logo-mackleaps" />
           </Link>
-          <h2>MACKLEAPS</h2>
+          <Link href="/" className={styles.link}>
+            <h2>MACKLEAPS</h2>
+          </Link>
         </div>
       </div>
 

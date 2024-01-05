@@ -4,6 +4,7 @@ import styles from "./PesquisaHome.module.css";
 import { MoreButton } from "@/components/moreButton/MoreButton";
 import { PesquisaCard } from "../pesquisa_card/PesquisaCars";
 import React from "react";
+import Link from "next/link";
 
 export const PesquisaHome = ({ json }) => {
   let currentCardIndex = 0;
@@ -26,10 +27,12 @@ export const PesquisaHome = ({ json }) => {
       <div className={styles.text}>
         <h2 className={styles.h2}>PESQUISAS</h2>
         <p className={styles.p}>
-          Ao lado é possível ver algumas das pesquisas realizadas em nosso laboratório, 
-          aperte em saiba mais para obter mais informações.
+          Ao lado é possível ver algumas das pesquisas realizadas em nosso
+          laboratório, aperte em saiba mais para obter mais informações.
         </p>
-        <MoreButton />
+        <Link href="/research" className={styles.link}>
+          <MoreButton />
+        </Link>
       </div>
       <div className={styles.content_container}>
         <PesquisaCard img={currentCard.img} txt={currentCard.txt} />

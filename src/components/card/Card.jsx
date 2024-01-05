@@ -1,4 +1,6 @@
 import styles from "./Card.module.css";
+import Link from "next/link";
+
 export const Card = () => {
   return (
     <div className={styles.card_container}>
@@ -11,8 +13,12 @@ export const Card = () => {
         Atividades Complementares para os participantes.
       </p>
       <div className={styles.btn_container}>
-        <button className={styles.about_button}>SOBRE</button>
-        <button className={styles.contact_button}>CONTATO</button>
+        <Link href="/about" className={styles.link}>
+          <button className={styles.about_button}>SOBRE</button>
+        </Link>
+        <Link href="/contact" className={styles.link}>
+          <button className={styles.contact_button}>CONTATO</button>
+        </Link>
       </div>
     </div>
   );

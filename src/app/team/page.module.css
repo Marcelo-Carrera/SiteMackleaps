@@ -1,12 +1,12 @@
 .main {
   display: flex;
   width: 80%;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   flex-direction: column;
   gap: 20px;
 }
 
-.card_div{
+.card_div {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -33,4 +33,3 @@
   font-weight: 400;
   width: 606px;
 }
-
