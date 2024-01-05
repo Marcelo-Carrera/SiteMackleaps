@@ -5,7 +5,9 @@ export const Footer = () => {
     <div className={styles.mainContainer}>
       <div className={styles.mackleapsContainer}>
         <div style={{ display: "flex", alignItems: "center" }}>
-          <img src="/logo-mackleaps.png" alt="logo-mackleaps" />
+          <Link href="/projects" className={styles.link}>
+            <img src="/logo-mackleaps.png" alt="logo-mackleaps" />
+          </Link>
           <h2>MACKLEAPS</h2>
         </div>
       </div>
@@ -41,16 +43,32 @@ export const Footer = () => {
           <Link href="/" className={styles.social_midias}>
             Email
           </Link>
-          <Link href="/" className={styles.social_midias}>
+          <Link
+            href="https://www.linkedin.com/in/computa%C3%A7%C3%A3o-mackenzie-473540216/?originalSubdomain=br"
+            target="
+            _blank"
+            className={styles.social_midias}
+          >
             Linkedin
           </Link>
-          <Link href="/" className={styles.social_midias}>
+          <Link
+            href="https://www.instagram.com/computacao_mackenzie/"
+            target="
+            _blank"
+            className={styles.social_midias}
+          >
             Instagram
           </Link>
         </div>
       </div>
       <div className={styles.address_container}>
-        <img src="/map.png" alt="mapa" />
+        <Link
+          href="https://www.google.com/maps/place/R.+da+Consola%C3%A7%C3%A3o,+930+-+Higien%C3%B3polis,+S%C3%A3o+Paulo+-+SP,+01302-000/data=!4m2!3m1!1s0x94ce5849eeb27779:0xe350caf4879b89a6?sa=X&ved=2ahUKEwiRz8mihseDAxV7r5UCHYVWBsEQ8gF6BAgLEAA&cshid=1704485327777783"
+          target="
+            _blank"
+        >
+          <img src="/map.png" alt="mapa" />
+        </Link>
         <p className={styles.address}>
           Endereço R. da Consolação, 930 - Consolação, São Paulo - SP
         </p>
