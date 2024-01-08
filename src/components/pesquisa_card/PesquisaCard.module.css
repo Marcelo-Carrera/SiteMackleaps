@@ -15,6 +15,7 @@
   transition: 300ms;
 }
 .text {
+  margin-left: 10px;
   width: 210px;
   color: #fff;
   font-size: 10px;
@@ -23,4 +24,22 @@
   line-height: 100%;
   text-transform: uppercase;
   padding-bottom: 10px;
+}
+
+@media (max-width: 1350px){
+  .main_container {
+    width: 240px;
+  }
+}
+
+@media (max-width: 1250px){
+  .main_container {
+    width: 210px;
+  }
+}
+
+@media (max-width: 1200px){
+  .main_container {
+    width: 295px;
+  }
 }

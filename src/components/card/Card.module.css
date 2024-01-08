@@ -35,24 +35,26 @@
 }
 .about_button {
   border-radius: 9999px;
-  padding: 10px 26px;
+  width: 100px;
+  height: 40px;
   background-color: #e1001e;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer;
   letter-spacing: 0.5pt;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 .contact_button {
   border-radius: 9999px;
-  padding: 10px 20px;
+  width: 100px;
+  height: 40px;
   background-color: #fff;
-  font-weight: 500;
+  font-weight: 600;
   color: #000;
   cursor: pointer;
   letter-spacing: 0.5pt;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 .about_button:hover {
@@ -91,9 +93,9 @@
   }
 }
 
-@media (max-width: 770px) {
+@media (max-width: 830px) {
   .card_container {
-    width: 95%;
+    width: 90%;
   }
   .h2 {
     font-size: 30px;
@@ -104,10 +106,7 @@
   }
 }
 
-@media (max-width: 760px) {
-  .card_container {
-    width: 95%;
-  }
+@media (max-width: 700px) {
   .h2 {
     font-size: 20px;
   }

@@ -11,6 +11,8 @@
 }
 
 .card_text {
+  width: 55%;
+  text-wrap: balance;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -34,10 +36,17 @@
   text-transform: uppercase;
 }
 .description {
-  width: 459px;
+  width: 100%;
   color: #2f2f2f;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
   line-height: 130%;
+}
+
+@media(max-width: 830px){
+  .card_img{
+    width: 30vw;
+    height: 32vh;
+  }
 }

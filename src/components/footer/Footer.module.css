@@ -43,7 +43,7 @@
   text-decoration: none;
 }
 .social_midias:hover,
-.link:hover {
+.link:hover, .image_address:hover {
   opacity: 60%;
   transition: 500ms;
 }

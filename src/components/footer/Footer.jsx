@@ -69,7 +69,7 @@ export const Footer = () => {
           target="
             _blank"
         >
-          <img src="/map.png" alt="mapa" />
+          <img src="/map.png" alt="mapa" className={styles.image_address}/>
         </Link>
         <p className={styles.address}>
           Endereço R. da Consolação, 930 - Consolação, São Paulo - SP
