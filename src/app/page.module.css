@@ -17,6 +17,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .arrow_div {
   position: relative;
   border-radius: 50%;
@@ -36,6 +37,9 @@
 }
 
 @media (max-width: 600px) {
+  .main{
+    top: -40px;
+  }
   .header_img {
     width: 232px;
   }

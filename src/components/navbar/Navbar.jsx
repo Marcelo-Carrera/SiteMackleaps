@@ -64,22 +64,22 @@ export const Navbar = () => {
             onClick={() => handleHamburguer()}
           />
         </div>
-        <Link href="/" className={styles.link_hamburguer}>
+        <Link href="/projects" className={styles.link_hamburguer}>
           PROJETOS
         </Link>
-        <Link href="/" className={styles.link_hamburguer}>
+        <Link href="/research" className={styles.link_hamburguer}>
           PESQUISAS
         </Link>
-        <Link href="/" className={styles.link_hamburguer}>
+        <Link href="/news" className={styles.link_hamburguer}>
           NOTÍCIAS
         </Link>
-        <Link href="/" className={styles.link_hamburguer}>
+        <Link href="/team" className={styles.link_hamburguer}>
           EQUIPE
         </Link>
-        <Link href="/" className={styles.link_hamburguer}>
+        <Link href="/about" className={styles.link_hamburguer}>
           SOBRE
         </Link>
-        <Link href="/" className={styles.link_hamburguer}>
+        <Link href="/contact" className={styles.link_hamburguer}>
           CONTATO
         </Link>
       </div>

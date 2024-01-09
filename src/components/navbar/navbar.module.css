@@ -69,6 +69,7 @@
   right: -100%;
   transition: right 300ms ease-in-out;
   background-color: #202020;
+  z-index: 1;
 }
 
 .link_hamburguer {

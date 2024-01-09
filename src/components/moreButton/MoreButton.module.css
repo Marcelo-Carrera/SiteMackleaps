@@ -15,3 +15,9 @@
   scale: 115%;
   transition: 300ms;
 }
+
+@media(max-width: 600px) {
+  .moreButton{
+  transform: scale(90%);
+  }
+}

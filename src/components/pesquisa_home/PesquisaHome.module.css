@@ -97,10 +97,11 @@
     width: 90%;
   }
   .h2 {
-    font-size: 30px;
+    font-size: 20px;
   }
   .p {
+    margin-top: 25px;
     font-size: 12px;
-    width: 300px;
+    width: 250px;
   }
 }

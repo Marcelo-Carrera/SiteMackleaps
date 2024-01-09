@@ -85,9 +85,6 @@
     width: 350px;
     font-size: 10px;
   }
-  .btn_container {
-    scale: 70%;
-  }
   .card_container {
     gap: 10px;
   }
@@ -112,5 +109,18 @@
   }
   .p {
     width: 280px;
+  }
+  .btn_container {
+    scale: 85%;
+  }
+}
+
+@media(max-width: 560px){
+  .h2 {
+    font-size: 20px;
+  }
+  .p {
+    font-size: 12px;
+    width: 300px;
   }
 }

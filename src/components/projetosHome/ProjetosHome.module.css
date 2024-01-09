@@ -39,4 +39,21 @@
   .main_container{
     width: 90%;
   }
+  .h2 {
+    font-size: 30px;
+  }
+  .p {
+    font-size: 15px;
+    width: 400px;
+  }
+}
+
+@media(max-width: 600px){
+  .h2 {
+    font-size: 18px;
+  }
+  .p {
+    font-size: 15px;
+    width: 300px;
+  }
 }
