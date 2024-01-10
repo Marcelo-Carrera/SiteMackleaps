@@ -18,18 +18,25 @@
 .header_img_div {
   width: 80%;
 }
+
 @media (max-width: 880px) {
   .header {
     min-height: 40vh;
   }
   .header_img {
-    width: 500px;
+    width: 400px;
     margin-bottom: 50px;
   }
 }
 
 @media (max-width: 600px) {
   .header_img {
-    width: 242px;
+    width: 350px;
+  }
+}
+
+@media (max-width: 500px) {
+  .header_img {
+    width: 260px;
   }
 }

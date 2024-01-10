@@ -11,14 +11,22 @@ export default async function Page() {
   return (
     <main className={styles.main}>
       <h1 className={styles.h1}>EQUIPE</h1>
-      <p>Conheça nossos membros atuais, colaboradores e antigos colaboradores</p>
+      <p className={styles.p}>
+        Conheça nossos membros atuais, colaboradores e antigos colaboradores
+      </p>
 
       <div className={styles.membros}>
         <h2 className={styles.h2}>MEMBROS ATUAIS</h2>
         <section className={styles.card_div}>
           {teamMembers.map((elem, index) => {
             return (
-              <TeamCard img={elem.img} name={elem.name} role={elem.role} date="" key={index}/>
+              <TeamCard
+                img={elem.img}
+                name={elem.name}
+                role={elem.role}
+                date=""
+                key={index}
+              />
             );
           })}
         </section>
@@ -29,7 +37,13 @@ export default async function Page() {
         <section className={styles.card_div}>
           {collaborators.map((elem, index) => {
             return (
-              <TeamCard img={elem.img} name={elem.name} role={elem.role} date="" key={index}/>
+              <TeamCard
+                img={elem.img}
+                name={elem.name}
+                role={elem.role}
+                date=""
+                key={index}
+              />
             );
           })}
         </section>
@@ -40,7 +54,13 @@ export default async function Page() {
         <section className={styles.card_div}>
           {formerCollaborators.map((elem, index) => {
             return (
-              <TeamCard img={elem.img} name={elem.name} role="" date={elem.date} key={index}/>
+              <TeamCard
+                img={elem.img}
+                name={elem.name}
+                role=""
+                date={elem.date}
+                key={index}
+              />
             );
           })}
         </section>

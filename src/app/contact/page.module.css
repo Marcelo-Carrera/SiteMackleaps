@@ -3,3 +3,17 @@
   justify-content: center;
   position: relative;
 }
+
+.mobile {
+  display: none;
+  justify-content: center;
+}
+
+@media (max-width: 700px) {
+  .main {
+    display: none;
+  }
+  .mobile {
+    display: flex;
+  }
+}
