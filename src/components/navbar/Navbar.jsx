@@ -8,7 +8,7 @@ export const Navbar = () => {
 
   function handleHamburguer() {
     setPosition(!position);
-  }
+  }  
 
   return (
     <>

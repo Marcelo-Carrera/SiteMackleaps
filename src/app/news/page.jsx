@@ -3,7 +3,12 @@ import styles from "./page.module.css";
 import { getNews } from "@/services/topics";
 import { NewsCard } from "@/components/news_card/NewsCard";
 
+// function waitFor(ms) {
+//   return new Promise((resolve) => setTimeout(() => resolve(), ms))
+// }
+
 export default async function Page() {
+//  await waitFor(100000);
   const news = await getNews();
   return (
     <main className={styles.main}>
