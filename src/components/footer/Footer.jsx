@@ -38,7 +38,13 @@ export const Footer = () => {
         </div>
         <div className={styles.link_column}>
           <h2 className={styles.h2}>PARCERIAS</h2>
-          <img src="/atech.png" alt="atech" />
+          <Link
+            href="https://atech.com.br/"
+            target="
+            _blank"
+          >
+            <img src="/atech.png" alt="atech" />
+          </Link>
         </div>
         <div className={styles.link_column}>
           <h2 className={styles.h2}>CONTATOS</h2>
@@ -69,7 +75,7 @@ export const Footer = () => {
           target="
             _blank"
         >
-          <img src="/map.png" alt="mapa" className={styles.image_address}/>
+          <img src="/map.png" alt="mapa" className={styles.image_address} />
         </Link>
         <p className={styles.address}>
           Endereço R. da Consolação, 930 - Consolação, São Paulo - SP

@@ -1,4 +1,5 @@
 import styles from "./page.module.css";
+import Link from "next/link";
 
 export default async function Page() {
   return (
@@ -27,7 +28,9 @@ export default async function Page() {
       </p>
       <h2 className={styles.h2}>Parcerias</h2>
       <div className={styles.parceria}>
-        <img src="/atech.png" alt="atech" className={styles.image} />
+        <Link href="https://atech.com.br/" target="_blank">
+          <img src="/atech.png" alt="atech" className={styles.image} />
+        </Link>
       </div>
     </main>
   );

@@ -3,13 +3,15 @@ import Link from "next/link";
 import styles from "./navbar.module.css";
 import React from "react";
 
-export const Navbar = () => {
+export const Navbar = ({ setOpen, open }) => {
   const [position, setPosition] = React.useState(false);
 
   function handleHamburguer() {
     setPosition(!position);
-  }  
-
+  }
+  function handleSearch() {
+    setOpen(!open);
+  }
   return (
     <>
       <div className={styles.mainContainer}>
@@ -41,6 +43,7 @@ export const Navbar = () => {
             src="/pesquisa.png"
             alt="pesquisar"
             className={styles.search_button}
+            onClick={() => handleSearch()}
           />
         </div>
         <img

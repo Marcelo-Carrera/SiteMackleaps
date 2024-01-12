@@ -1,74 +1,142 @@
 .main {
-    display: flex;
-    flex-direction: column;
-    background-color: rgba(32, 32, 32, 0.80);
-    gap: 10px;
-    position: fixed;
-    align-items: center;
-    width: 100%;
-    height: 100vh;
-    z-index: 100;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(32, 32, 32, 0.8);
+  gap: 10px;
+  position: fixed;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  z-index: 100;
 }
 
 .h1 {
-    margin-top: 200px;
-    color: #FDFBFB;
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 52px;
-    text-transform: capitalize;
+  margin-top: 200px;
+  color: #fdfbfb;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  text-transform: capitalize;
 }
 
 .text {
-    display: flex;
-    align-items: center;
-    width: 48%;
+  display: flex;
+  align-items: center;
+  margin-top: -50px;
+  width: 48%;
 }
 
 .input {
-    padding: 10px;
-    width: 654px;
-    height: 62px;
-    background-color: #FFF;
-    border: 1px solid #2f2f2f;
-    border-radius: 5px;
-    font-size: 16px;
+  display: flex;
+  padding: 10px;
+  width: 654px;
+  height: 62px;
+  background-color: #fff;
+  border: 1px solid #2f2f2f;
+  border-radius: 5px;
+  font-size: 16px;
 }
 
 .search_btn {
-    display: flex;
-    position: absolute;
-    cursor: pointer;
+  display: flex;
+  position: absolute;
+  cursor: pointer;
 }
 
 .search_div {
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    position: relative;
+  display: flex;
+  width: 48%;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
 }
 
 .buttons_div {
-    width: 48%;
-    gap: 10px;
-    display: flex;
+  display: flex;
+  width: 48%;
+  gap: 10px;
 }
 
 .button {
-    color: #fff;
-    font-size: 15px;
-    font-weight: 400;
-    width: 75px;
-    height: 27px;
-    border-radius: 5px;
-    border: 1px solid #FDFBFB;
-    background: rgba(217, 217, 217, 0.00);
-    cursor: pointer;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 400;
+  width: 75px;
+  height: 27px;
+  border-radius: 5px;
+  border: 1px solid #fdfbfb;
+  background: rgba(217, 217, 217, 0);
+  cursor: pointer;
 }
 
 .button:hover {
-    background-color: #FFF;
-    color: black;
-    transition: 500ms;
+  background-color: #fff;
+  color: black;
+  transition: 500ms;
 }
 
+.close {
+  cursor: pointer;
+  margin-top: 50px;
+  display: flex;
+  width: 48%;
+  justify-content: flex-end;
+}
+
+.close_button {
+  cursor: pointer;
+}
+
+@media (max-width: 840px) {
+  .h1 {
+    font-size: 30px;
+  }
+  .input {
+    height: 42px;
+  }
+  .button {
+    font-size: 12px;
+    height: 20px;
+  }
+  .close_button {
+    width: 8%;
+  }
+  .buttons_div {
+    margin-top: -10px;
+  }
+}
+
+@media (max-width: 640px) {
+  .h1 {
+    font-size: 20px;
+  }
+  .button {
+    width: 55px;
+    font-size: 11px;
+  }
+  .input {
+    height: 15px;
+    font-size: 12px;
+  }
+  .buttons_div {
+    margin-top: -10px;
+  }
+
+  .search_btn {
+    width: 10%;
+  }
+}
+
+@media (max-width: 400px) {
+  .h1 {
+    width: 100%;
+    font-size: 17px;
+  }
+  .search_div {
+    min-width: 190px;
+  }
+  .buttons_div {
+    width: 100%;
+    justify-content: center;
+  }
+}
