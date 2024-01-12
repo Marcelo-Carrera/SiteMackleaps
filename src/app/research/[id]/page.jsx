@@ -1,14 +1,10 @@
 import { getResearch } from "@/services/topics";
 import styles from "./page.module.css";
 import { Relacionados } from "@/components/relacionados/Relacionados";
-
-export async function generateStaticParams() {
-  const reseach = await getResearch();
-  return reseach.map((item) => ({ id: item.id }));
-}
+import { getDbProjects } from "@/services/db_queries";
 
 async function getData(id) {
-  const research = await getResearch();
+  const research = await getDbProjects();
   const selectedResearch = research.find((item) => item.id == id);
   if (selectedResearch) {
     return selectedResearch;

@@ -10,6 +10,7 @@ export const Navbar = ({ setOpen, open }) => {
     setPosition(!position);
   }
   function handleSearch() {
+    handleHamburguer();
     setOpen(!open);
   }
   return (
@@ -59,6 +60,7 @@ export const Navbar = ({ setOpen, open }) => {
             src="/pesquisa.png"
             alt="pesquisar"
             className={styles.search_button}
+            onClick={() => handleSearch()}
           />
           <img
             src="/close.png"

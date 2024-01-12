@@ -3,7 +3,6 @@ import "./globals.css";
 import { Footer } from "@/components/footer/Footer";
 import { Header } from "@/components/header/Header";
 import { Divider } from "@/components/divider/Divider";
-import { Search } from "@/components/search/Search";
 
 const outfit = Outfit({
   weight: ["500", "600", "700", "800", "400"],
@@ -29,21 +28,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-
-/*
-export function SearchLayout({ children }) {
-  return (
-    <html lang="pt-br">
-      <body className={outfit.className}>
-        <Header />
-        <Search />
-        <Divider />
-        {children}
-        <footer>
-          <Footer />
-        </footer>
-      </body>
-    </html>
-  );
-}
-*/

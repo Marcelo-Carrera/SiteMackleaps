@@ -1,10 +1,10 @@
 import { PageTitle } from "@/components/title_search/PageTitle";
 import styles from "./page.module.css";
-import { getProjetos } from "@/services/topics";
 import { NewsCard } from "@/components/news_card/NewsCard";
+import { getDbProjects } from "@/services/db_queries";
 
 export default async function Page() {
-  const news = await getProjetos();
+  const news = await getDbProjects();
   return (
     <main className={styles.main}>
       <PageTitle title="projetos" subtitle="Todos os projetos" />

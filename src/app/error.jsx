@@ -14,7 +14,7 @@ export default function Error() {
       <img src="/404.png" alt="404" />
       <p style={{ fontSize: "24px" }}>
         Página buscada indisponível,
-        <span style={{ color: "#e66070" }}>tente novamente mais tarde</span>.
+        <span style={{ color: "#e66070" }}> tente novamente mais tarde</span>.
       </p>
     </main>
   );

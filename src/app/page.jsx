@@ -5,12 +5,16 @@ import { Card } from "@/components/card/Card";
 import { ProjetosHome } from "@/components/projetosHome/ProjetosHome";
 import { LabHome } from "@/components/labHome/LabHome";
 import { PesquisaHome } from "@/components/pesquisa_home/PesquisaHome";
-import { getLatestNews, getProjects, getResearch } from "@/services/home";
+import {
+  getDbLatestNews,
+  getDbLatestProjects,
+  getDbLatestResearch,
+} from "@/services/db_queries";
 
 export default async function Home() {
-  const latest_news = await getLatestNews();
-  const latest_projects = await getProjects();
-  const latest_studies = await getResearch();
+  const latest_news = await getDbLatestNews();
+  const latest_projects = await getDbLatestProjects();
+  const latest_studies = await getDbLatestResearch();
 
   return (
     <>

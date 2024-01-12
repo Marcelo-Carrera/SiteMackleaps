@@ -1,14 +1,9 @@
-import { getProjetos } from "@/services/topics";
 import styles from "./page.module.css";
 import { Relacionados } from "@/components/relacionados/Relacionados";
-
-export async function generateStaticParams() {
-  const projects = await getProjetos();
-  return projects.map((item) => ({ id: item.id }));
-}
+import { getDbProjects } from "@/services/db_queries";
 
 async function getData(id) {
-  const projects = await getProjetos();
+  const projects = await getDbProjects();
   const selectedProject = projects.find((item) => item.id == id);
   if (selectedProject) {
     return selectedProject;

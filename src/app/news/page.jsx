@@ -1,15 +1,15 @@
 import { PageTitle } from "@/components/title_search/PageTitle";
 import styles from "./page.module.css";
-import { getNews } from "@/services/topics";
 import { NewsCard } from "@/components/news_card/NewsCard";
+import { getDbNews } from "@/services/db_queries";
 
 // function waitFor(ms) {
-//   return new Promise((resolve) => setTimeout(() => resolve(), ms))
+//   return new Promise((resolve) => setTimeout(() => resolve(), ms));
 // }
 
 export default async function Page() {
-//  await waitFor(100000);
-  const news = await getNews();
+  //await waitFor(5000);
+  const news = await getDbNews();
   return (
     <main className={styles.main}>
       <PageTitle title="notícias" subtitle="últimas notícias" />
