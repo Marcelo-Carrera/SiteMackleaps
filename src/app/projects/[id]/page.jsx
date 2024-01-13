@@ -7,8 +7,6 @@ async function getData(id) {
   const selectedProject = projects.find((item) => item.id == id);
   if (selectedProject) {
     return selectedProject;
-  } else {
-    throw new Error("404");
   }
 }
 

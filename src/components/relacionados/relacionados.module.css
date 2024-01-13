@@ -1,22 +1,24 @@
-.container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap:50px;
-    margin-bottom: 100px;
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 100px;
 }
 
-.card_container{
-    display: flex;
-    align-items: center;
-    gap:45px;
+.card_container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
 }
-.title{
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 130%; /* 52px */
-    text-transform: capitalize;
-    color: #E1001E;
+.title {
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 52px */
+  text-transform: capitalize;
+  color: #e1001e;
 }

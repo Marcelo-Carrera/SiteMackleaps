@@ -8,8 +8,6 @@ async function getData(id) {
   const selectedResearch = research.find((item) => item.id == id);
   if (selectedResearch) {
     return selectedResearch;
-  } else {
-    throw new Error("404");
   }
 }
 

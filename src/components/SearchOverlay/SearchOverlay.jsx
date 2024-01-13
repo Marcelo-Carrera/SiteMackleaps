@@ -33,7 +33,7 @@ export const SearchOverlay = ({ setOpen, open }) => {
         </div>
         <div className={styles.search_div}>
           <input type="text" placeholder="BUSQUE" className={styles.input} />
-          <img src="search.svg" alt="search" className={styles.search_btn} />
+          <img src="/search.svg" alt="search" className={styles.search_btn} />
         </div>
       </div>
     </div>

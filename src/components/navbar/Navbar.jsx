@@ -10,7 +10,6 @@ export const Navbar = ({ setOpen, open }) => {
     setPosition(!position);
   }
   function handleSearch() {
-    handleHamburguer();
     setOpen(!open);
   }
   return (

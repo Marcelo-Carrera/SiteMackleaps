@@ -1,13 +1,13 @@
 {
   "noticias_home": [
     {
-      "img": "escritorio.jpeg",
+      "img": "/escritorio.jpeg",
       "date": "18 ago. 2023",
       "title": "Karine choi e joão pedro trabalham duro em protótipo",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      "img": "vr.jpeg",
+      "img": "/vr.jpeg",
       "date": "18 ago. 2023",
       "title": "Karine choi e joão pedro trabalham duro em protótipo",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -15,12 +15,12 @@
   ],
   "pesquisa_home": [
     {
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "txt": "Proposta de um modelo de PSP adaptado a Autodireção em Fases aplicado para o desenvolvimento de maturidade em alunos iniciantes em Computação",
       "url": ""
     },
     {
-      "img": "psp.jpeg",
+      "img": "/psp.jpeg",
       "txt": "Modelo de arquitetura de software da plataforma de índice de sustentabilidade Mackenzie-FIESP.",
       "url": ""
     }
@@ -28,7 +28,7 @@
   "projetos": [
     {
       "id": "1",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Em Andamento",
       "title": "Estação Meteorológica",
@@ -37,7 +37,7 @@
     },
     {
       "id": "2",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Em Andamento",
       "title": "Site Mackleaps",
@@ -46,7 +46,7 @@
     },
     {
       "id": "3",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Em Andamento",
       "title": "Contador de gente",
@@ -55,7 +55,7 @@
     },
     {
       "id": "4",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Em Andamento",
       "title": "Oriente 2.0",
@@ -64,7 +64,7 @@
     },
     {
       "id": "5",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "AR-TWO",
@@ -73,7 +73,7 @@
     },
     {
       "id": "6",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "IDT",
@@ -82,7 +82,7 @@
     },
     {
       "id": "7",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "ISMF",
@@ -91,7 +91,7 @@
     },
     {
       "id": "8",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "Tagarela",
@@ -100,7 +100,7 @@
     },
     {
       "id": "9",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "Plataforma de força",
@@ -109,7 +109,7 @@
     },
     {
       "id": "10",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "Mackenzie voluntário",
@@ -118,7 +118,7 @@
     },
     {
       "id": "11",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "Latin Project",
@@ -127,7 +127,7 @@
     },
     {
       "id": "12",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "status": "Concluído",
       "title": "Computador de bordo",
@@ -137,19 +137,19 @@
   ],
   "projetos_home": [
     {
-      "img": "cloud.jpeg",
+      "img": "/cloud.jpeg",
       "status": "Em Andamento",
       "title": "Estação Meteorológica",
       "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real."
     },
     {
-      "img": "minimalist_setup.jpeg",
+      "img": "/minimalist_setup.jpeg",
       "status": "Em Andamento",
       "title": "Site Mackleaps",
       "description": "Tem como escopo divulgar pesquisas e projetos relacionados à tecnologia e recrutar potenciais membros e parceiros."
     },
     {
-      "img": "camera.jpeg",
+      "img": "/camera.jpeg",
       "status": "Em Andamento",
       "title": "Contador de gente",
       "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie."
@@ -158,12 +158,12 @@
   "noticias": [
     {
       "id": "1",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "10 Jan. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
       "title": "NASA's Perseverance Rover Discovers Ancient Riverbed on Mars",
-      "description": "The recent findings by NASA's Perseverance rover unveil an ancient riverbed on Mars, shedding light on the planet's watery past.",
+      "description": "The recent findings by NASA's Perseverance rover.",
       "body": [
         "<p>NASA's Perseverance Rover has made a groundbreaking discovery on the Martian surface, uncovering evidence of an ancient riverbed that suggests the presence of flowing water in Mars' distant past. The rover, equipped with state-of-the-art instruments and technology, has been exploring the Jezero Crater since its touchdown in February 2021.</p>",
         "<p>Recent data transmitted by Perseverance indicates the presence of sedimentary rocks, smooth pebbles, and intricate patterns in the terrain, pointing towards the existence of a river system that once flowed through the area. Scientists believe that these findings provide substantial evidence for the possibility of a sustained water environment billions of years ago.</p>",
@@ -175,12 +175,12 @@
     },
     {
       "id": "2",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "25 Mar. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
       "title": "Breakthrough in Climate Change Research: Antarctic Ice Loss Accelerates",
-      "description": "Recent research highlights an alarming acceleration in the loss of Antarctic ice, posing severe threats to global sea-level rise.",
+      "description": "Recent research highlights an alarming acceleration in the loss of Antarctic ice.",
       "body": [
         "<p>Recent studies conducted by a team of international researchers reveal alarming trends in the melting of Antarctic ice, indicating a significant acceleration in the ice loss. The findings, published in the 'Journal of Climate,' suggest that the rate of ice loss in Antarctica has tripled over the past decade.</p>",
         "<p>Scientists analyzed satellite data spanning several years to assess the changes in the Antarctic ice sheet. The results indicate that Antarctica is losing ice at an unprecedented rate, contributing significantly to rising sea levels worldwide.</p>",
@@ -191,12 +191,12 @@
     },
     {
       "id": "3",
-      "img": "code.jpeg",
+      "img": "/code.jpeg",
       "date": "5 May 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
       "title": "AI Breakthrough: Self-Driving Cars Reach Unprecedented Safety Milestone",
-      "description": "The latest advancements in AI-powered self-driving cars mark a historic achievement in safety, surpassing human driving records.",
+      "description": "The latest advancements in AI-powered self-driving cars.",
       "body": [
         "<p>Groundbreaking advancements in artificial intelligence have propelled self-driving cars to a historic milestone in safety, surpassing human driving capabilities. Recent trials conducted by leading tech companies demonstrate remarkable progress in autonomous vehicle technology.</p>",
         "<p>Utilizing sophisticated AI algorithms and state-of-the-art sensors, self-driving cars have showcased an unprecedented safety record. These vehicles have navigated complex urban environments, anticipated road hazards, and reacted swiftly to ensure passenger safety.</p>",
@@ -206,12 +206,12 @@
     },
     {
       "id": "4",
-      "img": "minimalist_setup.jpeg",
+      "img": "/minimalist_setup.jpeg",
       "date": "12 Jul. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
-      "title": "Medical Breakthrough: CRISPR Gene Editing Shows Promise in Curing Genetic Diseases",
-      "description": "CRISPR gene editing exhibits promising results in treating various genetic diseases, offering hope for future therapies.",
+      "title": "Medical Breakthrough: CRISPR Gene Editing",
+      "description": "CRISPR gene editing exhibits promising results in treating various genetic diseases.",
       "body": [
         "<p>Recent advancements in genetic engineering through CRISPR gene editing have sparked optimism in the medical field. Scientists and researchers have observed promising outcomes in the treatment of various genetic diseases.</p>",
         "<p>CRISPR technology, known for its precision in altering genetic sequences, has shown remarkable potential in correcting faulty genes linked to hereditary disorders. Experimental trials have demonstrated successful gene modifications in laboratory settings, providing hope for potential therapies.</p>",
@@ -221,12 +221,12 @@
     },
     {
       "id": "5",
-      "img": "minimalist_setup.jpeg",
+      "img": "/minimalist_setup.jpeg",
       "date": "19 Sep. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
       "title": "Renewable Energy Surpasses Coal in Global Electricity Generation",
-      "description": "Renewable energy sources surpass coal in global electricity generation, marking a significant milestone in sustainable power.",
+      "description": "Renewable energy sources surpass coal in global electricity generation.",
       "body": [
         "<p>The global energy landscape has reached a transformative point as renewable energy sources, including solar, wind, and hydroelectric power, have exceeded coal in electricity generation.</p>",
         "<p>Recent statistics from international energy agencies indicate that renewables contributed to over 40% of the world's electricity production, surpassing coal for the first time in history. This shift signifies a remarkable milestone in the ongoing transition towards sustainable energy.</p>",
@@ -236,12 +236,12 @@
     },
     {
       "id": "6",
-      "img": "minimalist_setup.jpeg",
+      "img": "/minimalist_setup.jpeg",
       "date": "7 Nov. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
       "title": "SpaceX Successfully Launches Mission to Colonize Mars",
-      "description": "SpaceX achieves a historic milestone with a successful mission launch aimed at establishing a colony on Mars.",
+      "description": "mission launch aimed at establishing a colony on Mars.",
       "body": [
         "<p>SpaceX has made history once again as it successfully launched a mission aimed at establishing a human colony on Mars.</p>",
         "<p>The mission, named 'Red Horizon,' marks a monumental leap in space exploration, with the ultimate goal of making life multi-planetary. Aboard the SpaceX Starship, a crew of twelve astronauts embarked on the journey of a lifetime, carrying essential supplies, infrastructure, and cutting-edge technology necessary for building a sustainable habitat on the red planet.</p>",
@@ -251,12 +251,12 @@
     },
     {
       "id": "7",
-      "img": "minimalist_setup.jpeg",
+      "img": "/minimalist_setup.jpeg",
       "date": "15 Jan. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
       "title": "Breakthrough in Quantum Computing: Quantum Supremacy Achieved",
-      "description": "A major breakthrough in quantum computing attains quantum supremacy, heralding a new era in computational power.",
+      "description": "A major breakthrough in quantum computing attains quantum supremacy.",
       "body": [
         "<p>Researchers have made an unprecedented breakthrough in the field of quantum computing by achieving a significant milestone known as quantum supremacy.</p>",
         "<p>This monumental achievement, reached after years of intensive research, involves a quantum computer solving a complex problem that would be practically impossible for classical computers to handle within a reasonable timeframe.</p>",
@@ -266,12 +266,12 @@
     },
     {
       "id": "8",
-      "img": "minimalist_setup.jpeg",
+      "img": "/minimalist_setup.jpeg",
       "date": "28 Feb. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
-      "title": "Major Advancements in Cancer Treatment: Immunotherapy Revolutionizes Therapy",
-      "description": "Immunotherapy showcases remarkable advancements in cancer treatment, offering new hope for patients worldwide.",
+      "title": "Major Advancements in Cancer Treatment",
+      "description": "Immunotherapy showcases advancements in cancer treatment.",
       "body": [
         "<p>A recent breakthrough in cancer treatment has emerged through the application of immunotherapy, revolutionizing conventional therapy approaches.</p>",
         "<p>Immunotherapy, a cutting-edge treatment method, harnesses the body's immune system to combat cancer cells more effectively and with fewer side effects compared to traditional treatments like chemotherapy and radiation therapy.</p>",
@@ -281,11 +281,11 @@
     },
     {
       "id": "9",
-      "img": "escritorio.jpeg",
+      "img": "/escritorio.jpeg",
       "date": "8 Apr. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
-      "title": "Breakthrough in Energy Storage: New Battery Technology Extends Lifespan",
+      "title": "Breakthrough in Energy Storage",
       "description": "A breakthrough in energy storage introduces new battery technology, significantly extending battery lifespan.",
       "body": [
         "<p>A recent breakthrough in energy storage technology promises to revolutionize the battery industry, offering a remarkable increase in battery lifespan.</p>",
@@ -296,12 +296,12 @@
     },
     {
       "id": "10",
-      "img": "escritorio.jpeg",
+      "img": "/escritorio.jpeg",
       "date": "20 Jun. 2023",
       "author": "Administrador",
       "author_img": "https://s3-alpha-sig.figma.com/img/05ee/48aa/de7b6e9524212508334e50ea61c70030?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWIozBG4FrSIedbJCZxVFdmddSrtSD3BuuLD701bbJx~-B-H74CMwb~GfC~2~tC64ts9YBptGeQtdyE5uY0w4AS7BaiCKSVZRQjGhf1dkC9eXLf-N6C9piW~67ieoFuf0YtA4uLslkcsc4Gggyb~ppgAusqex3~GsTZd4PTX-jXQh8Gz00IzxV7-MklTsLpWRXQqsjHGerAbQT3cEdnFaEVnkjDoRQqEmNVKxH4or2OUVnsvlfGxe9GmvnhuGLWt8nypz5kb4sKHqTlB2HUOM7NN69TyYn3Zc2Zm5F56YTGmfece9yQEl7JsFLD-7uP3wdNVS7LCVsg6UFEa8LZnTg__",
-      "title": "AI Transforms Healthcare: Predictive Algorithms Improve Disease Diagnosis",
-      "description": "Artificial intelligence revolutionizes healthcare with predictive algorithms enhancing disease diagnosis accuracy.",
+      "title": "AI Transforms Healthcare: Algorithms Improve Disease Diagnosis",
+      "description": "Artificial intelligence revolutionizes healthcare with predictive algorithms.",
       "body": [
         "<p>Além da precisão diagnóstica, a inteligência artificial também está impulsionando o desenvolvimento de terapias personalizadas. Ao analisar vastos conjuntos de dados genômicos e informações médicas de pacientes, os algoritmos de IA podem identificar padrões únicos que delineiam respostas potenciais a diferentes tratamentos. Isso permite a criação de abordagens terapêuticas altamente adaptadas às necessidades individuais de cada paciente, otimizando os resultados e minimizando os efeitos colaterais.</p>",
         "<p>A implementação de algoritmos de IA nos sistemas de saúde não apenas fortalece as capacidades diagnósticas, mas também fortifica os sistemas de triagem e prevenção de doenças. Esses sistemas, quando alimentados com dados precisos e atualizados, são capazes de prever surtos epidemiológicos, monitorar padrões de saúde pública e facilitar estratégias preventivas, promovendo a saúde da população em escala global.</p>",
@@ -313,64 +313,64 @@
   ],
   "responsaveis": [
     {
-      "img": "members/dirceu.jpg",
+      "img": "/members/dirceu.jpg",
       "name": "Dirceu Matheus Junior",
       "role": "Coordenador de Pós-Graduação"
     },
     {
-      "img": "members/anaclaudiarossi.jpg",
+      "img": "/members/anaclaudiarossi.jpg",
       "name": "Ana Claudia Rossi",
       "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "members/fabio.jpg",
+      "img": "/members/fabio.jpg",
       "name": "Fábio Lopes",
       "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "members/maria.jpg",
+      "img": "/members/maria.jpg",
       "name": "Maria Amelia",
       "role": "Responsável pelo laboratório Mackleaps"
     },
     {
-      "img": "members/CalebeDePaula.jpg",
+      "img": "/members/CalebeDePaula.jpg",
       "name": "Calebe de Paula",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "members/ivan.jpg",
+      "img": "/members/ivan.jpg",
       "name": "Ivan Carlos Alcantara de Oliveira",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "members/renata.jpg",
+      "img": "/members/renata.jpg",
       "name": "Renata Maria Nogueira de Oliveira",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "members/regiane.jpg",
+      "img": "/members/regiane.jpg",
       "name": "Regiane Moreno",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "members/kassya.jpg",
+      "img": "/members/kassya.jpg",
       "name": "Kassya Christina Rigolon de Andrade",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "members/elisangela.jpg",
+      "img": "/members/elisangela.jpg",
       "name": "Elisângela Botelho Gracias",
       "role": "Auxilia o laboratório Mackleaps"
     },
     {
-      "img": "members/leandro.jpg",
+      "img": "/members/leandro.jpg",
       "name": "Leandro Carlos Fernandes",
       "role": "Auxilia o laboratório Mackleaps"
     }
   ],
   "colaboradores": [
     {
-      "img": "members/joao.jpeg",
+      "img": "/members/joao.jpeg",
       "name": "João Ricardo de Lima Bonifácio",
       "role": "Laboratorista"
     },

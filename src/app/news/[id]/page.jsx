@@ -3,18 +3,11 @@ import styles from "./page.module.css";
 import { Relacionados } from "@/components/relacionados/Relacionados";
 import { getDbNews } from "@/services/db_queries";
 
-// export async function generateStaticParams() {
-//   const news = await getDbNews();
-//   return news.map((item) => ({ id: item.id }));
-// }
-
 async function getData(id) {
   const news = await getDbNews();
   const selectedNews = news.find((item) => item.id == id);
   if (selectedNews) {
     return selectedNews;
-  } else {
-    throw new Error("404");
   }
 }
 
