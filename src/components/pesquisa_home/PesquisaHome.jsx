@@ -38,13 +38,13 @@ export const PesquisaHome = ({ json }) => {
         <PesquisaCard img={currentCard.img} txt={currentCard.txt} />
         <div className={styles.arrow_container}>
           <img
-            src="left_arrow.png"
+            src="/left_arrow.png"
             alt="esquerda"
             className={styles.setas}
             onClick={() => handleCardChange("previous")}
           />
           <img
-            src="right_arrow.png"
+            src="/right_arrow.png"
             alt="direita"
             className={styles.setas}
             onClick={() => handleCardChange("next")}
