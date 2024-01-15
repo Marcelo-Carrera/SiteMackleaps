@@ -614,17 +614,17 @@
   ],
   "related": [
     {
-      "img": "https://s3-alpha-sig.figma.com/img/5a77/c42f/09e3fae2308fd2cdc6e4fd1c32a75500?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=f8ntQkV9P702yghDLnkcngnXE5EvoTO8VqK7z77Z0Ut~Qv0qgVk1h-YkUl9Sy7wl2MxDjMIGw3PgftISfycln~25tmV4J-MEm9f20ZkBIZWs8r0pZcv2UFrbAo5Iz-M9j63NVE8mc9yBy4aXTaPomXDuj3sBvVurovd0khVwfbOmM0pSthfp5pMwNnvuWujxbt0brno4KLtjH-lPV0CeOI1WF4LArJse29O4IX4XJ7~8TTWgVloHPlXtLrqT22CUjC1sQTYKTMRQz2PT4HsRjLLi4Fobv~39cXOYGUFQCeap7-TnQYuX1RETtgAg1zK0AUKnMs7o14sp2KKYbwfgpg__",
+      "img": "/cloud.jpeg",
       "title": "Estação Meteorológica",
       "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real."
     },
     {
-      "img": "https://s3-alpha-sig.figma.com/img/bc12/33a6/0424c36804e1495872e9138430c6993b?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pJyBEja2Esa1J3kwprABygQM8cB2fKa~f804eCqkULaARWUhZ~Ydumjz572DWg~04cPuWQJi5ivN5CVPdq5CRoy~sU1jmjAnjwFRPedfBZZn-6HfdUsQ~h1w6Kts4DzoWzb0YPa8StBZ~tg6Vdl1M-4TwEa4NYZtiv5mzbAImXZezR36lKtwedw7mEi-hUfWli-xqfPfNtNjMuZGzSkXjnVBTf1MIVC9cZapWZJzMqwOTaLmaY4CoqPrAmRZrGC2p7R80K8kuAgeWcoeDDpcYnFLrLu5uESNvaxhpr-FzF4eYqwh8omPqDx85v2BBe1PvL8ioEJ3Y7x9v72JkbT1mg__",
+      "img": "/minimalist_setup.jpeg",
       "title": "Site Mackleaps",
       "description": "Tem como escopo divulgar pesquisas e projetos relacionados à tecnologia e recrutar potenciais membros e parceiros."
     },
     {
-      "img": "https://s3-alpha-sig.figma.com/img/04d8/971b/d7c8487c1bcfbfc05b40e4523843e22a?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cOU6E9aR9XWRNWLo8EFLi4XZUS3Et9SG8YzuTWzjShrktrsIUWXKP8ffwhh6wBGFERAE6GXgg5rzDB518mH~PsRT4prbRP6PdsBxStCGbzzrqrJ43j~GRLfSmBYIqNyd8do2KDgQdlVCpTu2b93sD354Rj4hJxmxkJUTrtgkn-P1bIKSbTqK7lyJkzf0e9STSMwDl7uqpSr62GQCunvj~IOCQvn8btBqGFQ0-DfBHGYd7jFNgN-SYcOppVXLkhxYQlbX4d-HpIFJR6gDtJEWFN6fhMxzmxSZ9xBKp2qi4iHTjFSrEEMmA04QwLmbYdzYbYevO1Awn1XdN5nzRrs~aQ__",
+      "img": "/camera.jpeg",
       "title": "Contador de Gente",
       "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie."
     }
