@@ -1,44 +1,56 @@
 .mainCard {
-    flex-direction: column;
-    width: 250px;
-    height: 200px;
-    display: flex;
-    margin-top: 60px;
-    gap: 20px;
-    align-items: center;
+  flex-direction: column;
+  width: 250px;
+  height: 200px;
+  display: flex;
+  margin-top: 60px;
+  gap: 20px;
+  align-items: center;
 }
- .cardImage{
-    width: 150px;
-    height: 150px;
- }
+.cardImage {
+  width: 150px;
+  height: 150px;
+}
 
- .cardText {
-    align-items: center;
- }
+.cardText {
+  align-items: center;
+}
 
 .image {
-    border-radius: 9999px;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: top;
-    box-shadow: 0rem 0rem 1rem 1rem rgba(0, 45, 75, 0.05);    
+  border-radius: 9999px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  box-shadow: 0rem 0rem 1rem 1rem rgba(0, 45, 75, 0.05);
 }
 
-.name{
-    text-align: center;
-    color: #000;
-    font-size: 15px;
-    font-weight: 800px;
-    text-transform: uppercase;
+.name {
+  text-align: center;
+  color: #000;
+  font-size: 15px;
+  font-weight: 800px;
+  text-transform: uppercase;
 }
 
-.role{
-    text-align: center;
-    color: #2F2F2F;
+.role {
+  text-align: center;
+  color: #2f2f2f;
 }
 
 .date {
-    text-align: center;
-    color: #2F2F2F
+  text-align: center;
+  color: #2f2f2f;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.icon {
+  width: 13px;
+  height: 13px;
 }

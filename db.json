@@ -315,57 +315,74 @@
     {
       "img": "/members/dirceu.jpg",
       "name": "Dirceu Matheus Junior",
-      "role": "Coordenador de Pós-Graduação"
+      "role": "Coordenador de Pós-Graduação",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/anaclaudiarossi.jpg",
       "name": "Ana Claudia Rossi",
-      "role": "Responsável pelo laboratório Mackleaps"
+      "role": "Responsável pelo laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/fabio.jpg",
       "name": "Fábio Lopes",
-      "role": "Responsável pelo laboratório Mackleaps"
+      "role": "Responsável pelo laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/maria.jpg",
       "name": "Maria Amelia",
-      "role": "Responsável pelo laboratório Mackleaps"
+      "role": "Responsável pelo laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/CalebeDePaula.jpg",
       "name": "Calebe de Paula",
-      "role": "Auxilia o laboratório Mackleaps"
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/ivan.jpg",
       "name": "Ivan Carlos Alcantara de Oliveira",
-      "role": "Auxilia o laboratório Mackleaps"
-    },
-    {
-      "img": "/members/renata.jpg",
-      "name": "Renata Maria Nogueira de Oliveira",
-      "role": "Auxilia o laboratório Mackleaps"
-    },
-    {
-      "img": "/members/regiane.jpg",
-      "name": "Regiane Moreno",
-      "role": "Auxilia o laboratório Mackleaps"
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/kassya.jpg",
       "name": "Kassya Christina Rigolon de Andrade",
-      "role": "Auxilia o laboratório Mackleaps"
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/elisangela.jpg",
       "name": "Elisângela Botelho Gracias",
-      "role": "Auxilia o laboratório Mackleaps"
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
     },
     {
       "img": "/members/leandro.jpg",
       "name": "Leandro Carlos Fernandes",
-      "role": "Auxilia o laboratório Mackleaps"
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
+    },
+    {
+      "img": "/members/DanielaCunha.jpg",
+      "name": "Daniela Vieira Cunha",
+      "role": "Responsável pelo laboratório Mackleaps",
+      "link": "Currículo Lattes"
+    },
+    {
+      "img": "/members/LuizLozano.png",
+      "name": "Luiz Carlos Machi Lozano",
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
+    },
+    {
+      "img": "/formerMembers/BrunoDaSilva.jpg",
+      "name": "Bruno da Silva",
+      "role": "Auxilia o laboratório Mackleaps",
+      "link": "Currículo Lattes"
     }
   ],
   "colaboradores": [
@@ -514,11 +531,6 @@
     {
       "img": "https://media.licdn.com/dms/image/D4D03AQETsrbFiznSuw/profile-displayphoto-shrink_800_800/0/1689271693313?e=1709769600&v=beta&t=_BdQuoDLuxS_LmBUWwhHTOqkfCJPZRO4Ca41JYDAJlA",
       "name": "Vitor Ravacci",
-      "date": ""
-    },
-    {
-      "img": "/formerMembers/BrunoDaSilva.jpg",
-      "name": "Bruno da Silva",
       "date": ""
     },
     {

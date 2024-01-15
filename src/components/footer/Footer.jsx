@@ -68,6 +68,22 @@ export const Footer = () => {
             Instagram
           </Link>
         </div>
+        <div className={styles.link_column}>
+          <h2 className={styles.h2}>SISTEMAS</h2>
+          <Link
+            href="https://mackleaps.mackenzie.br/oriente"
+            target="_blank"
+            className={styles.social_midias}
+          >
+            Oriente
+          </Link>
+          <Link href="/" target="_blank" className={styles.social_midias}>
+            Contador de gente
+          </Link>
+          <Link href="/" target="_blank" className={styles.social_midias}>
+            Estação meteorológica
+          </Link>
+        </div>
       </div>
       <div className={styles.address_container}>
         <Link
@@ -78,7 +94,8 @@ export const Footer = () => {
           <img src="/map.png" alt="mapa" className={styles.image_address} />
         </Link>
         <p className={styles.address}>
-          Endereço R. da Consolação, 930 - Consolação, São Paulo - SP
+          Endereço R. da Consolação, 930 - Consolação, São Paulo - SP - ( Prédio
+          45 - Subsolo 2 )
         </p>
         <p className={styles.address}>Telefone (11)2114-8000</p>
       </div>

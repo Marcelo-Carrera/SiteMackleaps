@@ -1,5 +1,6 @@
 import styles from "./page.module.css";
 import { TeamCard } from "@/components/cardTeam/TeamCard";
+
 import {
   getDbCollaborators,
   getDbFormerCollaborators,
@@ -16,7 +17,6 @@ export default async function Page() {
       <p className={styles.p}>
         Conheça nossos membros atuais, colaboradores e antigos colaboradores
       </p>
-
       <div className={styles.membros}>
         <h2 className={styles.h2}>MEMBROS ATUAIS</h2>
         <section className={styles.card_div}>
@@ -26,6 +26,7 @@ export default async function Page() {
                 img={elem.img}
                 name={elem.name}
                 role={elem.role}
+                link={elem.link}
                 date=""
                 key={index}
               />
@@ -43,6 +44,7 @@ export default async function Page() {
                 img={elem.img}
                 name={elem.name}
                 role={elem.role}
+                link=""
                 date=""
                 key={index}
               />
@@ -61,6 +63,7 @@ export default async function Page() {
                 name={elem.name}
                 role=""
                 date={elem.date}
+                link=""
                 key={index}
               />
             );

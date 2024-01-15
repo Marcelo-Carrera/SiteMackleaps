@@ -24,11 +24,13 @@
   justify-content: center;
   gap: 20px;
 }
+
 .link_column {
   display: flex;
   flex-direction: column;
   gap: 15px;
 }
+
 .link {
   color: #ffff;
   font-size: 12px;
@@ -43,7 +45,8 @@
   text-decoration: none;
 }
 .social_midias:hover,
-.link:hover, .image_address:hover {
+.link:hover,
+.image_address:hover {
   opacity: 60%;
   transition: 500ms;
 }
