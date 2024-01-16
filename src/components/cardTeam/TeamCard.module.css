@@ -1,7 +1,7 @@
 .mainCard {
   flex-direction: column;
   width: 250px;
-  height: 200px;
+  height: 250px;
   display: flex;
   margin-top: 60px;
   gap: 20px;
@@ -13,6 +13,9 @@
 }
 
 .cardText {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
   align-items: center;
 }
 
@@ -38,6 +41,19 @@
   color: #2f2f2f;
 }
 
+.lattes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  text-decoration: none;
+  color: #e1001e;
+}
+
+.lattes:hover {
+  text-decoration: underline;
+}
+
 .date {
   text-align: center;
   color: #2f2f2f;
@@ -47,7 +63,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 5px;
 }
 
 .icon {
