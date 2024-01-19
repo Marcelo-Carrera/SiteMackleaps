@@ -77,6 +77,15 @@ export const Footer = () => {
           >
             Oriente
           </Link>
+          <Link href="https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/" target="_blank" className={styles.social_midias}>
+            GitBook
+          </Link>
+          <Link href="https://mackleaps.mackenzie.br/redmine" target="_blank" className={styles.social_midias}>
+            Redmine
+          </Link>
+          <Link href="https://mackleaps.mackenzie.br/carrossel" target="_blank" className={styles.social_midias}>
+            Carrossel
+          </Link>
           <Link href="/" target="_blank" className={styles.social_midias}>
             Contador de gente
           </Link>
