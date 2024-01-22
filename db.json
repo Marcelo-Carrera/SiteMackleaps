@@ -640,5 +640,38 @@
       "title": "Contador de Gente",
       "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie."
     }
+  ],
+  
+  "sistemas": [
+    {
+      "title": "Oriente",
+      "description": "O Oriente é uma aplicação de gerenciamento de TCCs da Faculdade de Computação e Informática, na qual os alunos cadastram seus projetos de TCC e obtêm o aceite do professor orientador. Professores atribuem avaliadores para os projetos de TCC.",
+      "link": "https://mackleaps.mackenzie.br/oriente"
+    },
+    {
+      "title": "GitBook",
+      "description": "Os alunos do Programa de Residência de Software - MackLeaps são motivados a desenvolver conteúdos durante a execução dos projetos, na modalidade PBL. Os conteúdos disponibilizados são utilizados pelos novos residentes para ajudar no enfrentamento dos desafios ao longo do programa.",
+      "link": "https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/"
+    },
+    {
+      "title": "Redmine",
+      "description": "",
+      "link": "https://mackleaps.mackenzie.br/redmine"
+    },
+    {
+      "title": "Carrossel",
+      "description": "",
+      "link": "https://mackleaps.mackenzie.br/carrossel"
+    },
+    {
+      "title": "Contador de gente",
+      "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie.",
+      "link": ""
+    },
+    {
+      "title": "Estação Meteorológica",
+      "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real.",
+      "link": ""
+    }
   ]
 }

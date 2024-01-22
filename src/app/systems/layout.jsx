@@ -10,6 +10,18 @@ export const metadata = {
   description: "Site Mackleaps",
 };
 
-export default function ResearchLayout({ children }) {
-  return <>{children}</>;
+export default function ProjectLayout({ children }) {
+  return (
+    <>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+      >
+        {children}
+      </div>
+    </>
+  );
 }

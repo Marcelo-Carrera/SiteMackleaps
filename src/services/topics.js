@@ -85,3 +85,16 @@ export const getResearch = async () => {
   }
   return response.json();
 };
+
+export const getSystemsPage = async () => {
+  const response = await fetch(
+    `${process.env.NEXT_PUBLIC_API_URL}/api/research`,
+    {
+      cache: "no-store",
+    }
+  );
+  if (!response.ok) {
+    throw new Error("Failed to fetch data");
+  }
+  return response.json();
+};

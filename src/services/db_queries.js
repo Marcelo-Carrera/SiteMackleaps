@@ -31,3 +31,7 @@ export async function getDbCollaborators() {
 export async function getDbFormerCollaborators() {
   return db.excolaboradores;
 }
+
+export async function getDbSystemsPage() {
+  return db.sistemas;
+}
