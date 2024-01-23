@@ -36,50 +36,9 @@ export const Navbar = ({ setOpen, open }) => {
           <Link href="/about" className={styles.link}>
             SOBRE
           </Link>
-          <Link href="/systems" className={styles.system}>
+          <Link href="/systems" className={styles.link}>
             SISTEMAS
           </Link>
-          <div className={styles.dropdown}>
-            <Link href="/systems" className={styles.mainDropdown}>
-              SISTEMAS
-            </Link>
-            <div className={styles.dropdownItens}>
-              <Link
-                href="https://mackleaps.mackenzie.br/oriente"
-                className={styles.linkSub}
-                target="_blank"
-              >
-                Oriente
-              </Link>
-              <Link
-                href="https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/"
-                className={styles.linkSub}
-                target="_blank"
-              >
-                GitBook
-              </Link>
-              <Link
-                href="https://mackleaps.mackenzie.br/redmine"
-                className={styles.linkSub}
-                target="_blank"
-              >
-                Redmine
-              </Link>
-              <Link
-                href="https://mackleaps.mackenzie.br/carrossel"
-                className={styles.linkSub}
-                target="_blank"
-              >
-                Carrossel
-              </Link>
-              <Link href="/" className={styles.linkSub} target="_blank">
-                Contador de gente
-              </Link>
-              <Link href="/" className={styles.linkSub} target="_blank">
-                Estação meteorológica
-              </Link>
-            </div>
-          </div>
           <Link href="/contact" className={styles.link}>
             CONTATO
           </Link>
