@@ -641,11 +641,11 @@
       "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie."
     }
   ],
-  
+
   "sistemas": [
     {
       "title": "Oriente",
-      "description": "O Oriente é uma aplicação de gerenciamento de TCCs da Faculdade de Computação e Informática, na qual os alunos cadastram seus projetos de TCC e obtêm o aceite do professor orientador. Professores atribuem avaliadores para os projetos de TCC.",
+      "description": "O Oriente é um sistema de submissão/acompanhamento de TCC em que os professores são capazes de acompanhar o TCC de seus alunos e avaliar projetos de outros orientadores quando sua avaliação for solicitada. Em uma visão geral, o oriente permite uma melhor visualização para professores e alunos sobre seus TCC´s.",
       "link": "https://mackleaps.mackenzie.br/oriente"
     },
     {
@@ -660,18 +660,18 @@
     },
     {
       "title": "Carrossel",
-      "description": "",
+      "description": "Aplicação responsável por controlar as imagens presentes na televisão que fica na entrada do prédio 31 (FCI) do campus Higienópolis da Universidade Presbiteriana Mackenzie. Tem como objetivo, a divulgação de projetos e eventos que ocorrem na universidade.",
       "link": "https://mackleaps.mackenzie.br/carrossel"
     },
     {
       "title": "Contador de gente",
-      "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie.",
-      "link": ""
+      "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie. O sistema coletará e armazenará dados em um servidor local (ou em nuvem) e disponibilizará um dashboard por meio de uma aplicação web.",
+      "link": "/"
     },
     {
       "title": "Estação Meteorológica",
-      "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real.",
-      "link": ""
+      "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real. O sistema armazena os dados coletados em um banco de dados, oferecendo funções como filtrar e descargar os dados brutos para fim de análise.",
+      "link": "/"
     }
   ]
 }

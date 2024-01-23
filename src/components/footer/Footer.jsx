@@ -35,6 +35,9 @@ export const Footer = () => {
           <Link href="/about" className={styles.link}>
             SOBRE
           </Link>
+          <Link href="/contact" className={styles.link}>
+            CONTATO
+          </Link>
         </div>
         <div className={styles.link_column}>
           <h2 className={styles.h2}>PARCERIAS</h2>
@@ -77,13 +80,25 @@ export const Footer = () => {
           >
             Oriente
           </Link>
-          <Link href="https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/" target="_blank" className={styles.social_midias}>
+          <Link
+            href="https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/"
+            target="_blank"
+            className={styles.social_midias}
+          >
             GitBook
           </Link>
-          <Link href="https://mackleaps.mackenzie.br/redmine" target="_blank" className={styles.social_midias}>
+          <Link
+            href="https://mackleaps.mackenzie.br/redmine"
+            target="_blank"
+            className={styles.social_midias}
+          >
             Redmine
           </Link>
-          <Link href="https://mackleaps.mackenzie.br/carrossel" target="_blank" className={styles.social_midias}>
+          <Link
+            href="https://mackleaps.mackenzie.br/carrossel"
+            target="_blank"
+            className={styles.social_midias}
+          >
             Carrossel
           </Link>
           <Link href="/" target="_blank" className={styles.social_midias}>

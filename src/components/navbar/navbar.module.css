@@ -176,6 +176,18 @@
   }
 }
 
+@media (max-width: 880px) {
+  .link {
+    font-size: 12px;
+  }
+  .mainDropdown {
+    font-size: 12px;
+  }
+  .system {
+    font-size: 12px;
+  }
+}
+
 @media (max-width: 1060px) {
   .dropdown {
     display: none;

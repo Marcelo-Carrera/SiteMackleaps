@@ -18,10 +18,12 @@
 .accessButton:hover {
   scale: 105%;
   transition: 300ms;
+  margin-left: 2px;
 }
 
 @media (max-width: 600px) {
-  .moreButton {
+  .accessButton {
+    font-size: 0.7rem;
     transform: scale(90%);
   }
 }

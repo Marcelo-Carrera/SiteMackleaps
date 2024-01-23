@@ -127,6 +127,9 @@ export const Navbar = ({ setOpen, open }) => {
         <Link href="/about" className={styles.link_hamburguer}>
           SOBRE
         </Link>
+        <Link href="/systems" className={styles.link_hamburguer}>
+          SISTEMAS
+        </Link>
         <Link href="/contact" className={styles.link_hamburguer}>
           CONTATO
         </Link>

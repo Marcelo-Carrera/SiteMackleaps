@@ -1,13 +1,16 @@
 .main {
   display: flex;
   margin-top: 10px;
-  width: 80%;
+  width: 100%;
   flex-direction: column;
-  gap: 30px;
+  gap: 20px;
 }
 
 .h2 {
   display: flex;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  width: 100%;
   margin-left: 10px;
   font-size: 16px;
 }
@@ -32,7 +35,6 @@
 }
 
 .arrow_open {
-  display: none;
   margin-right: 10px;
   width: 16px;
   height: 16px;
@@ -42,21 +44,38 @@
 .panel {
   width: 100%;
   gap: 12px;
-  margin-bottom: 25px;
   overflow: hidden;
   background-color: #fdfbfb;
   display: none;
+}
+
+.show {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10px;
+  gap: 16px;
+  background-color: #fdfbfb;
+  overflow: hidden;
+  display: block;
+  display: flex;
+  margin-left: 10px;
   flex-direction: column;
 }
 
 .h3 {
-  font-size: 17px;
+  display: flex;
+  justify-content: flex-start;
+  text-transform: uppercase;
+  font-size: 15px;
   color: #202020;
 }
 
 .p {
+  width: 97%;
+  display: flex;
+  justify-content: flex-start;
   color: #202020;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .link {
@@ -64,14 +83,19 @@
   text-decoration: none;
 }
 
-.main:hover .panel {
-  display: flex;
+.system_container:hover {
+  background-color: #c20a0ae5;
 }
 
-.main:hover .arrow_open {
-  display: flex;
-}
-
-.main:hover .arrow_closed {
-  display: none;
+@media (max-width: 600px) {
+  .p {
+    width: 90%;
+    font-size: 13px;
+  }
+  .h3 {
+    font-size: 13px;
+  }
+  .h2 {
+    font-size: 11px;
+  }
 }
