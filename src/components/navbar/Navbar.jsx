@@ -27,7 +27,7 @@ export const Navbar = ({ setOpen, open }) => {
           <Link href="/research" className={styles.link}>
             PESQUISAS
           </Link>
-          <Link href="mackleaps/news" className={styles.link}>
+          <Link href="/news" className={styles.link}>
             NOTÍCIAS
           </Link>
           <Link href="/team" className={styles.link}>
