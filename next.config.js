@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  basePath: "/mackleaps", // Substitua '/subdominio' pelo seu basePath desejado
-  assetPrefix: "/mackleaps/",
-};
+const nextConfig = {};
 
-module.exports = nextConfig;
+const assetPrefix = "/carrossel/";
+
+module.exports = { ...nextConfig, assetPrefix };
