@@ -21,25 +21,25 @@ export const Navbar = ({ setOpen, open }) => {
           </Link>
         </div>
         <div className={styles.link_container}>
-          <Link href="/projects" className={styles.link}>
+          <Link href="/mackleaps/projects" className={styles.link}>
             PROJETOS
           </Link>
-          <Link href="/research" className={styles.link}>
+          <Link href="/mackleaps/research" className={styles.link}>
             PESQUISAS
           </Link>
-          <Link href="/news" className={styles.link}>
+          <Link href="/mackleaps/news" className={styles.link}>
             NOTÍCIAS
           </Link>
-          <Link href="/team" className={styles.link}>
+          <Link href="/mackleaps/team" className={styles.link}>
             EQUIPE
           </Link>
-          <Link href="/about" className={styles.link}>
+          <Link href="/mackleaps/about" className={styles.link}>
             SOBRE
           </Link>
-          <Link href="/systems" className={styles.link}>
+          <Link href="/mackleaps/systems" className={styles.link}>
             SISTEMAS
           </Link>
-          <Link href="/contact" className={styles.link}>
+          <Link href="/mackleaps/contact" className={styles.link}>
             CONTATO
           </Link>
           <img
