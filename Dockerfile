@@ -1,29 +1,23 @@
-# Estágio de construção
-FROM node:latest AS build
+# Uso de node:latest diretamente (sem estágio de construção separado)
 
-WORKDIR /usr/src/app
-
-COPY package.json ./
-
-
-RUN npm install --production
-
-COPY . .
-
-RUN npm run build
-
-# Estágio de produção
 FROM node:latest
 
 WORKDIR /usr/src/app
 
-COPY --from=build /usr/src/app/package.json ./
-COPY --from=build /usr/src/app/public ./public
-COPY --from=build /usr/src/app/.next ./.next
+# Copiar apenas os arquivos necessários para instalar as dependências
+COPY package*.json ./
 
+# Instalar dependências
+RUN npm install
 
-RUN npm install --production
+# Copiar todo o restante do código para o contêiner
+COPY . .
 
+# Executar o build
+RUN npm run build
+
+# Expor a porta em que o aplicativo está configurado para ouvir (se necessário)
 EXPOSE 3000
 
+# Comando para iniciar a aplicação
 CMD ["npm", "start"]
