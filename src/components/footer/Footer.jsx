@@ -121,7 +121,7 @@ export const Footer = () => {
           Endereço R. da Consolação, 930 - Consolação, São Paulo - SP - ( Prédio
           45 - Subsolo 2 )
         </p>
-        <p className={styles.address}>Telefone (11)2114-8000</p>
+        <p className={styles.address}>Telefone (11)2766-7764</p>
       </div>
     </div>
   );

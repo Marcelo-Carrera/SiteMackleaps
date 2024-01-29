@@ -36,9 +36,11 @@
   background: rgba(239, 239, 239, 0.79);
 }
 
+/*
 .image {
   width: 105px;
 }
+*/
 
 @media (max-width: 880px) {
   .h1 {
