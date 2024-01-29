@@ -7,6 +7,11 @@ WORKDIR /usr/src/app
 # Copiar apenas os arquivos necessários para instalar as dependências
 COPY package*.json ./
 
+
+#ENV proxy mackcloud
+ENV http_proxy http://mackcloud:cloud2019@172.16.50.1:8080
+ENV https_proxy http://mackcloud:cloud2019@172.16.50.1:8080
+
 # Instalar dependências
 RUN npm install
 
