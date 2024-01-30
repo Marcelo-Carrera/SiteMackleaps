@@ -6,7 +6,7 @@
 }
 .h1 {
   color: #e1001e;
-  font-size: 80px;
+  font-size: 50px;
   font-style: normal;
   font-weight: 800;
   line-height: 100%;
@@ -16,13 +16,14 @@
   display: flex;
 }
 .input {
-  width: 450px;
-  height: 51px;
+  width: 400px;
+  height: 45px;
   border: 1px solid #2f2f2f;
   border-radius: 15px;
-  font-size: 16px;
+  font-size: 14px;
   padding: 10px;
 }
+
 .search_btn {
   position: relative;
   right: 50px;
@@ -36,7 +37,7 @@
 
 .subtext {
   color: #000;
-  font-size: 24px;
+  font-size: 20px;
   font-style: normal;
   font-weight: 600;
   line-height: 110%;

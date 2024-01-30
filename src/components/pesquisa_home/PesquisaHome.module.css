@@ -1,8 +1,8 @@
 .main_container {
-  gap: 20px;
   display: flex;
+  gap: 20px;
   width: 55%;
-  height: 402px;
+  height: 390px;
   flex-shrink: 0;
   background-color: rgba(235, 237, 238, 0.9);
   border-radius: 30px;
@@ -10,7 +10,7 @@
 
 .h2 {
   color: #202020;
-  font-size: 40px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 800;
   line-height: 130%;
@@ -19,20 +19,22 @@
 
 .p {
   color: #2f2f2f;
-  font-size: 15px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 400;
   height: 75.012px;
-  width: 350px;
+  width: 300px;
   letter-spacing: 1pt;
   margin-bottom: 10px;
   flex-shrink: 0;
 }
 
 .text {
-  gap: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
   margin-left: 60px;
-  padding-top: 103px;
 }
 
 .setas {
@@ -59,31 +61,31 @@
   gap: 10px;
 }
 
-@media (max-width: 1200px){
-  .main_container{
+@media (max-width: 1200px) {
+  .main_container {
     gap: 0px;
-    height:500px;
+    height: 500px;
     justify-content: center;
     flex-wrap: wrap;
   }
-  .text{
+  .text {
     height: 230px;
     margin-left: 0px;
     padding-top: 50px;
     text-align: center;
   }
-  .p{
+  .p {
     margin-top: 10px;
   }
-  .content_container{
+  .content_container {
     margin-bottom: 40px;
   }
-  .link{
+  .link {
     align-items: center;
   }
 }
 
-@media(max-width: 700px){
+@media (max-width: 700px) {
   .h2 {
     font-size: 20px;
   }
@@ -92,8 +94,8 @@
   }
 }
 
-@media (max-width: 830px){
-  .main_container{
+@media (max-width: 830px) {
+  .main_container {
     width: 90%;
   }
   .h2 {

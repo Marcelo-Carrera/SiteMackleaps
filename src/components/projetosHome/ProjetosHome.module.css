@@ -20,7 +20,7 @@
 
 .h2 {
   color: #202020;
-  font-size: 40px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 800;
   line-height: 130%;
@@ -29,14 +29,14 @@
 
 .p {
   color: #202020;
-  font-size: 20px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   text-align: left;
 }
 
-@media(max-width: 830px){
-  .main_container{
+@media (max-width: 830px) {
+  .main_container {
     width: 90%;
   }
   .h2 {
@@ -48,7 +48,7 @@
   }
 }
 
-@media(max-width: 600px){
+@media (max-width: 600px) {
   .h2 {
     font-size: 18px;
   }

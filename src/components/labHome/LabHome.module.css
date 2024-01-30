@@ -11,9 +11,9 @@
 }
 
 .h2 {
-  width: 350px;
+  width: 300px;
   color: #202020;
-  font-size: 40px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 800;
   line-height: 130%;
@@ -34,15 +34,15 @@
   .h2 {
     width: 530px;
   }
-  .card_container{
+  .card_container {
     width: 100%;
     justify-content: center;
     gap: 35px;
   }
 }
 
-@media(max-width: 830px){
-  .labHome{
+@media (max-width: 830px) {
+  .labHome {
     width: 90%;
   }
   .card_container {
@@ -55,7 +55,7 @@
   }
 }
 
-@media(max-width: 600px){
+@media (max-width: 600px) {
   .h2 {
     font-size: 18px;
   }
@@ -63,9 +63,8 @@
     font-size: 15px;
     width: 350px;
   }
-  .card_container{
+  .card_container {
     justify-content: center;
     gap: 10px;
   }
 }
-

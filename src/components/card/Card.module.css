@@ -1,17 +1,17 @@
 .card_container {
   width: 55%;
-  height: 402px;
+  height: 390px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 20px;
+  gap: 18px;
   border-radius: 30px;
   background-color: #2e294e;
 }
 .h2 {
   color: #fff;
-  font-size: 50px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 800;
   line-height: 130%;
@@ -29,7 +29,7 @@
   letter-spacing: 1pt;
 }
 .btn_container {
-  margin-top: 25px;
+  margin-top: 20px;
   display: flex;
   gap: 20px;
 }
@@ -115,7 +115,7 @@
   }
 }
 
-@media(max-width: 560px){
+@media (max-width: 560px) {
   .h2 {
     font-size: 20px;
   }

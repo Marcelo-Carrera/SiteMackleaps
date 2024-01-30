@@ -15,7 +15,7 @@ export const Navbar = ({ setOpen, open }) => {
   return (
     <>
       <div className={styles.mainContainer}>
-        <div>
+        <div className={styles.linkLogo}>
           <Link href="/" className={styles.link}>
             <img src="/logo-mackleaps.png" alt="logo-mackleaps" />
           </Link>
