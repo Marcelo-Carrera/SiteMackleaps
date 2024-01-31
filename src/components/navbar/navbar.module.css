@@ -5,6 +5,10 @@
   justify-content: space-between;
 }
 
+.logoImage {
+  width: 60px;
+}
+
 .link_container {
   display: flex;
   align-items: center;
@@ -21,18 +25,18 @@
 }
 
 .link:hover {
-  opacity: 60%;
+  opacity: 70%;
   transition: 500ms;
 }
 
 .search_button {
-  width: 35px;
-  height: 35px;
+  width: 38px;
+  height: 38px;
   cursor: pointer;
 }
 
 .search_button:hover {
-  transform: scale(1.25);
+  transform: scale(1.2);
   transition: 300ms;
 }
 
