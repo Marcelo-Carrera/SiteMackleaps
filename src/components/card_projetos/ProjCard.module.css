@@ -1,7 +1,7 @@
 .main_container {
   display: flex;
   gap: 30px;
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 
 .card_img {
@@ -44,26 +44,26 @@
   line-height: 130%;
 }
 
-@media(max-width: 830px){
-  .card_img{
+@media (max-width: 830px) {
+  .card_img {
     width: 221px;
     height: 156px;
   }
 }
 
-@media(max-width: 500px){
-  .card_img{
+@media (max-width: 500px) {
+  .card_img {
     width: 161px;
     height: 109px;
   }
-  .card_text{
+  .card_text {
     gap: 10px;
   }
-  .title{
+  .title {
     font-size: 15px;
     width: 60%;
   }
-  .description{
+  .description {
     width: 85%;
   }
 }

@@ -15,8 +15,8 @@
   border-radius: 50%;
   background-color: #fdfbfb;
   display: flex;
-  width: 110px;
-  height: 110px;
+  width: 100px;
+  height: 100px;
   cursor: pointer;
   align-items: center;
   top: -35%;
@@ -24,7 +24,7 @@
 }
 
 .black_arrow {
-  width: 80px;
+  width: 75px;
 }
 
 @media (max-width: 880px) {
