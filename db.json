@@ -2,15 +2,15 @@
   "noticias_home": [
     {
       "img": "/escritorio.jpeg",
-      "date": "18 ago. 2023",
-      "title": "Karine choi e joão pedro trabalham duro em protótipo",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "date": "29 Jan. 2024",
+      "title": "Processo seletivo - Residência de Software",
+      "description": "Mais informações em breve!"
     },
     {
       "img": "/vr.jpeg",
       "date": "18 ago. 2023",
-      "title": "Karine choi e joão pedro trabalham duro em protótipo",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "title": "Inscrições para iniciação científica e tecnológica.",
+      "description": "Mais informações em breve!"
     }
   ],
   "pesquisa_home": [
@@ -196,6 +196,16 @@
         "<p>O PRSw-FCI/MackLeaps consiste na participação em um Roadmap de cinco módulos com foco na implementação de um projeto real de formatura que inclui: aulas teóricas e práticas de laboratório em equipe; construção de artefatos de software, relacionados ao projeto real em desenvolvimento; estudo de ferramentas tecnológicas de comunicação, colaboração e construção de artefatos; estudo e elaboração de Recursos Educacionais Digitais para o aprendizado de elementos integrantes dos módulos do Programa; avaliação do processo e da aprendizagem do trabalhado em cada módulo; dentre outros.</p>",
         "<p></p>"
       ]
+    },
+    {
+      "id": "2",
+      "img": "/code.jpeg",
+      "date": "29 Jan. 2024",
+      "author": "Administrador",
+      "author_img": "/author.jpeg",
+      "title": "Inscrições para iniciação científica e tecnológica.",
+      "description": "Mais informações em breve!",
+      "body": ["<p></p>", "<p></p>", "<p></p>", "<p></p>", "<p></p>", "<p></p>"]
     }
   ],
   "responsaveis": [
