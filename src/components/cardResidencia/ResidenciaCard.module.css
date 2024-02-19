@@ -1,0 +1,102 @@
+.mainCard {
+  width: 55%;
+  height: 390px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  border-radius: 30px;
+  background-color: #2e294e;
+}
+
+.leftDiv {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 18px;
+  padding-left: 40px;
+}
+
+.rightDiv {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+
+.h1 {
+  display: flex;
+  color: #fff;
+  font-size: 28px;
+  width: 350px;
+}
+
+.linkContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  background-color: #e1001e;
+  width: 120px;
+  height: 35px;
+  color: #fff;
+  border-radius: 9999px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 15px;
+  letter-spacing: 0.8pt;
+}
+
+.p {
+  display: flex;
+  font-size: 15px;
+  width: 300px;
+  color: #fff;
+}
+
+.image {
+  width: 230px;
+}
+
+.link:hover {
+  scale: 110%;
+  transition: 300ms;
+}
+
+@media (max-width: 1200px) {
+  .mainCard {
+    gap: 0px;
+    height: 500px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .p {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 700px) {
+  .h1 {
+    font-size: 20px;
+  }
+  .p {
+    width: 280px;
+  }
+}
+
+@media (max-width: 830px) {
+  .mainCard {
+    width: 90%;
+  }
+  .h1 {
+    font-size: 20px;
+  }
+  .p {
+    font-size: 12px;
+    width: 250px;
+  }
+}

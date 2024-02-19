@@ -21,9 +21,9 @@ function formatBodyText(bodyText) {
 
 export default async function Page({ params }) {
   const data = await getData(params.id);
-  const textoSemTags = data.body.map((paragrafo) =>
-    paragrafo.replace(/<\/?[^>]+(>|$)/g, "")
-  );
+  // const textoSemTags = data.body.map((paragrafo) =>
+  //   paragrafo.replace(/<\/?[^>]+(>|$)/g, "")
+  // );
 
   return (
     <div className={styles.main_div}>
@@ -46,9 +46,7 @@ export default async function Page({ params }) {
           >{`Escrito por ${data?.author} - ${data?.date}`}</h3>
         </section>
         <section className={styles.text_body}>
-          {textoSemTags.map((item) => (
-            <p>{item}</p>
-          ))}
+          <div dangerouslySetInnerHTML={data.body} className={styles.a}></div>
         </section>
       </main>
       <Relacionados />

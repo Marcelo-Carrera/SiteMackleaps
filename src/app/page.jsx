@@ -5,6 +5,7 @@ import { Card } from "@/components/card/Card";
 import { ProjetosHome } from "@/components/projetosHome/ProjetosHome";
 import { LabHome } from "@/components/labHome/LabHome";
 import { PesquisaHome } from "@/components/pesquisa_home/PesquisaHome";
+import { ResidenciaCard } from "@/components/cardResidencia/ResidenciaCard";
 import {
   getDbLatestNews,
   getDbLatestProjects,
@@ -21,6 +22,7 @@ export default async function Home() {
       <main className={styles.main}>
         <LabHome json={latest_news} />
         <ProjetosHome json={latest_projects} />
+        <ResidenciaCard />
         <PesquisaHome json={latest_studies} />
         <Card />
       </main>

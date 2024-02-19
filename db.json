@@ -186,26 +186,33 @@
       "date": "29 Jan. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
-      "title": "Processo seletivo - Residência de Software",
-      "description": "Mais informações em breve!",
-      "body": [
-        "<p>O Laboratório de Estudos de Ambientes de Produção de Software – MackLeaps/FCI/UPM criou em 2021 uma Residência de Software, com o objetivo de ampliar o potencial de aprendizado em Engenharia de Software e Interação Humano-Computador por meio de práticas conhecidas no mercado com PBL (Problem Based Learning) e CBL (Challenge Based Learning). </p>",
-        "<p>Tais práticas de ensino já conhecidas e adotadas em áreas como Saúde e Computação apresentam potencial para gerar engajamento de estudantes no desenvolvimento de habilidades denominadas Soft Skills, como Liderança, Empatia, Trabalho em Equipe, Engajamento, entre outros, e Hard Skills da Engenharia de Software como Métodos Ágeis, Desenvolvimento de Sistemas e Interação Humano-Computador, propiciando resultados melhores no processo do ensino e da aprendizagem nas áreas envolvidas.</p>",
-        "<p>O Programa de Residência de Software PRSw - FCI/MackLeaps tem por objetivo fomentar a capacitação profissional em Engenharia de Software e Interação Humano-Computador para atuação nas atividades de projeto, considerando os fatores humanos, implementação e testes em projetos de aplicações computacionais.</p>",
-        "<p>A Residência de Software é um processo que ocorre em uma abordagem prática, por meio de ambientes de imersão, pesquisa e colaboração, orientado por professores, em projetos reais, empresariais ou extensionistas, para promover maturidade nas práticas profissionais que o mercado demanda.</p>",
-        "<p>O PRSw-FCI/MackLeaps consiste na participação em um Roadmap de cinco módulos com foco na implementação de um projeto real de formatura que inclui: aulas teóricas e práticas de laboratório em equipe; construção de artefatos de software, relacionados ao projeto real em desenvolvimento; estudo de ferramentas tecnológicas de comunicação, colaboração e construção de artefatos; estudo e elaboração de Recursos Educacionais Digitais para o aprendizado de elementos integrantes dos módulos do Programa; avaliação do processo e da aprendizagem do trabalhado em cada módulo; dentre outros.</p>",
-        "<p></p>"
-      ]
+      "title": "Processo seletivo - Residência de Software (2024/1)",
+      "description": "Inscrições abertas 1o etapa - De 08 a 24 de fevereiro de 2024 ",
+      "body": {
+        "__html": "<p>O Programa de Residência de Software PRSw - FCI/MackLeaps tem por objetivo fomentar a capacitação profissional em Engenharia de Software e Interação Humano-Computador para atuação nas atividades de projeto, considerando os fatores humanos, implementação e testes em projetos de aplicações computacionais.</p><p>A Residência de Software é um processo que ocorre em uma abordagem prática, por meio de ambientes de imersão, pesquisa e colaboração, orientado por professores, em projetos reais, empresariais ou extensionistas, para promover maturidade nas práticas profissionais que o mercado demanda.</p><p>O PRSw-FCI/MackLeaps consiste na participação em um Roadmap de cinco módulos com foco na implementação de um projeto real de formatura que inclui: aulas teóricas e práticas de laboratório em equipe; construção de artefatos de software, relacionados ao projeto real em desenvolvimento; estudo de ferramentas tecnológicas de comunicação, colaboração e construção de artefatos; estudo e elaboração de Recursos Educacionais Digitais para o aprendizado de elementos integrantes dos módulos do Programa; avaliação do processo e da aprendizagem do trabalhado em cada módulo; dentre outros.</p><p>Além de participar de projetos reais, essa também é uma ótima oportunidade de obter horas de atividades complementares ou de extensão. Fique atento(a)!</p><p>Esta notícia visa comunicar a abertura do processo seletivo de 2024/1 para aqueles que se interessaram pelo projeto. Os(As) alunos(as) selecionados(as) nesta 1a etapa serão comunicados(as) por e-mail e convocados(as) para participar da 2a etapa que ocorrerá entre os dias 27 e 29 de fevereiro. Provavelmente, 28 de fevereiro das 14h às 17h (presencial/virtual). Marque na sua agenda! </p><p>O resultado dos(as) alunos(as) selecionados(as) será divulgado no site do MackLeaps (https://mackleaps.mackenzie.br/) no final do dia 01 de março. O início previsto das atividades será em 04 de março (segunda-feira) das 14h às 16h. Ficaremos felizes em receber novos residentes!</p><a href='https://forms.office.com/r/KZewd7xbpz' target='_blank'>Inscreva-se</a>"
+      }
     },
     {
       "id": "2",
+      "img": "/code.jpeg",
+      "date": "19 Fev. 2024",
+      "author": "Administrador",
+      "author_img": "/author.jpeg",
+      "title": "Edital - Residência de Software 2024/1",
+      "description": "Este Edital apresenta e divulga a 5ª edição do Programa de Residência de Software (PRSw - FCI/MackLeaps).",
+      "body": {
+        "__html": "<p>Este Edital apresenta e divulga a 5ª edição do Programa de Residência de Software (PRSw - FCI/MackLeaps) detalhando: aspectos inerentes a ele, etapas do processo seletivo, quantidade de vagas e outros.</p><p>O Laboratório de Estudos de Ambientes de Produção de Software – MackLeaps/FCI/UPM criou em 2021 uma Residência de Software, com o objetivo de ampliar o potencial de aprendizado em Engenharia de Software e Interação Humano-Computador por meio de práticas conhecidas no mercado com PBL (Problem Based Learning) e CBL (Challenge Based Learning).</p><p>Tais práticas de ensino já conhecidas e adotadas em áreas como Saúde e Computação apresentam potencial para gerar engajamento de estudantes no desenvolvimento de habilidades denominadas Soft Skills, como Liderança, Empatia, Trabalho em Equipe, Engajamento, entre outros, e Hard Skills da Engenharia de Software como Métodos Ágeis, Desenvolvimento de Sistemas e Interação Humano-Computador, propiciando resultados melhores no processo do ensino e da aprendizagem nas áreas envolvidas.</p><p>O Programa de Residência de Software PRSw - FCI/MackLeaps tem por objetivo fomentar a capacitação profissional em Engenharia de Software e Interação Humano-Computador para atuação nas atividades de projeto, considerando os fatores humanos, implementação e testes em projetos de aplicações computacionais.</p><p>A Residência de Software é um processo que ocorre em uma abordagem prática, por meio de ambientes de imersão, pesquisa e colaboração, orientado por professores, em projetos reais, empresariais ou extensionistas, para promover maturidade nas práticas profissionais que o mercado demanda.</p><p>Os alunos ingressantes na 4ª edição (2º semestre de 2023) tiveram a oportunidade de participar ativamente nas etapas DEV e DevOps (incluindo a realização de testes, T&D), ilustradas na Figura 1, envolvendo os projetos: Contador de gente, Estação Meteorológica, Sistema de Avaliação do Oriente e Website do MackLeaps. Os ingressantes nessa 5ª edição (1º semestre de 2024), terão a oportunidade de participar de novos projetos de empresas e instituições captados pelo MackLeaps e realizar a especificação de requisitos desses projetos, a etapa UXD (Figura 1), chegando até a implementação do seu front-end. O envolvimento dos alunos nesses projetos gera grande chance de estágios e trabalhos nesses locais.</p><p>O número de vagas desta edição está limitado a 15. A comissão de professores do Programa realizará a seleção dos candidatos por meio de entrevistas/dinâmicas ou outras atividades julgadas pertinentes, tendo como critérios: Interesse, motivação, disponibilidade, habilidade de comunicação oral e escrita, capacidade de colaboração e trabalho em equipe e algum conhecimento técnico.</p><p><a href='https://drive.google.com/file/d/1NGraA2V6GycaomLfm63mVuwazB8KtQY2/view?usp=drive_link' target='_blank'>Edital completo</a></p>"
+      }
+    },
+    {
+      "id": "3",
       "img": "/code.jpeg",
       "date": "15 Fev. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
       "title": "Inscrições para iniciação científica e tecnológica.",
       "description": "Mais informações em breve!",
-      "body": ["<p></p>", "<p></p>", "<p></p>", "<p></p>", "<p></p>", "<p></p>"]
+      "body": { "__html": "<p></p>" }
     }
   ],
   "responsaveis": [
