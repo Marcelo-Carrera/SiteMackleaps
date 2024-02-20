@@ -9,7 +9,7 @@ export const ResidenciaCard = () => {
           Processo seletivo - Residência de Software
         </h1>
         <p className={styles.p}>
-          Inscrições abertas 1o etapa - De 08 a 24 de fevereiro de 2024.
+          Inscrições abertas 1o etapa - De 15 a 25 de fevereiro de 2024.
         </p>
         <div className={styles.linkContainer}>
           <Link
