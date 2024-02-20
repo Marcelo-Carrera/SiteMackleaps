@@ -4,7 +4,7 @@ import styles from "./divider.module.css";
 export const Divider = () => {
   function scrollWind() {
     window.scroll({
-      top: 420,
+      top: 410,
       behavior: "smooth",
     });
   }

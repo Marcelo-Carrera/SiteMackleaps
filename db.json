@@ -2,9 +2,9 @@
   "noticias_home": [
     {
       "img": "/escritorio.jpeg",
-      "date": "29 Jan. 2024",
+      "date": "19 Fev. 2024",
       "title": "Processo seletivo - Residência de Software",
-      "description": "Mais informações em breve!"
+      "description": "Inscrições abertas 1o etapa - De 08 a 24 de fevereiro de 2024 "
     },
     {
       "img": "/vr.jpeg",
@@ -183,7 +183,7 @@
     {
       "id": "1",
       "img": "/code.jpeg",
-      "date": "29 Jan. 2024",
+      "date": "19 Fev. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
       "title": "Processo seletivo - Residência de Software (2024/1)",
