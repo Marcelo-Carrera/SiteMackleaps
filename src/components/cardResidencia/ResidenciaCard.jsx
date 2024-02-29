@@ -5,9 +5,7 @@ export const ResidenciaCard = () => {
   return (
     <div className={styles.mainCard}>
       <div className={styles.leftDiv}>
-        <h1 className={styles.h1}>
-          Processo seletivo - Residência de Software 2024/1
-        </h1>
+        <h1 className={styles.h1}>Resultado - Residência de Software 2024/1</h1>
         <p className={styles.p}>
           A segunda e última etapa ocorreu em 28 de fevereiro de 2024. Confira a
           lista de aprovados!
