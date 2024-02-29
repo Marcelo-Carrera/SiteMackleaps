@@ -6,34 +6,24 @@ export const ResidenciaCard = () => {
     <div className={styles.mainCard}>
       <div className={styles.leftDiv}>
         <h1 className={styles.h1}>
-          Processo seletivo - Residência de Software
+          Processo seletivo - Residência de Software 2024/1
         </h1>
         <p className={styles.p}>
-          Inscrições abertas 1o etapa - De 15 a 25 de fevereiro de 2024.
+          A segunda e última etapa ocorreu em 28 de fevereiro de 2024. Confira a
+          lista de aprovados!
         </p>
         <div className={styles.linkContainer}>
           <Link
-            href="https://forms.office.com/pages/responsepage.aspx?id=QJTaUV5Os0eOXEgX9vQ8BG6U3Qgo6QBKlzGqu2XWYdpUOVRSRVRDVkwxVEQwVFA1TEw4V1hKV0ZISiQlQCN0PWcu&origin=QRCode"
+            href="https://drive.google.com/file/d/125qd-rUlw5Xp7DIkhErfCFHXTdan_d67/view?usp=sharing"
             className={styles.link}
             target="_blank"
           >
-            Inscreva-se
-          </Link>
-          <Link
-            href="https://drive.google.com/file/d/1NGraA2V6GycaomLfm63mVuwazB8KtQY2/view?usp=sharing"
-            target="_blank"
-            className={styles.link}
-          >
-            Edital
+            Lista de aprovados
           </Link>
         </div>
       </div>
       <div className={styles.rightDiv}>
-        <img
-          src="/QRCode_inscricaoResidencia2.png"
-          alt="QRCode"
-          className={styles.image}
-        />
+        <img src="/aprovados.png" alt="QRCode" className={styles.image} />
       </div>
     </div>
   );

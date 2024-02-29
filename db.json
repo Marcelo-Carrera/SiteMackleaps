@@ -1,10 +1,10 @@
 {
   "noticias_home": [
     {
-      "img": "/escritorio.jpeg",
-      "date": "19 Fev. 2024",
-      "title": "Processo seletivo - Residência de Software",
-      "description": "Inscrições abertas 1o etapa - De 15 a 25 de fevereiro de 2024 "
+      "img": "/code.jpeg",
+      "date": "29 Fev. 2024",
+      "title": "Lista dos aprovados - Residência de Software (2024/1)",
+      "description": "Confira os alunos aprovados para ingressar na Residência de Software (2024/1)"
     },
     {
       "img": "/vr.jpeg",
@@ -183,6 +183,18 @@
     {
       "id": "1",
       "img": "/code.jpeg",
+      "date": "29 Fev. 2024",
+      "author": "Administrador",
+      "author_img": "/author.jpeg",
+      "title": "Lista dos aprovados - Residência de Software (2024/1)",
+      "description": "Confira os alunos aprovados para ingressar na Residência de Software (2024/1)",
+      "body": {
+        "__html": "<p>A segunda etapa (e etapa final) do processo seletivo da Residência de Software 2024/1 ocorreu no dia 28 de fevereiro de 2024. Esta notícia visa apresentar a lista dos alunos aprovados, será um prazer tê-los conosco! Atentem-se às informações abaixo que apresentam orientações sobre o primeiro dia de vocês na Residência:</p><br><p>Sejam bem-vindos ao laboratório MackLeaps!</p><br><p>O início das atividades na Residência de Software ocorrerá no dia 04 de março (Segunda-feira) das 14h às 15h30.</p><p>Aos aprovados dos cursos presenciais, aguardamos a sua presença no prédio 6 - sala 203. Aos aprovados dos cursos EAD, a reunião será via Teams e todos foram inseridos nesse evento, basta acessar o link no dia/horário informados acima.</p><br><p>Qualquer dúvida, entrar em contato com ivan.oliveira@mackenzie.br.</p><p>Equipe de Professores MackLeaps – Residência de Software</p><p>Coordenação: prof. Dr. Fábio Silva Lopes e profa. Dra. Maria Amélia Eliseo. </p><br><a href='https://drive.google.com/file/d/125qd-rUlw5Xp7DIkhErfCFHXTdan_d67/view?usp=sharing' target='_blank'>Confira a lista dos aprovados</a>"
+      }
+    },
+    {
+      "id": "2",
+      "img": "/code.jpeg",
       "date": "19 Fev. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
@@ -193,7 +205,7 @@
       }
     },
     {
-      "id": "2",
+      "id": "3",
       "img": "/code.jpeg",
       "date": "19 Fev. 2024",
       "author": "Administrador",
@@ -205,7 +217,7 @@
       }
     },
     {
-      "id": "3",
+      "id": "4",
       "img": "/code.jpeg",
       "date": "15 Fev. 2024",
       "author": "Administrador",
