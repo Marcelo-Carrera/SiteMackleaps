@@ -4,13 +4,13 @@
       "img": "/code.jpeg",
       "date": "13 Mar. 2024",
       "title": "Inscrições abertas - Iniciação Científica",
-      "description": "Inscreva-se das 8h do dia 06 de março de 2024 até às 20h do dia 15 de abril de 2024."
+      "description": "Inscreva-se das 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024."
     },
     {
-      "img": "/vr.jpeg",
+      "img": "/code.jpeg",
       "date": "13 Mar. 2024",
-      "title": "Edital - Iniciação Científica",
-      "description": "Este edital apresenta a chamada de propostas para a seleção de projetos no âmbito do Programa Institucional de Iniciação Científica."
+      "title": "Inscrições abertas - Iniciação Tecnológica",
+      "description": "Inscreva-se das 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024."
     }
   ],
   "pesquisa_home": [
@@ -187,9 +187,9 @@
       "author": "Administrador",
       "author_img": "/author.jpeg",
       "title": "Inscrições abertas - Iniciação Científica",
-      "description": "Inscreva-se das 8h do dia 06 de março de 2024 até às 20h do dia 15 de abril de 2024.",
+      "description": "Inscreva-se das 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024.",
       "body": {
-        "__html": "<p>As inscrições para o programa de Iniciação Científica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até às 20h do dia 15 de abril de 2024!</p><br><p><b>Documentos e inscrição:</b></p><br><p>1 - Preenchimento dos formulários de inscrição no sistema</p><br><p>2 - Projeto de pesquisa completo sem identificação dos autores, conforme template disponibilizado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>3 - Link do Currículo Lattes do aluno para ser consultado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>4 - Histórico acadêmico para discentes cursando a partir do 2o. semestre e comprovante dos componentes curriculares em curso para discentes do 1o. semestre;</p><br><p>5 - Anuência e aprovação do orientador, constando o respectivo link para o Currículo Lattes e identificação ORCID.</p><br><p><b>Inscreva-se como aluno:</b></p><a href='https://forms.office.com/r/cgLgYD0DRQ' target='_blank'>Inscrição aluno(a)</a><br><br><p><b>Inscreva-se como orientador:</b></p><a href='https://forms.office.com/r/qmrqZdCNPs' target='_blank'>Inscrição orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1gmVvhOqoHJ3KEeKZsB-cbYxtElOx4LXP/view?usp=drive_link' target='_blank'>Edital completo</a><br><br><p><b>Consulte a lista com a área de atuação dos orientadores:</b></p><a href='https://drive.google.com/file/d/1u8e79X2kmc1o2_Hkupa6Uia1wYY352Mn/view?usp=sharing' target='_blank'>Área de atuação</a>"
+        "__html": "<p>As inscrições para o programa de Iniciação Científica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024!</p><br><p><b>Documentos e inscrição:</b></p><br><p>1 - Preenchimento dos formulários de inscrição no sistema</p><br><p>2 - Projeto de pesquisa completo sem identificação dos autores, conforme template disponibilizado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>3 - Link do Currículo Lattes do aluno para ser consultado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>4 - Histórico acadêmico para discentes cursando a partir do 2o. semestre e comprovante dos componentes curriculares em curso para discentes do 1o. semestre;</p><br><p>5 - Anuência e aprovação do orientador, constando o respectivo link para o Currículo Lattes e identificação ORCID.</p><br><p><b>Inscreva-se como aluno:</b></p><a href='https://forms.office.com/r/cgLgYD0DRQ' target='_blank'>Inscrição aluno(a)</a><br><br><p><b>Inscreva-se como orientador:</b></p><a href='https://forms.office.com/r/qmrqZdCNPs' target='_blank'>Inscrição orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1gmVvhOqoHJ3KEeKZsB-cbYxtElOx4LXP/view?usp=drive_link' target='_blank'>Edital completo</a><br><br><p><b>Consulte a lista com as áreas de atuação dos orientadores:</b></p><a href='https://drive.google.com/file/d/1u8e79X2kmc1o2_Hkupa6Uia1wYY352Mn/view?usp=sharing' target='_blank'>Áreas de atuação</a>"
       }
     },
     {
@@ -207,6 +207,30 @@
     {
       "id": "3",
       "img": "/code.jpeg",
+      "date": "13 Mar. 2024",
+      "author": "Administrador",
+      "author_img": "/author.jpeg",
+      "title": "Inscrições abertas - Iniciação Tecnológica",
+      "description": "Inscreva-se das 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024.",
+      "body": {
+        "__html": "<p>As  inscrições para o programa de Iniciação Tecnológica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024!</p><br><p><b>Documentos:</b></p><br><p>1 - Projeto completo sem identificação dos autores</p><br><p>2 - Link do Currículo Lattes do orientador</p><br><p>3 - Link do Currículo Lattes do aluno</p><br><p>4 - Cópia digital do histórico escolar do aluno</p><br><p><b>Submeter projeto aluno(a):</b></p><a href='https://forms.office.com/r/Z161TR9NU0' target='_blank'>Submeter projeto aluno(a)</a><br><br><p><b>Submeter projeto orientador(a):</b></p><a href='https://forms.office.com/r/9jAFDfdgk9' target='_blank'>Submeter projeto orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1nC2L9pgD3cxmvk30phDluPfqO5gRqzFw/view?usp=sharing' target='_blank'>Edital completo</a><br>"
+      }
+    },
+    {
+      "id": "4",
+      "img": "/code.jpeg",
+      "date": "13 Mar. 2024",
+      "author": "Administrador",
+      "author_img": "/author.jpeg",
+      "title": "Edital - Iniciação Tecnológica",
+      "description": "Este edital apresenta a chamada de propostas para a seleção de projetos no âmbito do Programa Institucional de Iniciação Tecnológica e Inovação.",
+      "body": {
+        "__html": "<p>A Reitoria da Universidade Presbiteriana Mackenzie, por sua Coordenadoria de Inovação e Tecnologias (CIT), da Pró-Reitoria de Pesquisa e Pós-Graduação (PRPG), torna público o presente edital, para a abertura de inscrições, visando a seleção de projetos para o Programa Institucional de Bolsas de Iniciação Tecnológica e Inovação (PIBITI/PIVITI) Mackenzie e PIBITI CNPq.</p><br><p><b>Requisitos para os alunos: </b></p><br><p>1 - Ser aluno com matrícula regular em curso de graduação da Universidade  Presbiteriana Mackenzie e inscrito em disciplinas durante a vigência do Programa de Iniciação Tecnológica e Inovação;</p><br><p>2 - Ser aluno com matrícula regular em curso de graduação da Universidade Presbiteriana Mackenzie e inscrito em disciplinas durante a vigência do Programa de Iniciação Tecnológica e Inovação;</p><br><p>3 - Não acumular a bolsa de Iniciação Tecnológica com as bolsas de monitoria, extensão, iniciação científica e bolsa de pesquisa enquadrada em outras modalidades, oferecidas pela Universidade Presbiteriana Mackenzie, Fundo Mackenzie de Pesquisa;</p><br><p>4 - Não possuir grau de parentesco, em linha direta, com o orientador;</p><br><p>5 - Na condição de bolsista não é permitido possuir vínculo empregatício em regime CLT, possuir vínculo com serviço público (ser concursado), participar do programa Jovem Aprendiz ou exercer atividades como autônomo, gerando recebimento de renda;</p><br><p>6 - Caso o aluno possua vínculo empregatício, participação no Programa Jovem Aprendiz, trabalho autônomo ou esteja recebendo alguma modalidade de bolsa de pesquisa ou bolsa monitoria, ele poderá se inscrever como voluntário (Programa Institucional Voluntário de Iniciação Científica - PIVIC). Esse Programa, excluindo-se o pagamento da bolsa, oferece aos alunos os mesmos benefícios pertinentes ao PIBIC;</p><br><p>7 - Poderá ser concedida bolsa ao aluno que esteja em estágio obrigatório e estágio não obrigatório, desde que haja declaração conjunta da Unidade Acadêmica, do supervisor de estágio e do orientador da pesquisa, evidenciando que a realização do estágio não afetará sua dedicação às atividades acadêmicas e de pesquisa.</p><br><p><b>Requisitos para os orientadores: </b></p><br><p>1 - Ser docente e pesquisador vinculado às Unidades Acadêmicas da Universidade Presbiteriana Mackenzie;</p><br><p>2 - Possuir título de doutor ou mestre e regime de trabalho em tempo integral (PPI) ou parcial (PPP);</p><br><p>3 - Possuir produção científica, técnica ou artístico-cultural, dos últimos quatro anos, divulgada em periódicos científicos indexados relacionados à área de conhecimento na qual o docente atua. As informações de produtividade do orientador serão validadas a partir da consulta do respectivo currículo preenchido na Plataforma Lattes;</p><br><p>4 - Possuir Currículo Lattes atualizado no semestre em curso;</p><br><p>5 - O orientador deve ter no PDA disponibilidade de pesquisa para a orientação do projeto de Iniciação Tecnológica em questão;</p><br><p>6 - Não ter pendência originada em orientação anterior de Iniciação Científica, tais, como: relatórios em aberto, pareceres de desempenho dos seus orientandos e outras pertinentes ao processo.</p><br><a href='https://drive.google.com/file/d/1nC2L9pgD3cxmvk30phDluPfqO5gRqzFw/view?usp=sharing' target='_blank'>Edital completo</a>"
+      }
+    },
+    {
+      "id": "5",
+      "img": "/code.jpeg",
       "date": "29 Fev. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
@@ -217,7 +241,7 @@
       }
     },
     {
-      "id": "4",
+      "id": "6",
       "img": "/code.jpeg",
       "date": "19 Fev. 2024",
       "author": "Administrador",
@@ -229,7 +253,7 @@
       }
     },
     {
-      "id": "5",
+      "id": "7",
       "img": "/code.jpeg",
       "date": "19 Fev. 2024",
       "author": "Administrador",
@@ -317,22 +341,17 @@
   ],
   "colaboradores": [
     {
-      "img": "https://media.licdn.com/dms/image/D4D03AQHR9zRoqAs5ag/profile-displayphoto-shrink_800_800/0/1683133174208?e=1709769600&v=beta&t=UauI5yB-qrnLDfoOVGoK8-6qib2xAP9i0RUyZTWDGWQ",
+      "img": "/formerMembers/alvaro.jpg",
       "name": "Álvaro Hibide Claver",
       "role": "Estagiário"
     },
     {
-      "img": "https://avatars.githubusercontent.com/u/16262291?v=4",
-      "name": "Elieder Damasceno Sousa",
-      "role": "Laboratorista"
-    },
-    {
-      "img": "https://media.licdn.com/dms/image/D4D03AQHWKPF7QcWcWQ/profile-displayphoto-shrink_800_800/0/1695410478314?e=1709769600&v=beta&t=p4Q0B4UhKv7gp0jntk1Tc-9UYoY-jYFLWCAFoCNAw7g",
+      "img": "/formerMembers/erika.jpg",
       "name": "Erika Borges Piaui",
       "role": "Estagiário"
     },
     {
-      "img": "https://media.licdn.com/dms/image/D4D03AQFC3s8Jds3SzQ/profile-displayphoto-shrink_800_800/0/1672375336635?e=1709769600&v=beta&t=HKkseVG2F2ngOq6_9ed7Opoo10hiN-f06D_zu2fkfOs",
+      "img": "/formerMembers/gustavoGarabetti.jpg",
       "name": "Gustavo Garabetti Munhoz",
       "role": "Estagiário"
     },
@@ -344,7 +363,7 @@
   ],
   "excolaboradores": [
     {
-      "img": "https://media.licdn.com/dms/image/C4E03AQG0m-pnxryIXw/profile-displayphoto-shrink_800_800/0/1657127675166?e=1709769600&v=beta&t=ywjIVRCTMccbOBYC9GE26BgLOl7YFk63kDwUaqNqqZs",
+      "img": "/formerMembers/alanRicardo.jpg",
       "name": "Alan Ricardo",
       "date": "2019 a 2020"
     },
@@ -397,6 +416,11 @@
       "img": "/formerMembers/EduardoKobaiashi.png",
       "name": "Eduardo Kobaiashi",
       "date": ""
+    },
+    {
+      "img": "/formerMembers/elieder.jpg",
+      "name": "Elieder Damasceno Sousa",
+      "role": "Laboratorista"
     },
     {
       "img": "/formerMembers/ErickLopes.png",
@@ -479,7 +503,7 @@
       "date": "2019 a 2020"
     },
     {
-      "img": "https://media.licdn.com/dms/image/C4E03AQECTaP8sjBTyw/profile-displayphoto-shrink_800_800/0/1571866741900?e=1709769600&v=beta&t=aaFOSMQNxLdq57E0jSIRBOPL6g5u_UpQ0Nf-Y0y9LNk",
+      "img": "/formerMembers/semFoto.png",
       "name": "Leandro Soares Dantas",
       "date": ""
     },
@@ -499,7 +523,7 @@
       "date": ""
     },
     {
-      "img": "https://media.licdn.com/dms/image/C4E03AQG6Br7OvrJz1Q/profile-displayphoto-shrink_800_800/0/1598549518408?e=1709769600&v=beta&t=re8A62UzhQpHWyrsd_2POVcCKh4VSW_sgTM8rfFwhzw",
+      "img": "/formerMembers/lucasEllery.jpg",
       "name": "Lucas Ellery Viana",
       "date": "2022 a 2023"
     },
@@ -524,8 +548,8 @@
       "date": "2023"
     },
     {
-      "img": "https://media.licdn.com/dms/image/D4D03AQFs_o4RCRzm8w/profile-displayphoto-shrink_800_800/0/1694014951330?e=1709769600&v=beta&t=wizi1j9G4tGc2G76W2dFdU7qHHGdWm8D33_hVwI7LMY",
-      "name": "Mateus Gois",
+      "img": "/formerMembers/matheusGois.jpg",
+      "name": "Matheus Gois",
       "date": "2017 a 2019"
     },
     {
@@ -574,7 +598,7 @@
       "date": "2023"
     },
     {
-      "img": "https://media.licdn.com/dms/image/D4D03AQETsrbFiznSuw/profile-displayphoto-shrink_800_800/0/1689271693313?e=1709769600&v=beta&t=_BdQuoDLuxS_LmBUWwhHTOqkfCJPZRO4Ca41JYDAJlA",
+      "img": "/formerMembers/vitorRavacci.jpg",
       "name": "Vitor Ravacci",
       "date": ""
     },
@@ -584,6 +608,7 @@
       "date": "2018"
     }
   ],
+
   "related": [
     {
       "img": "/cloud.jpeg",
@@ -631,7 +656,12 @@
     {
       "title": "Estação Meteorológica",
       "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real. O sistema armazena os dados coletados em um banco de dados, oferecendo funções como filtrar e descargar os dados brutos para fim de análise.",
-      "link": "/"
+      "link": ""
+    },
+    {
+      "title": "Swagger",
+      "description": "",
+      "link": "https://mackleaps.mackenzie.br/meteorologiaapi-docs/#"
     }
   ]
 }
