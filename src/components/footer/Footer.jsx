@@ -104,8 +104,19 @@ export const Footer = () => {
           <Link href="/" target="_blank" className={styles.social_midias}>
             Contador de gente
           </Link>
-          <Link href="/" target="_blank" className={styles.social_midias}>
+          <Link
+            href="https://mackleaps.mackenzie.br/dashboard-estacao/"
+            target="_blank"
+            className={styles.social_midias}
+          >
             Estação meteorológica
+          </Link>
+          <Link
+            href="https://mackleaps.mackenzie.br/meteorologiaapi-docs/#"
+            target="_blank"
+            className={styles.social_midias}
+          >
+            API - Estação
           </Link>
         </div>
       </div>

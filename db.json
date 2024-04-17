@@ -346,6 +346,11 @@
       "role": "Estagiário"
     },
     {
+      "img": "/formerMembers/elieder.jpg",
+      "name": "Elieder Damasceno Sousa",
+      "role": "Laboratorista"
+    },
+    {
       "img": "/formerMembers/erika.jpg",
       "name": "Erika Borges Piaui",
       "role": "Estagiário"
@@ -416,11 +421,6 @@
       "img": "/formerMembers/EduardoKobaiashi.png",
       "name": "Eduardo Kobaiashi",
       "date": ""
-    },
-    {
-      "img": "/formerMembers/elieder.jpg",
-      "name": "Elieder Damasceno Sousa",
-      "role": "Laboratorista"
     },
     {
       "img": "/formerMembers/ErickLopes.png",
@@ -656,11 +656,11 @@
     {
       "title": "Estação Meteorológica",
       "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real. O sistema armazena os dados coletados em um banco de dados, oferecendo funções como filtrar e descargar os dados brutos para fim de análise.",
-      "link": ""
+      "link": "https://mackleaps.mackenzie.br/dashboard-estacao/"
     },
     {
-      "title": "Swagger",
-      "description": "",
+      "title": "API - Estação Meteorológica",
+      "description": "API para coleta e distribuição de dados meteorológicos das estações da Universidade Presbiteriana Mackenzie campus Higienópolis.",
       "link": "https://mackleaps.mackenzie.br/meteorologiaapi-docs/#"
     }
   ]
