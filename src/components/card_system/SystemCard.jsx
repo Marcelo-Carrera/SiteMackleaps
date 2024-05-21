@@ -18,8 +18,12 @@ export const SystemCard = ({
   return (
     <div className={styles.main}>
       <div
-        className={styles.system_container}
         onClick={() => setOpen(open != 1 ? 1 : 0)}
+        className={
+          open === 1
+            ? styles.system_containerAlternative
+            : styles.system_container
+        }
       >
         <h2 className={styles.h2}>{title}</h2>
         <img

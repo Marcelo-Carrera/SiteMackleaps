@@ -27,6 +27,18 @@
   border-radius: 5px;
 }
 
+.system_containerAlternative {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #c20a0ae5;
+  height: 40px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
 .arrow_closed {
   margin-right: 10px;
   width: 16px;
