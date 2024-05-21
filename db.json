@@ -3,7 +3,7 @@
     {
       "img": "/code.jpeg",
       "date": "09 Mai. 2024",
-      "title": "Inscrições encerradas - Iniciação Científica",
+      "title": "Inscrições abertas - Iniciação Científica",
       "description": ""
     },
     {
@@ -183,10 +183,10 @@
     {
       "id": "1",
       "img": "/code.jpeg",
-      "date": "09 Mai. 2024",
+      "date": "13 Mar. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
-      "title": "Inscrições encerradas - Iniciação Científica",
+      "title": "Inscrições Abertas - Iniciação Científica",
       "description": "",
       "body": {
         "__html": "<p>As inscrições para o programa de Iniciação Científica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024!</p><br><p><b>Documentos e inscrição:</b></p><br><p>1 - Preenchimento dos formulários de inscrição no sistema</p><br><p>2 - Projeto de pesquisa completo sem identificação dos autores, conforme template disponibilizado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>3 - Link do Currículo Lattes do aluno para ser consultado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>4 - Histórico acadêmico para discentes cursando a partir do 2o. semestre e comprovante dos componentes curriculares em curso para discentes do 1o. semestre;</p><br><p>5 - Anuência e aprovação do orientador, constando o respectivo link para o Currículo Lattes e identificação ORCID.</p><br><p><b>Inscreva-se como aluno:</b></p><a href='https://forms.office.com/r/cgLgYD0DRQ' target='_blank'>Inscrição aluno(a)</a><br><br><p><b>Inscreva-se como orientador:</b></p><a href='https://forms.office.com/r/qmrqZdCNPs' target='_blank'>Inscrição orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1gmVvhOqoHJ3KEeKZsB-cbYxtElOx4LXP/view?usp=drive_link' target='_blank'>Edital completo</a><br><br><p><b>Consulte a lista com as áreas de atuação dos orientadores:</b></p><a href='https://drive.google.com/file/d/1u8e79X2kmc1o2_Hkupa6Uia1wYY352Mn/view?usp=sharing' target='_blank'>Áreas de atuação</a>"
@@ -207,10 +207,10 @@
     {
       "id": "3",
       "img": "/code.jpeg",
-      "date": "09 Mai. 2024",
+      "date": "13 Mar. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
-      "title": "Inscrições encerradas - Iniciação Tecnológica",
+      "title": "Inscrições Abertas - Iniciação Tecnológica",
       "description": "",
       "body": {
         "__html": "<p>As  inscrições para o programa de Iniciação Tecnológica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024!</p><br><p><b>Documentos:</b></p><br><p>1 - Projeto completo sem identificação dos autores</p><br><p>2 - Link do Currículo Lattes do orientador</p><br><p>3 - Link do Currículo Lattes do aluno</p><br><p>4 - Cópia digital do histórico escolar do aluno</p><br><p><b>Submeter projeto aluno(a):</b></p><a href='https://forms.office.com/r/Z161TR9NU0' target='_blank'>Submeter projeto aluno(a)</a><br><br><p><b>Submeter projeto orientador(a):</b></p><a href='https://forms.office.com/r/9jAFDfdgk9' target='_blank'>Submeter projeto orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1nC2L9pgD3cxmvk30phDluPfqO5gRqzFw/view?usp=sharing' target='_blank'>Edital completo</a><br>"
@@ -629,39 +629,148 @@
 
   "sistemas": [
     {
-      "title": "Oriente",
-      "description": "O Oriente é um sistema de submissão/acompanhamento de TCC em que os professores são capazes de acompanhar o TCC de seus alunos e avaliar projetos de outros orientadores quando sua avaliação for solicitada. Em uma visão geral, o oriente permite uma melhor visualização para professores e alunos sobre seus TCC´s.",
+      "title": "Oriente 1.0",
+      "description": "O Oriente é um sistema de acompanhamento do processo de TCC (Trabalho de Conclusão de Curso) da FCI/Mackenzie, no qual alunos e professores interagem digitalmente e fazem a gestão de atividades envolvidas neste contexto. O sistema permite o cadastro de projetos de TCC, estabelece vínculos entre orientandos e orientadores, gerencia o agendamento de bancas e seções de pôsteres, além de permitir o registro das avaliações e comentários. O Oriente 1.0 permite uma melhor visualização e gestão do processo de cadastro de projetos de TCC para coordenadores, docentes e discentes sobre a produção de TCCs na FCI.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Maria Amélia Eliseo - Coordenador / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz / Jose Eduardo Bernardino Jorge / Lucas Ellery Viana",
+      "link": ""
+    },
+    {
+      "title": "Oriente 2.0",
+      "description": "O Oriente é um sistema de acompanhamento do processo de TCC (Trabalho de Conclusão de Curso) da FCI/Mackenzie, onde alunos e professores interagem digitalmente durante o processo. Na versão 2.0 o Laboratório MackLeaps propôs uma redesign da interface, melhorando os aspectos de usabilidade, responsividade e a experiência do usuário. Além disso, foram realizadas melhorias na arquitetura da aplicação, como refatoração, respeitando padrões de projeto e de orientação a microsserviços. Novas funcionalidades foram introduzidas como o agendamento de bancas, avaliações dos artigos e os documentos de participação nas avaliações.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Maria Amélia Eliseo - Coordenador / Ivan Carlos Alcantara de Oliveira / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
       "link": "https://mackleaps.mackenzie.br/oriente"
     },
     {
       "title": "GitBook",
       "description": "Os alunos do Programa de Residência de Software - MackLeaps são motivados a desenvolver conteúdos durante a execução dos projetos, na modalidade PBL. Os conteúdos disponibilizados são utilizados pelos novos residentes para ajudar no enfrentamento dos desafios ao longo do programa.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "",
       "link": "https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/"
     },
     {
       "title": "Redmine",
       "description": "É um sistema gerenciador de projetos baseados na web e ferramenta de gerenciamento de bugs. Ele contém calendário e gráficos de Gantt para ajudar na representação visual dos projetos e seus deadlines.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "",
       "link": "https://mackleaps.mackenzie.br/redmine"
     },
     {
-      "title": "Carrossel",
-      "description": "Aplicação responsável por controlar as imagens presentes na televisão que fica na entrada do prédio 31 (FCI) do campus Higienópolis da Universidade Presbiteriana Mackenzie. Tem como objetivo, a divulgação de projetos e eventos que ocorrem na universidade.",
+      "title": "Carrossel Informativo FCI",
+      "description": "Projeto certificado pela coordenadora Daniela Vieira Cunha em 08/05/2024.  Tem por objetivo o desenvolvimento de uma plataforma digital de comunicação para divulgação de Eventos e Atividades da FCI Faculdade de Computação e Informática, compreendendo tanto o módulo de visualização quanto o de gestão. A apresentação das informações é feita por uma aplicação do tipo carrossel executada em uma Smart TV localizada na entrada do Prédio da FCI Os conteúdos apresentados são visualizados diariamente por mais de 1300 pessoas, entre alunos, professores e outros acadêmicos transitam pelo local. Entre os informativos apresentados nesta mídia estão chamadas para palestras, treinamentos, eventos internos e externos, ações de recrutamento, divulgação de editais e projetos de pesquisa, além do dashboard com os dados ao vivo do projeto Estação Meteorológica Mackenzie. O módulo de gerenciamento do Carrossel é dado por uma aplicação web hospedada na MackCloud (ambiente em nuvem on-premise), permitindo fazer a gestão dos conteúdos com praticidade e agilidade.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Daniela Vieira Cunha - Coordenador / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Maria Amélia Eliseo / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz.",
       "link": "https://mackleaps.mackenzie.br/back-carrossel/"
     },
     {
+      "title": "Site Mackleaps",
+      "description": "O Laboratório MackLeaps (Laboratório de Estudos em Ambiente de Produção de Software) é a residência do grupo de pesquisa MackLeaps. Os pesquisadores associados desenvolvem projetos de software, de caráter aplicado, que integram conhecimentos das áreas de Engenharia de Software, Inteligência Artificial e Interação Humano-Computador. Assim há necessidade de registrar e difundir informações das atividades realizadas pelo grupo, tais como os projetos concluídos ou em andamento, as atividades realizadas pelo grupo de pesquisa e seu legado. O objetivo deste projeto foi a concepção e desenvolvimento de um website bilingue do Laboratório, que permita estabelecer uma identidade visual para o grupo, além de apesentar e gerenciar os conteúdos ligados ao MackLeaps.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo - Coordenador / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Marcilyanne Moreira Gois / Ivan Carlos Alcantara de Oliveira - Integrante / Alvaro Hibide Claver - Integrante / Erika Borges Piaui - Integrante / Gustavo Garabetti Munhoz - Integrante / Jose Eduardo Bernardino Jorge - Integrante / Lucas Ellery Viana / João Pedro Rodrigues Vieira / Pedro Henrique Araujo Farias.",
+      "link": "https://mackleaps.mackenzie.br/"
+    },
+    {
       "title": "Contador de gente",
-      "description": "Tem como objetivo a contagem do número de pessoas que entram nos prédios do campus universitário Higienópolis da Mackenzie. O sistema coletará e armazenará dados em um servidor local (ou em nuvem) e disponibilizará um dashboard por meio de uma aplicação web.",
-      "link": "/"
+      "description": "A segurança é um ponto de interesse para todos que vivem em aglomerados sociais. Entender fluxos e comportamentos de pessoas que transitam em espaços externos e internos pode contribuir com decisões mais assertivas neste contexto. Este projeto objetiva desenvolver uma ferramenta automática que, empregando técnicas de visão computacional e inteligência artificial, seja capaz de detectar e identificar pessoas em espaços típicos aos ambientes urbanos. Essa capacidade de diferenciar os indivíduos em relação aos demais elementos do ambiente é essencial a tarefas como a contagem de pessoas que circulam em prédios, análise de fluxo entre corredores e vias de uma exposição, preferências de circulação, assim como, identificar circulação em horários não convencionais, movimentação anômala e o humor de visitantes, entre outros. A plataforma implementa todas as etapas do pipeline de dados e as informações produzidos são disponibilizados em Dashboard apropriado para este contexto de aplicação. Todas as questões que envolvem a LGPD são consideradas pelo projeto.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / Daniela Vieira Cunha / Leandro Carlos Fernandes - Coordenador / Ivan Carlos Alcantara de Oliveira / Elieder Damasceno Sousa / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz / João Ricardo de Lima Bonifácio - Integrante / Jose Eduardo Bernardino Jorge / Bruno Seki Schenberg / Gabriel da Silva Morishita Garbi / Leonardo Santos Rocha.",
+      "link": ""
     },
     {
       "title": "Estação Meteorológica",
-      "description": "Aplicação que se comunica a uma estação meteorológica e seus sensores, coletando e manipulando dados climáticos em tempo real. O sistema armazena os dados coletados em um banco de dados, oferecendo funções como filtrar e descargar os dados brutos para fim de análise.",
+      "description": "No contexto das cidades resilientes, informações situacionais são essenciais para subsidiar a tomada de decisão, principalmente em eventos que o tempo é fator determinante para evitar consequências danosas a população que vive nos aglomerados suscetíveis impactos ambientais. Dados climáticos são fundamentais para contribuir na tomada de decisões mais assertivas, em tempo de evitar ou minimizar impactos negativos. Este projeto busca propor e desenvolver uma arquitetura computacional capaz de orquestrar ações de coleta, análise, divulgação e compartilhamento de dados climáticos oriundos das estações meteorológicas implantadas intra e extra campus da Universidade Presbiteriana Mackenzie, formando uma rede de sensores meteorológicos.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador / Maria Amélia Eliseo / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elieder Damasceno Sousa / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz / João Ricardo de Lima Bonifácio / Alan Gleizer / Marcelo Gonzatto Birkan",
       "link": "https://mackleaps.mackenzie.br/dashboard-estacao/"
     },
     {
       "title": "API - Estação Meteorológica",
       "description": "API para coleta e distribuição de dados meteorológicos das estações da Universidade Presbiteriana Mackenzie campus Higienópolis.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Eliseo, Maria Amélia / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
       "link": "https://mackleaps.mackenzie.br/meteorologiaapi-docs/#"
+    },
+    {
+      "title": "Mack-RAG - SAGUI",
+      "description": "SAGUI - Sistema de Auxílio a Gestão Universitária Inteligente. A Universidade dispõe de um compêndio de documentos que regem, regulamentam e normatizam as diversificadas atividades acadêmicas que envolvem sua comunidade nos âmbitos de ensino, pesquisa e extensão. Para os acadêmicos conhecerem ou mesmo buscarem por informações específicas em meio aos vários documentos e suas atualizações pode ser uma tarefa demorada e difícil. A proposta deste projeto é construir um sistema do tipo RAG (Retrieval-Augmented Generation) para auxiliar na comunicação acadêmica, capaz de informar sobre regras, determinações, prazos, responsabilidades e atividades no âmbito da universidade, através de uma interface mais amigável e de comunicação em linguagem natural.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Eliseo, Maria Amélia / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
+      "link": ""
+    },
+    {
+      "title": "Auditório Inteligente",
+      "description": "Projeto certificado pela coordenadora Daniela Vieira Cunha em 08/05/2024. Existem várias situações que podemos observar quando vamos a um evento. Iniciando com a divulgação do evento, a inscrição para uma vaga, as recomendações prévias como horário de chegada, se podemos consumir alimentos etc. Existem aplicativos que podem servir de referência como é o caso do Meet-up e o Sympla. Também temos auditórios físicos e virtuais. Como podemos melhorar a experiência dos usuários nos momentos que antecedem um evento? O objetivo deste projeto é estudar formas de melhorar a experiência do usuário no contexto de eventos utilizando recursos computacionais para esta finalidade.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha - Coordenador / Elisangela Botelho Gracias / Eliseo, Maria Amélia / Thiago Graziani Traue.",
+      "link": ""
+    },
+    {
+      "title": "Jardinagem Virtual Um Entreposto",
+      "description": "Projeto certificado pelo coordenador Ivan Carlos Alcântara de Oliveira em 26/04/2024. Este projeto é uma iniciativa de colaboração com a startup Um Entreposto e cuja parceria com o Laboratório se dá no desenvolvimento de novas funcionalidades para o e-commerce de itens de jardinagem desta empresa. Entre as características operacionais estão a identificação de plantas por meio de técnicas de Inteligência Artificial e a manutenção de um repositório de opções contendo, inclusive, alternativas para exemplares pesquisados.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Leandro Carlos Fernandes / Maria Amélia Eliseo/ Ivan Carlos Alcantara de Oliveira - Coordenador/ Luiz Carlos Machi Lozano",
+      "link": ""
+    },
+    {
+      "title": "Projeto APO-PPGCA",
+      "description": "Entre as demandas de um programa de pós-graduação stricto-sensu, as Atividades Programadas Obrigatórias (APO) figuram entre os requisitos necessários para a obtenção dos títulos de Mestre ou Doutor. O objetivo deste projeto é desenvolver uma aplicação capaz de gerenciar o processo de avaliação de APOs no âmbito do PPGCA/FCI/UPM e que servirá de test-bed para o estudo de padrões arquiteturais orientados a eventos que colaboram na definição de pilares de desenvolvimento dos produtos gerados na Residência de Software.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo - Coordenador / Alvaro Hibide Claver / Marcelo Hideki Ogushi Carrera",
+      "link": ""
+    },
+    {
+      "title": "Cockpit - Carro de eficiência energética para competição",
+      "description": "Projeto certificado pelo coordenador Fábio Raia em 26/04/2024. A Liga Estudantil do Carro Elétrico, vinculada ao curso de Engenharia Mecânica da Escola de Engenharia Mackenzie, dispõe de um veículo de tração elétrica e controle eletrônico próprio, construído sob um chassi tubular de alumínio e com carenagem em fibra de carbono. As atividades da Liga exploram as capacidades teóricas e práticas dos estudantes, em questões que envolvem tanto a concepção de soluções quanto a execução e testes de condicionamento. Nesse contexto, o objetivo deste projeto é colaborar com a Liga Estudantil do Carro Elétrico no desenvolvimento de um sistema embarcado que sirva como um cockpit para monitorar o estado do veículo e dar apoio a sua dirigibilidade.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes / Fabio Raia - Coordenador / Leandro Carlos Fernandes / Elieder Damasceno Sousa.",
+      "link": ""
+    },
+    {
+      "title": "Digital Twin Mackenzie Campus Higienópolis",
+      "description": "O termo Living Lab refere-se a uma abordagem de pesquisa que envolve a colaboração entre os usuários finais, pesquisadores e outras partes interessadas na criação, desenvolvimento e teste de soluções inovadoras para problemas do mundo real. A ideia é que o ambiente real seja usado como laboratório para testar ideias e soluções, em vez de um ambiente controlado de laboratório. Contudo, experimentos podem coletar dados do mundo real para inserir em um modelo digital que permite reproduzir simulações de eventos que são difíceis de reproduzir em ambiente real. Gêmeos Digitais (ou Digital Twins) são representações digitais de algo físico. Existem várias aplicações e vantagens de uso desta tecnologia que pode funcionar como um dashboard geográfico para monitorar, simular, avaliar, explorar ou prever eventos em cidades. Nesta perspectiva, o projeto objetiva desenvolver um Digital Twin do campus Higienópolis como plataforma base de apoio para experimentos de Living Labs, como plataforma interoperável, capaz de integrar dados de diversas aplicações voltadas para o campus, bem como, propiciar a implementação de novos experimentos com dependência da variável geográfica.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Maria Amélia Eliseo / Ivan Carlos Alcantara de Oliveira",
+      "link": ""
+    },
+    {
+      "title": "Living Lab Mackenzie",
+      "description": " Implementação de plataforma computacional para coleta, armazenamento e análise de dados de sensores para monitoramento de atividades em ambientes físicos.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador / Maria Amélia Eliseo / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Marcilyanne Moreira Gois / Bruno da Silva Rodrigues.",
+      "link": ""
+    },
+    {
+      "title": "Objetos de aprendizagem para apoio em práticas de residência de software MackLeaps",
+      "description": "Este projeto objetiva estruturar e implantar uma plataforma de aprendizagem para desenvolver níveis de maturidade dos alunos em habilidades da área de Engenharia de Software e Interação Humano-Computador, considerando a imersão em projetos reais oriundos de parcerias com organizações, de modo a promover o estudo, validação e avaliação de práticas e habilidades, bem como, da pesquisa com foco em melhoria de processos e produtos de software.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador / Maria Amélia Eliseo / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Regiane Moreno / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Marcilyanne Moreira Gois / Renata Maria Nogueira de Oliveira.",
+      "link": ""
+    },
+    {
+      "title": "Polos Varejistas de Rua de São Paulo",
+      "description": "A pesquisa objetiva conhecer os locais de concentração de varejo de rua, suas dinâmicas e a relação que estabelecem com a cidade. A partir do mapeamento de setores varejistas aponta polos e os classifica em 3 níveis vinculados por setor de atividade. O mapeamento conflui ao Banco de dados, procede análises e apresenta indicadores. A pesquisa intenciona metrificar índices de Urbanidade nos Polos de Varejo através de atributos de conectividade, diversidade e conforto.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / cassia regina mariano / Larissa G. Campagner / Cecilia Pisetta / Felipe Cavalheiro dos Anjos / Valter Luis Caldana Junior - Coordenador.",
+      "link": ""
     }
   ]
 }

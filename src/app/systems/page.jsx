@@ -16,6 +16,9 @@ export default async function Page() {
             <SystemCard
               title={elem.title}
               description={elem.description}
+              situation={elem.situation}
+              natureza={elem.natureza}
+              members={elem.members}
               link={elem.link}
               key={index}
             />

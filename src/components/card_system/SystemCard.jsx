@@ -5,7 +5,14 @@ import { AccessButton } from "@/components/accessButton/AccessButton";
 import { useState } from "react";
 import React from "react";
 
-export const SystemCard = ({ title, description, link }) => {
+export const SystemCard = ({
+  title,
+  description,
+  situation,
+  natureza,
+  members,
+  link,
+}) => {
   const [open, setOpen] = useState(0);
 
   return (
@@ -24,7 +31,14 @@ export const SystemCard = ({ title, description, link }) => {
       <div className={open === 1 ? styles.show : styles.panel}>
         <h3 className={styles.h3}>{title}</h3>
         <p className={styles.p}>{description}</p>
-        <Link href={link} className={styles.link} target="_blank">
+        <p className={styles.p}>{situation}</p>
+        <p className={styles.p}>{natureza}</p>
+        <p className={styles.p}>{members}</p>
+        <Link
+          href={link}
+          className={link === "" ? styles.linkNone : styles.link}
+          target="_blank"
+        >
           <AccessButton />
         </Link>
       </div>

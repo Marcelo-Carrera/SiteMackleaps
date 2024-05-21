@@ -78,7 +78,14 @@ export const Footer = () => {
             target="_blank"
             className={styles.social_midias}
           >
-            Oriente
+            Oriente 2.0
+          </Link>
+          <Link
+            href="https://mackleaps.mackenzie.br"
+            target="_blank"
+            className={styles.social_midias}
+          >
+            Site Mackleaps
           </Link>
           <Link
             href="https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/"
@@ -95,14 +102,11 @@ export const Footer = () => {
             Redmine
           </Link>
           <Link
-            href="https://mackleaps.mackenzie.br/carrossel"
+            href="https://mackleaps.mackenzie.br/back-carrossel/"
             target="_blank"
             className={styles.social_midias}
           >
             Carrossel
-          </Link>
-          <Link href="/" target="_blank" className={styles.social_midias}>
-            Contador de gente
           </Link>
           <Link
             href="https://mackleaps.mackenzie.br/dashboard-estacao/"
