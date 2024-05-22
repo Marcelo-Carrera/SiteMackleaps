@@ -20,6 +20,9 @@
   text-transform: uppercase;
 }
 
+.textMackleaps {
+  width: 250px;
+}
 .card_container {
   display: flex;
   gap: 20px;

@@ -2,14 +2,14 @@
   "noticias_home": [
     {
       "img": "/code.jpeg",
-      "date": "09 Mai. 2024",
-      "title": "Inscrições abertas - Iniciação Científica",
+      "date": "20 Mai. 2024",
+      "title": "Inscrições encerradas - Iniciação Científica",
       "description": ""
     },
     {
       "img": "/code.jpeg",
-      "date": "09 Mai. 2024",
-      "title": "Inscrições abertas - Iniciação Tecnológica",
+      "date": "20 Mai. 2024",
+      "title": "Inscrições encerradas - Iniciação Tecnológica",
       "description": ""
     }
   ],
@@ -183,10 +183,10 @@
     {
       "id": "1",
       "img": "/code.jpeg",
-      "date": "13 Mar. 2024",
+      "date": "20 Mai. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
-      "title": "Inscrições Abertas - Iniciação Científica",
+      "title": "Inscrições encerradas - Iniciação Científica",
       "description": "",
       "body": {
         "__html": "<p>As inscrições para o programa de Iniciação Científica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024!</p><br><p><b>Documentos e inscrição:</b></p><br><p>1 - Preenchimento dos formulários de inscrição no sistema</p><br><p>2 - Projeto de pesquisa completo sem identificação dos autores, conforme template disponibilizado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>3 - Link do Currículo Lattes do aluno para ser consultado pela Coordenadoria de Fomento à Pesquisa (CFP);</p><br><p>4 - Histórico acadêmico para discentes cursando a partir do 2o. semestre e comprovante dos componentes curriculares em curso para discentes do 1o. semestre;</p><br><p>5 - Anuência e aprovação do orientador, constando o respectivo link para o Currículo Lattes e identificação ORCID.</p><br><p><b>Inscreva-se como aluno:</b></p><a href='https://forms.office.com/r/cgLgYD0DRQ' target='_blank'>Inscrição aluno(a)</a><br><br><p><b>Inscreva-se como orientador:</b></p><a href='https://forms.office.com/r/qmrqZdCNPs' target='_blank'>Inscrição orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1gmVvhOqoHJ3KEeKZsB-cbYxtElOx4LXP/view?usp=drive_link' target='_blank'>Edital completo</a><br><br><p><b>Consulte a lista com as áreas de atuação dos orientadores:</b></p><a href='https://drive.google.com/file/d/1u8e79X2kmc1o2_Hkupa6Uia1wYY352Mn/view?usp=sharing' target='_blank'>Áreas de atuação</a>"
@@ -207,10 +207,10 @@
     {
       "id": "3",
       "img": "/code.jpeg",
-      "date": "13 Mar. 2024",
+      "date": "20 Mai. 2024",
       "author": "Administrador",
       "author_img": "/author.jpeg",
-      "title": "Inscrições Abertas - Iniciação Tecnológica",
+      "title": "Inscrições encerradas - Iniciação Tecnológica",
       "description": "",
       "body": {
         "__html": "<p>As  inscrições para o programa de Iniciação Tecnológica encontram-se abertas. Inscreva-se entre às 8h do dia 06 de março de 2024 até o dia 30 de abril de 2024!</p><br><p><b>Documentos:</b></p><br><p>1 - Projeto completo sem identificação dos autores</p><br><p>2 - Link do Currículo Lattes do orientador</p><br><p>3 - Link do Currículo Lattes do aluno</p><br><p>4 - Cópia digital do histórico escolar do aluno</p><br><p><b>Submeter projeto aluno(a):</b></p><a href='https://forms.office.com/r/Z161TR9NU0' target='_blank'>Submeter projeto aluno(a)</a><br><br><p><b>Submeter projeto orientador(a):</b></p><a href='https://forms.office.com/r/9jAFDfdgk9' target='_blank'>Submeter projeto orientador(a)</a><br><br><p><b>Para mais informações, leia o edital completo:</b></p><a href='https://drive.google.com/file/d/1nC2L9pgD3cxmvk30phDluPfqO5gRqzFw/view?usp=sharing' target='_blank'>Edital completo</a><br>"
@@ -638,7 +638,7 @@
     },
     {
       "title": "Oriente 2.0",
-      "description": "O Oriente é um sistema de acompanhamento do processo de TCC (Trabalho de Conclusão de Curso) da FCI/Mackenzie, onde alunos e professores interagem digitalmente durante o processo. Na versão 2.0 o Laboratório MackLeaps propôs uma redesign da interface, melhorando os aspectos de usabilidade, responsividade e a experiência do usuário. Além disso, foram realizadas melhorias na arquitetura da aplicação, como refatoração, respeitando padrões de projeto e de orientação a microsserviços. Novas funcionalidades foram introduzidas como o agendamento de bancas, avaliações dos artigos e os documentos de participação nas avaliações.",
+      "description": "O Oriente é um sistema de acompanhamento do processo de TCC (Trabalho de Conclusão de Curso) da FCI/Mackenzie, onde alunos e professores interagem digitalmente durante o processo. Na versão 2.0 o Laboratório MackLeaps propôs um redesign da interface, melhorando os aspectos de usabilidade, responsividade e a experiência do usuário. Além disso, foram realizadas melhorias na arquitetura da aplicação, como refatoração, respeitando padrões de projeto e de orientação a microsserviços. Novas funcionalidades foram introduzidas como o agendamento de bancas, avaliações dos artigos e os documentos de participação nas avaliações.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Desenvolvimento",
       "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Maria Amélia Eliseo - Coordenador / Ivan Carlos Alcantara de Oliveira / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
@@ -701,6 +701,14 @@
       "link": "https://mackleaps.mackenzie.br/meteorologiaapi-docs/#"
     },
     {
+      "title": "Polos Varejistas de Rua de São Paulo",
+      "description": "A pesquisa objetiva conhecer os locais de concentração de varejo de rua, suas dinâmicas e a relação que estabelecem com a cidade. A partir do mapeamento de setores varejistas aponta polos e os classifica em 3 níveis vinculados por setor de atividade. O mapeamento conflui ao Banco de dados, procede análises e apresenta indicadores. A pesquisa intenciona metrificar índices de Urbanidade nos Polos de Varejo através de atributos de conectividade, diversidade e conforto.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / Cassia Regina Mariano / Larissa G. Campagner / Cecilia Pisetta / Felipe Cavalheiro dos Anjos / Valter Luis Caldana Junior - Coordenador.",
+      "link": "https://mackleaps.mackenzie.br/acsp"
+    },
+    {
       "title": "Mack-RAG - SAGUI",
       "description": "SAGUI - Sistema de Auxílio a Gestão Universitária Inteligente. A Universidade dispõe de um compêndio de documentos que regem, regulamentam e normatizam as diversificadas atividades acadêmicas que envolvem sua comunidade nos âmbitos de ensino, pesquisa e extensão. Para os acadêmicos conhecerem ou mesmo buscarem por informações específicas em meio aos vários documentos e suas atualizações pode ser uma tarefa demorada e difícil. A proposta deste projeto é construir um sistema do tipo RAG (Retrieval-Augmented Generation) para auxiliar na comunicação acadêmica, capaz de informar sobre regras, determinações, prazos, responsabilidades e atividades no âmbito da universidade, através de uma interface mais amigável e de comunicação em linguagem natural.",
       "situation": "Situação: Em andamento",
@@ -741,6 +749,14 @@
       "link": ""
     },
     {
+      "title": "Sistema de Informação em Vigilância Sanitária",
+      "description": "Sistema de informação cuja finalidade é cadastrar os estabelecimentos alvo de atuação da vigilância sanitária no estado de São Paulo, bem como as inspeções sanitárias neles realizadas.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Desenvolvimento",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador",
+      "link": ""
+    },
+    {
       "title": "Digital Twin Mackenzie Campus Higienópolis",
       "description": "O termo Living Lab refere-se a uma abordagem de pesquisa que envolve a colaboração entre os usuários finais, pesquisadores e outras partes interessadas na criação, desenvolvimento e teste de soluções inovadoras para problemas do mundo real. A ideia é que o ambiente real seja usado como laboratório para testar ideias e soluções, em vez de um ambiente controlado de laboratório. Contudo, experimentos podem coletar dados do mundo real para inserir em um modelo digital que permite reproduzir simulações de eventos que são difíceis de reproduzir em ambiente real. Gêmeos Digitais (ou Digital Twins) são representações digitais de algo físico. Existem várias aplicações e vantagens de uso desta tecnologia que pode funcionar como um dashboard geográfico para monitorar, simular, avaliar, explorar ou prever eventos em cidades. Nesta perspectiva, o projeto objetiva desenvolver um Digital Twin do campus Higienópolis como plataforma base de apoio para experimentos de Living Labs, como plataforma interoperável, capaz de integrar dados de diversas aplicações voltadas para o campus, bem como, propiciar a implementação de novos experimentos com dependência da variável geográfica.",
       "situation": "Situação: Em andamento",
@@ -757,6 +773,14 @@
       "link": ""
     },
     {
+      "title": "Smart Campus",
+      "description": "Este é um estudo e implantação de sensores para medição, análise e geração de indicadores para tomada de decisão em um campus universitário. Como base de testes está sendo utilizado o campus Higienópolis da UPM. No momento estão sendo coletados dados ambientais, temperatura, umidade, CO2, velocidade do vento, entre outros, por meio de sensores, que geram uma massa de dados que é exportada para um repositório, que será utilizado como fonte de análises exploratórias e preditivas. Atualmente analisa-se a qualidade dos dados gerados e está se definindo a modelagem dos indicadores que serão calculados com base nos dados coletados.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador / Maria Amélia Eliseo / Ana Claudia Rossi / Daniela Vieira Cunha.",
+      "link": ""
+    },
+    {
       "title": "Objetos de aprendizagem para apoio em práticas de residência de software MackLeaps",
       "description": "Este projeto objetiva estruturar e implantar uma plataforma de aprendizagem para desenvolver níveis de maturidade dos alunos em habilidades da área de Engenharia de Software e Interação Humano-Computador, considerando a imersão em projetos reais oriundos de parcerias com organizações, de modo a promover o estudo, validação e avaliação de práticas e habilidades, bem como, da pesquisa com foco em melhoria de processos e produtos de software.",
       "situation": "Situação: Concluído",
@@ -765,11 +789,59 @@
       "link": ""
     },
     {
-      "title": "Polos Varejistas de Rua de São Paulo",
-      "description": "A pesquisa objetiva conhecer os locais de concentração de varejo de rua, suas dinâmicas e a relação que estabelecem com a cidade. A partir do mapeamento de setores varejistas aponta polos e os classifica em 3 níveis vinculados por setor de atividade. O mapeamento conflui ao Banco de dados, procede análises e apresenta indicadores. A pesquisa intenciona metrificar índices de Urbanidade nos Polos de Varejo através de atributos de conectividade, diversidade e conforto.",
+      "title": "Criação de Índice de Sustentabilidade Mackenzie-FIESP",
+      "description": "O problema de pesquisa proposto é a Criação do Índice de Sustentabilidade Mackenzie-FIESP, em uma parceria entre a Universidade Presbiteriana Mackenzie e a Federação das Indústrias do Estado de São Paulo - FIESP. O objetivo da pesquisa é a criação de um índice de sustentabilidade que permita identificar o resultado de ações empresariais voltadas para a mitigação de impactos sociais e ambientais de suas atividades. O índice sustentabilidade será composto por indicadores econômicos, ambientais, sociais e de governança (econômicos + Environmental, Social and Governance / ESG) e servirá como instrumento de medida para as empresas identificarem, projetarem, avaliarem e tomarem decisões em relação às suas práticas sustentáveis. Com apoio de uma fundamentação teórica, e com base nas diretrizes do Global Reporting Initiative (GRI), o Índice Mackenzie-FIESP poderá ter reconhecimento internacional, e assim servir de base para políticas governamentais orientadas às boas práticas de sustentabilidade. Em termos de objetivos específicos, as fases abaixo estão em andamento (algumas já concluídas): 1. Desenvolvimento de uma fundamentação teórica/prática para implementação do projeto; 2. Construção de uma base de dados econômicos, ambientais, sociais e de governança das empresas brasileiras em parceria com a FIESP (coleta e transferência de dados). Estes dados deverão ser coletados, tratados e preparados para armazenamento em um repositório, onde estarão disponíveis para serem submetidos a análises exploratórias; 3. Quantificação de indicadores econômicos, ambientais, sociais e de governança, fundamentados na base de dados gerada no passo 2; 4. Operacionalização de um sistema de indicadores de sustentabilidade de forma que possa ficar disponível para consulta pelas empresas participantes; 5. Desenvolvimento de painéis que permitam a simulação de cenários, de forma que as empresas participantes possam testar alternativas de alterações em seus indicadores, de modo a subsidiar suas decisões na busca de novos patamares para seus próprios índices de sustentabilidade. Este é um projeto interdisciplinar em parceria com o Centro de Ciências Sociais e Aplicadas.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Arnaldo Rabello de Aguiar Vallim Filho - Coordenador / Leandro Augusto da Silva / Luis Carlos Jacob Perera.",
+      "link": ""
+    },
+    {
+      "title": "Análise Preditiva Baseada em Inteligência para Sistemas Supervisórios de Usinas Hidrelétricas",
+      "description": "O Objetivo Geral deste projeto de P&D é o planejamento e desenvolvimento de um experimento de pesquisa voltado para a construção de uma modelagem matemática que possibilite estabelecer novos parâmetros e métricas de operação e manutenção para usinas hidrelétricas com lagos de reserva, buscando o ponto ótimo operacional, considerando o volume de água dos reservatórios para consumo humano, sustentabilidade ambiental, geração e disponibilidade de energia, através de modelos matemático-computacionais preditivos avançados. O produto final da pesquisa será um protótipo de uma ferramenta computacional preditiva de incidentes, voltada para a otimização do processo de programação de manutenção de turbinas. A modelagem preditiva estará suportada por técnicas avançadas de Inteligência Artificial e será implementada computacionalmente, de forma que esteja ao final do projeto avaliada em ambiente de testes, tendo demonstrado uma adequada evolução em termos de desempenho da modelagem desenvolvida.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Arnaldo Rabello de Aguiar Vallim Filho - Coordenador / Leandro Augusto da Silva / Dirceu Matheus Junior / Orlando Bisacchi Coelho / Jamilson Bispo dos Santos / Eduardo Mayer Fagundes.",
+      "link": ""
+    },
+    {
+      "title": "Avaliação do Equilíbrio Postural de Seres Humanos",
+      "description": "Promove a avaliação do equilíbrio corporal por meio de uma plataforma de força de baixo custo. A manutenção do equilíbrio corporal durante a postura ereta é considerada uma tarefa complexa do ponto de vista do controle motor, além de se tratar de uma das mais importantes habilidades motoras para seres humanos executarem atividades cotidianas. Controlar o equilíbrio em atividades como andar, subir escadas, correr ou simplesmente permanecer em pé, leva a necessidade de modificações constantes nos padrões de movimento que variam entre gênero. O presente estudo pretende confeccionar uma plataforma de força, para avaliação do equilíbrio, com materiais de baixo custo e que sejam disponíveis no mercado nacional. Após o desenvolvimento do equipamento, pretende-se realizar testes iniciais para verificação do funcionamento adequado da plataforma, por meio da avaliação do equilíbrio postural de jovens.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Ana Claudia Rossi / Silvana Maria Blascovi de Assis / Fabio Raia - Coordenador / Denise Loureiro Viana / Fernanda Simeão Costa / Julia Camargo Marcondes dos Santos / Rosangela Gumaraes Romano / Janina Mazieri Prado Rico / Bianca de Mello Pires / Raquel Cymrot / Gabriel Melo Francisco Correia",
+      "link": ""
+    },
+    {
+      "title": "Otimização de Dirigibilidade e Monitoramento de um protótipo de Veículo Elétrico",
+      "description": "Este é um projeto em parceria com a Escola de Engenharia que desenvolve um protótipo de veículo elétrico, que já vem inclusive, atuando em competições ao redor do mundo. A participação da área de computação, envolvendo um docente deste programa de mestrado diz respeito ao estudo para implantação de sensores no veículo visando a obtenção de dados que permitam otimizar a dirigibilidade do veículo. De modo complementar estão sendo coletados dados para geração e análise de indicadores elétricos para monitoramento contínuo do veículo elétrico.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Ana Claudia Rossi / Fabio Raia - Coordenador.",
+      "link": ""
+    },
+    {
+      "title": "Estudo sobre Evasão de Alunos em Cursos de Nível Superior",
+      "description": "Este projeto objetiva estudar os diversos aspectos que impactam na vida acadêmica dos alunos de graduação, englobando os motivadores de evasão.",
+      "situation": "Situação: Concluído",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes - Coordenador / Argemiro Severiano",
+      "link": ""
+    },
+    {
+      "title": "Documentação digital do patrimônio",
+      "description": "Documentação digital do patrimônio: Um modelo tridimensional e temporal para o campus Mack-Itambé. Esta pesquisa tem por objetivo o desenvolvimento e implementação de um modelo tridimensional associado a um banco de dados com características espaço-temporal para o campus Mackenzie Itambé, delimitado aos prédios 1-Edifício Mackenzie e 2-Biblioteca George Alexander possibilitando navegação por espaços, bem como, acesso a informações relacionadas com a transformação destes edifícios através do tempo.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Pesquisa",
-      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / cassia regina mariano / Larissa G. Campagner / Cecilia Pisetta / Felipe Cavalheiro dos Anjos / Valter Luis Caldana Junior - Coordenador.",
+      "members": "Integrantes: Fábio Silva Lopes - Integrante / Maria Amélia Eliseo - Integrante / Ismar Frango da Silveira - Coordenador / Beatriz de Almeida Pacheco.",
+      "link": ""
+    },
+    {
+      "title": "IntegraEPI",
+      "description": "A proposta deste projeto de pesquisa é contribuir para a modernização do sistema de vigilância epidemiológica, com ênfase na melhoria da qualidade da informação, comparando resultados de simulações detalhadas com o padrão experimental observado para o espalhamento de uma epidemia, tanto temporal como geográfico, através do desenvolvimento de algoritmos e software interativos que utilizam modelos preditivos do comportamento espaço-temporais de epidemiologia em ambiente de grid computacional.",
+      "situation": "Situação: Em andamento",
+      "natureza": "Natureza: Pesquisa",
+      "members": "Integrantes: Fábio Silva Lopes / Denise Stringhini / Hermes Senger / Fabricio Alves Barbosa da Silva - Coordenador.",
       "link": ""
     }
   ]
