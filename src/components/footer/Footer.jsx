@@ -106,7 +106,7 @@ export const Footer = () => {
             target="_blank"
             className={styles.social_midias}
           >
-            Carrossel
+            Carrossel Informativo FCI
           </Link>
           <Link
             href="https://mackleaps.mackenzie.br/dashboard-estacao/"

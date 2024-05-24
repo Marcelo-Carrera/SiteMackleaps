@@ -673,7 +673,7 @@
       "description": "O Laboratório MackLeaps (Laboratório de Estudos em Ambiente de Produção de Software) é a residência do grupo de pesquisa MackLeaps. Os pesquisadores associados desenvolvem projetos de software, de caráter aplicado, que integram conhecimentos das áreas de Engenharia de Software, Inteligência Artificial e Interação Humano-Computador. Assim há necessidade de registrar e difundir informações das atividades realizadas pelo grupo, tais como os projetos concluídos ou em andamento, as atividades realizadas pelo grupo de pesquisa e seu legado. O objetivo deste projeto foi a concepção e desenvolvimento de um website bilingue do Laboratório, que permita estabelecer uma identidade visual para o grupo, além de apesentar e gerenciar os conteúdos ligados ao MackLeaps.",
       "situation": "Situação: Concluído",
       "natureza": "Natureza: Desenvolvimento",
-      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo - Coordenador / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Marcilyanne Moreira Gois / Ivan Carlos Alcantara de Oliveira - Integrante / Alvaro Hibide Claver - Integrante / Erika Borges Piaui - Integrante / Gustavo Garabetti Munhoz - Integrante / Jose Eduardo Bernardino Jorge - Integrante / Lucas Ellery Viana / João Pedro Rodrigues Vieira / Pedro Henrique Araujo Farias.",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo - Coordenador / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Marcilyanne Moreira Gois / Ivan Carlos Alcantara de Oliveira / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz / Jose Eduardo Bernardino Jorge / Lucas Ellery Viana / João Pedro Rodrigues Vieira / Pedro Henrique Araujo Farias.",
       "link": "https://mackleaps.mackenzie.br/"
     },
     {
@@ -697,7 +697,7 @@
       "description": "API para coleta e distribuição de dados meteorológicos das estações da Universidade Presbiteriana Mackenzie campus Higienópolis.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Desenvolvimento",
-      "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Eliseo, Maria Amélia / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
+      "members": "",
       "link": "https://mackleaps.mackenzie.br/meteorologiaapi-docs/#"
     },
     {
@@ -713,7 +713,7 @@
       "description": "SAGUI - Sistema de Auxílio a Gestão Universitária Inteligente. A Universidade dispõe de um compêndio de documentos que regem, regulamentam e normatizam as diversificadas atividades acadêmicas que envolvem sua comunidade nos âmbitos de ensino, pesquisa e extensão. Para os acadêmicos conhecerem ou mesmo buscarem por informações específicas em meio aos vários documentos e suas atualizações pode ser uma tarefa demorada e difícil. A proposta deste projeto é construir um sistema do tipo RAG (Retrieval-Augmented Generation) para auxiliar na comunicação acadêmica, capaz de informar sobre regras, determinações, prazos, responsabilidades e atividades no âmbito da universidade, através de uma interface mais amigável e de comunicação em linguagem natural.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Desenvolvimento",
-      "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes / Elisangela Botelho Gracias / Eliseo, Maria Amélia / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
+      "members": "Integrantes: Fábio Silva Lopes / Dirceu Matheus Junior / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha / Ivan Carlos Alcantara de Oliveira / Leandro Carlos Fernandes - Coordenador / Elisangela Botelho Gracias / Maria Amélia Eliseo / Luiz Carlos Machi Lozano / Thiago Graziani Traue.",
       "link": ""
     },
     {
@@ -721,7 +721,7 @@
       "description": "Projeto certificado pela coordenadora Daniela Vieira Cunha em 08/05/2024. Existem várias situações que podemos observar quando vamos a um evento. Iniciando com a divulgação do evento, a inscrição para uma vaga, as recomendações prévias como horário de chegada, se podemos consumir alimentos etc. Existem aplicativos que podem servir de referência como é o caso do Meet-up e o Sympla. Também temos auditórios físicos e virtuais. Como podemos melhorar a experiência dos usuários nos momentos que antecedem um evento? O objetivo deste projeto é estudar formas de melhorar a experiência do usuário no contexto de eventos utilizando recursos computacionais para esta finalidade.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Desenvolvimento",
-      "members": "Integrantes: Fábio Silva Lopes / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha - Coordenador / Elisangela Botelho Gracias / Eliseo, Maria Amélia / Thiago Graziani Traue.",
+      "members": "Integrantes: Fábio Silva Lopes / Kassya Christina Rigolon de Andrade / Daniela Vieira Cunha - Coordenador / Elisangela Botelho Gracias / Maria Amélia Eliseo / Thiago Graziani Traue.",
       "link": ""
     },
     {
@@ -833,7 +833,7 @@
       "description": "Documentação digital do patrimônio: Um modelo tridimensional e temporal para o campus Mack-Itambé. Esta pesquisa tem por objetivo o desenvolvimento e implementação de um modelo tridimensional associado a um banco de dados com características espaço-temporal para o campus Mackenzie Itambé, delimitado aos prédios 1-Edifício Mackenzie e 2-Biblioteca George Alexander possibilitando navegação por espaços, bem como, acesso a informações relacionadas com a transformação destes edifícios através do tempo.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Pesquisa",
-      "members": "Integrantes: Fábio Silva Lopes - Integrante / Maria Amélia Eliseo - Integrante / Ismar Frango da Silveira - Coordenador / Beatriz de Almeida Pacheco.",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / Ismar Frango da Silveira - Coordenador / Beatriz de Almeida Pacheco.",
       "link": ""
     },
     {
