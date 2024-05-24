@@ -681,7 +681,7 @@
       "description": "A segurança é um ponto de interesse para todos que vivem em aglomerados sociais. Entender fluxos e comportamentos de pessoas que transitam em espaços externos e internos pode contribuir com decisões mais assertivas neste contexto. Este projeto objetiva desenvolver uma ferramenta automática que, empregando técnicas de visão computacional e inteligência artificial, seja capaz de detectar e identificar pessoas em espaços típicos aos ambientes urbanos. Essa capacidade de diferenciar os indivíduos em relação aos demais elementos do ambiente é essencial a tarefas como a contagem de pessoas que circulam em prédios, análise de fluxo entre corredores e vias de uma exposição, preferências de circulação, assim como, identificar circulação em horários não convencionais, movimentação anômala e o humor de visitantes, entre outros. A plataforma implementa todas as etapas do pipeline de dados e as informações produzidos são disponibilizados em Dashboard apropriado para este contexto de aplicação. Todas as questões que envolvem a LGPD são consideradas pelo projeto.",
       "situation": "Situação: Em andamento",
       "natureza": "Natureza: Pesquisa",
-      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / Daniela Vieira Cunha / Leandro Carlos Fernandes - Coordenador / Ivan Carlos Alcantara de Oliveira / Elieder Damasceno Sousa / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz / João Ricardo de Lima Bonifácio - Integrante / Jose Eduardo Bernardino Jorge / Bruno Seki Schenberg / Gabriel da Silva Morishita Garbi / Leonardo Santos Rocha.",
+      "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo / Daniela Vieira Cunha / Leandro Carlos Fernandes - Coordenador / Ivan Carlos Alcantara de Oliveira / Elieder Damasceno Sousa / Alvaro Hibide Claver / Erika Borges Piaui / Gustavo Garabetti Munhoz / João Ricardo de Lima Bonifácio / Jose Eduardo Bernardino Jorge / Bruno Seki Schenberg / Gabriel da Silva Morishita Garbi / Leonardo Santos Rocha.",
       "link": ""
     },
     {
@@ -736,7 +736,7 @@
       "title": "Projeto APO-PPGCA",
       "description": "Entre as demandas de um programa de pós-graduação stricto-sensu, as Atividades Programadas Obrigatórias (APO) figuram entre os requisitos necessários para a obtenção dos títulos de Mestre ou Doutor. O objetivo deste projeto é desenvolver uma aplicação capaz de gerenciar o processo de avaliação de APOs no âmbito do PPGCA/FCI/UPM e que servirá de test-bed para o estudo de padrões arquiteturais orientados a eventos que colaboram na definição de pilares de desenvolvimento dos produtos gerados na Residência de Software.",
       "situation": "Situação: Em andamento",
-      "natureza": "Natureza: Desenvolvimento",
+      "natureza": "",
       "members": "Integrantes: Fábio Silva Lopes / Maria Amélia Eliseo - Coordenador / Alvaro Hibide Claver / Marcelo Hideki Ogushi Carrera",
       "link": ""
     },
